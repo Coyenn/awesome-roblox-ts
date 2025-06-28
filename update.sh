@@ -16,8 +16,8 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 
 EOF
 
-# Fetch all packages using npm search and format them
-npm search @rbxts --json --searchlimit 9999 | jq -r '.[] | "- [`\(.name)`](https://www.npmjs.com/package/\(.name | @uri)) - \(.description // "" | gsub("[\\r\\n]+"; " "))"' | sed 's/<[^>]*>//g' | sed -E 's/!\[[^]]*]\([^)]*\)//g' | sed -E 's/\[]\(([^)]*)\)//g' | sed -E 's/`{3,}.*`{3,}|`{3,}.*//g' | sed 's/ - *$//' | sort >> "$README_TMP"
+# Fetch all packages and their descriptions in parallel
+npm access list packages @rbxts | sed 's/:.*//' | xargs -P 16 -I {} sh -c "npm view '{}' name description --json 2>/dev/null || true" | jq -s 'map(select(type == "object" and .name)) | sort_by(.name) | .[] | "- [\(.name)](https://www.npmjs.com/package/\(.name)) - \(.description)"' | sed 's/"//g' | sed 's/<[^>]*>//g' | sed -E 's/!\[[^]]*]\([^)]*\)//g' | sed -E 's/\[]\(([^)]*)\)//g' | sed -E 's/`{3,}.*`{3,}|`{3,}.*//g' | sed 's/ - *$//' >> "$README_TMP"
 
 # Replace the old README with the new one
 mv "$README_TMP" "README.md"
