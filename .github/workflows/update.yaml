@@ -20,11 +20,8 @@ jobs:
       - name: Check flake
         run: nix flake check
 
-      - name: Enter dev shell
-        run: nix develop
-
       - name: Run update script
-        run: lune update.luau
+        run: nix develop --command lune run update.luau
 
       - name: Commit changes
         run: |
