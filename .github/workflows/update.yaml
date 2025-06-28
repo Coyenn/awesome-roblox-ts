@@ -12,18 +12,16 @@ jobs:
       contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+      
+      - name: Install Nix
+        uses: cachix/install-nix-action@v31
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Setup jq
-        run: sudo apt-get install -y jq
+      - name: Check flake
+        run: nix flake check
 
       - name: Run update script
-        run: ./update.sh
+        run: lune update.luau
 
       - name: Commit changes
         run: |

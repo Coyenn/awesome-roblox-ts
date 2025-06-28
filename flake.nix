@@ -22,6 +22,8 @@
       in {
         devShells.default = pkgs.mkShell {
           buildInputs = [
+            pkgs.nodejs_22
+            pkgs.jq
             rbx-pkgs.lune
           ];
         };

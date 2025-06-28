@@ -4,10 +4,11 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 
 ## Packages
 
+
 - [@rbxts/3a](https://www.npmjs.com/package/@rbxts/3a) - An overhaul to Roblox user input
 - [@rbxts/abbreviate](https://www.npmjs.com/package/@rbxts/abbreviate) - A lightweight number abbreviator
 - [@rbxts/abstractify](https://www.npmjs.com/package/@rbxts/abstractify) - Roblox networking similar to many event based systems found in TypeScript and JavaScript. Slightly based off of Electron and their implementation of IPC.
-- [@rbxts/aether](https://www.npmjs.com/package/@rbxts/aether) -  A Roblox library to position floating elements and make interactions for them. 
+- [@rbxts/aether](https://www.npmjs.com/package/@rbxts/aether) - A Roblox library to position floating elements and make interactions for them.
 - [@rbxts/aether-react](https://www.npmjs.com/package/@rbxts/aether-react) - React bindings for Aether.
 - [@rbxts/aether-vide](https://www.npmjs.com/package/@rbxts/aether-vide) - Vide bindings for Aether
 - [@rbxts/airfoil](https://www.npmjs.com/package/@rbxts/airfoil) - Widgeon's modified Sleitnick airfoil module, ported to roblox-ts
@@ -15,7 +16,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/altmake](https://www.npmjs.com/package/@rbxts/altmake) - Alternative to @rbxts/make to increase Typescript speed.
 - [@rbxts/amulet](https://www.npmjs.com/package/@rbxts/amulet) - Atomic state management for Roblox
 - [@rbxts/anatta](https://www.npmjs.com/package/@rbxts/anatta)
-- [@rbxts/animation](https://www.npmjs.com/package/@rbxts/animation) - `@rbxts/animation` is inspired by Flameworks networking package and streamlines the process of creating, and loading
+- [@rbxts/animation](https://www.npmjs.com/package/@rbxts/animation) - @rbxts/animation is inspired by Flameworks networking package and streamlines the process of creating, and loading
 - [@rbxts/api-dump-fetcher](https://www.npmjs.com/package/@rbxts/api-dump-fetcher) - Fully types MaximumADHD Api-Dump (mostly for plugins)
 - [@rbxts/array-utils](https://www.npmjs.com/package/@rbxts/array-utils) - Extra utility methods for roblox-ts arrays
 - [@rbxts/asciify](https://www.npmjs.com/package/@rbxts/asciify) - Package to convert UTF-8 to ASCII with minimal loss
@@ -59,24 +60,24 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/bitbuffer](https://www.npmjs.com/package/@rbxts/bitbuffer) - A binary stream module for packing binary data. roblox-ts typings for bitbuffer by Dekkonot.
 - [@rbxts/bitbuffer2](https://www.npmjs.com/package/@rbxts/bitbuffer2) - Typings for rstk's BitBuffer module
 - [@rbxts/bloxstrap-rpc-sdk](https://www.npmjs.com/package/@rbxts/bloxstrap-rpc-sdk) - Bloxstrap RPC SDK library
-- [@rbxts/bloxstraprpc](https://www.npmjs.com/package/@rbxts/bloxstraprpc) - [Adapted from official documentation](https://github.com/pizzaboxer/bloxstrap/wiki/Integrating-Bloxstrap-functionality-into-your-game)
+- [@rbxts/bloxstraprpc](https://www.npmjs.com/package/@rbxts/bloxstraprpc)
 - [@rbxts/boat-tween](https://www.npmjs.com/package/@rbxts/boat-tween) - TypeScript port of boatbomber's BoatTween
 - [@rbxts/brand](https://www.npmjs.com/package/@rbxts/brand) - Source was taken from: https://github.com/kourge/ts-brand for the purpose of it working with roblox TypeScript compiler.
 - [@rbxts/bridge](https://www.npmjs.com/package/@rbxts/bridge) - A simple and efficient way to share data between server and client in Roblox
 - [@rbxts/bridgenet](https://www.npmjs.com/package/@rbxts/bridgenet) - A networking library for Roblox
 - [@rbxts/btrees5](https://www.npmjs.com/package/@rbxts/btrees5) - Behavior Trees V5 with TS typings.
-- [@rbxts/buffering](https://www.npmjs.com/package/@rbxts/buffering) - ## Create a scheme
+- [@rbxts/buffering](https://www.npmjs.com/package/@rbxts/buffering)
 - [@rbxts/bufferlayout](https://www.npmjs.com/package/@rbxts/bufferlayout) - A simple and efficient way to manage buffers.
 - [@rbxts/builders](https://www.npmjs.com/package/@rbxts/builders) - Gives builder APIs to common parameter objects on Roblox
 - [@rbxts/bus](https://www.npmjs.com/package/@rbxts/bus) - Lightweight Event bus for Roblox
 - [@rbxts/bytenet](https://www.npmjs.com/package/@rbxts/bytenet) - ---
 - [@rbxts/bytenet-fixed](https://www.npmjs.com/package/@rbxts/bytenet-fixed)
-- [@rbxts/callback-pool](https://www.npmjs.com/package/@rbxts/callback-pool) - Includes a ``CallbackPool`` class, than, when drained, will execute all functions currently in it's pool and then remove them from the pool.
-- [@rbxts/camera-shaker](https://www.npmjs.com/package/@rbxts/camera-shaker) - roblox-ts package for Crazyman32's Roblox port of \EZ Camera Shake\
+- [@rbxts/callback-pool](https://www.npmjs.com/package/@rbxts/callback-pool) - Includes a CallbackPool class, than, when drained, will execute all functions currently in it's pool and then remove them from the pool.
+- [@rbxts/camera-shaker](https://www.npmjs.com/package/@rbxts/camera-shaker) - roblox-ts package for Crazyman32's Roblox port of "EZ Camera Shake"
 - [@rbxts/canaryengine](https://www.npmjs.com/package/@rbxts/canaryengine) - CanaryEngine is a lightweight and performant game framework for beginners and power-users alike.
 - [@rbxts/cargo-semver](https://www.npmjs.com/package/@rbxts/cargo-semver) - A parser and evaluator for Cargo's flavor of Semantic Versioning
 - [@rbxts/cascade](https://www.npmjs.com/package/@rbxts/cascade) - Simple lightweight state library for Roblox-TS
-- [@rbxts/catmull-rom-spline](https://www.npmjs.com/package/@rbxts/catmull-rom-spline) - The module that makes it easy to create [Catmull-Rom Splines](https://www.cs.cmu.edu/~fp/courses/graphics/asst5/catmullRom.pdf) on Roblox.
+- [@rbxts/catmull-rom-spline](https://www.npmjs.com/package/@rbxts/catmull-rom-spline) - The module that makes it easy to create on Roblox.
 - [@rbxts/catppuccin](https://www.npmjs.com/package/@rbxts/catppuccin) - Brings the catppuccin color pallete to Roblox!
 - [@rbxts/catppuccin-roact](https://www.npmjs.com/package/@rbxts/catppuccin-roact) - Roact hooks and context for catppuccin.
 - [@rbxts/ccdik-controller](https://www.npmjs.com/package/@rbxts/ccdik-controller) - Alternate inverse kinematics method for Roblox Motor6D rigs. roblox-ts typings for datlass's CCDIK Controller.
@@ -96,17 +97,17 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/charmed-components](https://www.npmjs.com/package/@rbxts/charmed-components) - Library that adds sweet-charm atoms power to flamework components
 - [@rbxts/chat-service](https://www.npmjs.com/package/@rbxts/chat-service) - Roblox chat service typings
 - [@rbxts/chatty](https://www.npmjs.com/package/@rbxts/chatty)
-- [@rbxts/chroma](https://www.npmjs.com/package/@rbxts/chroma) - A lightweight theming system for creating context-aware UI themes in Roblox with [@rbxts/vide](https://github.com/littensy/vide).
+- [@rbxts/chroma](https://www.npmjs.com/package/@rbxts/chroma) - A lightweight theming system for creating context-aware UI themes in Roblox with .
 - [@rbxts/clack](https://www.npmjs.com/package/@rbxts/clack) - User input helper classes
 - [@rbxts/clan-labs](https://www.npmjs.com/package/@rbxts/clan-labs) - An object-orientated TypeScript implementation of all public known ClanLabs apis.
 - [@rbxts/clanware-justice-sdk](https://www.npmjs.com/package/@rbxts/clanware-justice-sdk) - Clanware Justice API SDK for Roblox
 - [@rbxts/class-cache](https://www.npmjs.com/package/@rbxts/class-cache) - WIP - A class cache for rbxts
-- [@rbxts/cldr](https://www.npmjs.com/package/@rbxts/cldr) - [CLDRTools, a tool for formatting/shortening numbers, getting plurals etc. (Undocumented!)](https://devforum.roblox.com/t/cldrtools-a-tool-for-formattingshortening-numbers-getting-plurals-etc-undocumented/539614)
+- [@rbxts/cldr](https://www.npmjs.com/package/@rbxts/cldr)
 - [@rbxts/cleanser](https://www.npmjs.com/package/@rbxts/cleanser) - A port of RobloxianDemo's Cleanser class.
 - [@rbxts/clientcast](https://www.npmjs.com/package/@rbxts/clientcast) - typings for the clientcast module made by PysephRBX
-- [@rbxts/cmdr](https://www.npmjs.com/package/@rbxts/cmdr) -  \t \t \t \tView Docs
+- [@rbxts/cmdr](https://www.npmjs.com/package/@rbxts/cmdr) - View Docs
 - [@rbxts/coldfusion](https://www.npmjs.com/package/@rbxts/coldfusion) - Made My own version of fusion for roblox
-- [@rbxts/color](https://www.npmjs.com/package/@rbxts/color) - Color\r =============\r Library for manipulating colors
+- [@rbxts/color](https://www.npmjs.com/package/@rbxts/color) - Color ============= Library for manipulating colors
 - [@rbxts/colour-utils](https://www.npmjs.com/package/@rbxts/colour-utils) - Colour manipulation utility for Roblox
 - [@rbxts/comet](https://www.npmjs.com/package/@rbxts/comet) - A fast framework for plugin development inspired by flamework.
 - [@rbxts/command](https://www.npmjs.com/package/@rbxts/command) - Very simple command/argument management system.
@@ -116,7 +117,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/computelua](https://www.npmjs.com/package/@rbxts/computelua) - Typings for compute lua
 - [@rbxts/conf](https://www.npmjs.com/package/@rbxts/conf) - Instance based configuration management.
 - [@rbxts/config](https://www.npmjs.com/package/@rbxts/config) - Config is a simple configuration maker for RobloxTS. Setting a variable on a config creates a value instance for it which can be later read from another config with the same name and parent.
-- [@rbxts/constrained-markers](https://www.npmjs.com/package/@rbxts/constrained-markers) - Contains typings for Anaminus's ConstrainedMarkers Module.\r See https://devforum.roblox.com/t/constrainedmarkers-module/67640
+- [@rbxts/constrained-markers](https://www.npmjs.com/package/@rbxts/constrained-markers) - Contains typings for Anaminus's ConstrainedMarkers Module. See https://devforum.roblox.com/t/constrainedmarkers-module/67640
 - [@rbxts/context-stack](https://www.npmjs.com/package/@rbxts/context-stack) - ContextStack component for React.
 - [@rbxts/controller-cursor](https://www.npmjs.com/package/@rbxts/controller-cursor) - A port of MrAsync's Controller Cursor module.
 - [@rbxts/convexhull](https://www.npmjs.com/package/@rbxts/convexhull) - A simple package for generating convex hulls using Chan's Algorithm.
@@ -172,20 +173,20 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/document-service](https://www.npmjs.com/package/@rbxts/document-service) - DocumentService is a strictly typed Luau library for saving data with Roblox DataStores. It can be used for sesssion-locked data, such as player data, or for non-session-locked data, like shared groups or houses.
 - [@rbxts/dodge](https://www.npmjs.com/package/@rbxts/dodge) - This is a rewrite of Spark in roblox-ts.
 - [@rbxts/droblox-core](https://www.npmjs.com/package/@rbxts/droblox-core) - Droblox core library
-- [@rbxts/dumpster](https://www.npmjs.com/package/@rbxts/dumpster) - Written by [Fraktality](https://www.github.com/Fraktality) ( [Source](https://gist.github.com/Fraktality/f0ab4ad950698e9f08bb01bea486845e) )
+- [@rbxts/dumpster](https://www.npmjs.com/package/@rbxts/dumpster) - Written by ( )
 - [@rbxts/earcut](https://www.npmjs.com/package/@rbxts/earcut)
 - [@rbxts/easing-functions](https://www.npmjs.com/package/@rbxts/easing-functions) - A bunch of reuseable Easing Functions, including those from the Material Design specification and Robert Penner.
 - [@rbxts/easy-path](https://www.npmjs.com/package/@rbxts/easy-path) - This package will help you build paths with smooth turns
 - [@rbxts/easybullet](https://www.npmjs.com/package/@rbxts/easybullet) - A simple bullet runtime that handles network replication, network syncing, and adjusts the rendered bullets by client framerate.
 - [@rbxts/easytween](https://www.npmjs.com/package/@rbxts/easytween)
-- [@rbxts/ebba](https://www.npmjs.com/package/@rbxts/ebba) - jabby is a debugger for [jecs](https://github.com/ukendio/jecs) based off [gorp](https://github.com/aloroid/gorp)
+- [@rbxts/ebba](https://www.npmjs.com/package/@rbxts/ebba) - jabby is a debugger for based off
 - [@rbxts/ecr](https://www.npmjs.com/package/@rbxts/ecr) - A sparse-set based ECS library for Luau, now with TS types.
 - [@rbxts/eis](https://www.npmjs.com/package/@rbxts/eis) - A roblox UI manager with useful utils
 - [@rbxts/emitter](https://www.npmjs.com/package/@rbxts/emitter) - Roblox Typescript package for creating event-emitting objects and classes.
 - [@rbxts/emittery](https://www.npmjs.com/package/@rbxts/emittery) - Emittery v0.11.0 bindings for Roblox.
 - [@rbxts/encryptednet](https://www.npmjs.com/package/@rbxts/encryptednet) - Typings for the EncryptedNet Library.
 - [@rbxts/enumerator](https://www.npmjs.com/package/@rbxts/enumerator) - enumerations in pure Luau, following an api almost identical to enumerate
-- [@rbxts/event-emitter](https://www.npmjs.com/package/@rbxts/event-emitter) - \node:events\ implementation in roblox-ts
+- [@rbxts/event-emitter](https://www.npmjs.com/package/@rbxts/event-emitter) - "node:events" implementation in roblox-ts
 - [@rbxts/eventemitter](https://www.npmjs.com/package/@rbxts/eventemitter) - Node.js-like EventEmitter classes, one using coroutines for speed and one using BindableEvents for easy error logging.
 - [@rbxts/evlightning](https://www.npmjs.com/package/@rbxts/evlightning) - EvLightning by evaera with types
 - [@rbxts/expect](https://www.npmjs.com/package/@rbxts/expect) - Test-agnostic assertion library for ROBLOX.
@@ -210,7 +211,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/find-up](https://www.npmjs.com/package/@rbxts/find-up) - Find an Instance by walking up ancestors
 - [@rbxts/finite-state-machine](https://www.npmjs.com/package/@rbxts/finite-state-machine) - A simple Finite State Machine implementation for Roblox development written using roblox-ts.
 - [@rbxts/firebase](https://www.npmjs.com/package/@rbxts/firebase) - Firebase real-time database wrapper for Roblox
-- [@rbxts/firebase-rtdb](https://www.npmjs.com/package/@rbxts/firebase-rtdb) - roblox-ts typings for RBLX-Firebase for Firebase's **RealTime DataBase**
+- [@rbxts/firebase-rtdb](https://www.npmjs.com/package/@rbxts/firebase-rtdb) - roblox-ts typings for RBLX-Firebase for Firebase's RealTime DataBase
 - [@rbxts/firestore](https://www.npmjs.com/package/@rbxts/firestore) - Roblox API for interfacing with Google Cloud Firestore
 - [@rbxts/first-person-camera](https://www.npmjs.com/package/@rbxts/first-person-camera) - First person Camera perfect for FPS games!
 - [@rbxts/fitumi](https://www.npmjs.com/package/@rbxts/fitumi) - Fake It 'Till You Make It - A unit testing utility for faking everything from Roblox Instances to custom objects.
@@ -225,7 +226,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/flamework-shared-components-react](https://www.npmjs.com/package/@rbxts/flamework-shared-components-react)
 - [@rbxts/flipper](https://www.npmjs.com/package/@rbxts/flipper) - An animation library for Roblox
 - [@rbxts/flow](https://www.npmjs.com/package/@rbxts/flow) - Roblox-TS types for the Flow library (https://github.com/grilme99/Flow)
-- [@rbxts/format-number](https://www.npmjs.com/package/@rbxts/format-number) - This contains the typing for [Blockzez's FormatNumber Lib](https://devforum.roblox.com/t/310-formatnumber-a-module-for-formatting-numbers/527979/42)
+- [@rbxts/format-number](https://www.npmjs.com/package/@rbxts/format-number) - This contains the typing for
 - [@rbxts/formatting](https://www.npmjs.com/package/@rbxts/formatting) - Utility functions for formatting numbers and parsing strings back into numbers for Roblox
 - [@rbxts/fsm](https://www.npmjs.com/package/@rbxts/fsm) - Generic finite state machine implementation for roblox-ts.
 - [@rbxts/fusion](https://www.npmjs.com/package/@rbxts/fusion) - TypeScript support for Fusion
@@ -241,19 +242,19 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/gizmo](https://www.npmjs.com/package/@rbxts/gizmo) - gizmo is a visual debug library designed for the Roblox game engine.
 - [@rbxts/glassmorphicui](https://www.npmjs.com/package/@rbxts/glassmorphicui) - Glassmorphic UI in Roblox.
 - [@rbxts/glicko2](https://www.npmjs.com/package/@rbxts/glicko2) - Types for the Lua implementation of the Glicko-2 rating system.
-- [@rbxts/goap](https://www.npmjs.com/package/@rbxts/goap) - A direct port of [crashkonijn/GOAP](https://github.com/crashkonijn/GOAP) to Roblox. Should work functionally the same: albeit a few differences. Eventually, this will support parallel Luau.
+- [@rbxts/goap](https://www.npmjs.com/package/@rbxts/goap) - A direct port of to Roblox. Should work functionally the same: albeit a few differences. Eventually, this will support parallel Luau.
 - [@rbxts/goodsignal](https://www.npmjs.com/package/@rbxts/goodsignal)
 - [@rbxts/google-analytics](https://www.npmjs.com/package/@rbxts/google-analytics)
 - [@rbxts/gorp](https://www.npmjs.com/package/@rbxts/gorp) - A hacky ECS debugger
 - [@rbxts/gorp-ecr](https://www.npmjs.com/package/@rbxts/gorp-ecr) - gorp ecr layer
 - [@rbxts/graph](https://www.npmjs.com/package/@rbxts/graph) - boatbomber's Graph class with types!
-- [@rbxts/gravity-controller](https://www.npmjs.com/package/@rbxts/gravity-controller) - Typescript bindings for [EgoMoose's Rbx-Gravity-Controller](https://github.com/EgoMoose/Rbx-Gravity-Controller) with ground normal finding by [EmilyBendsSpace](https://x.com/EmilyBendsSpace)
+- [@rbxts/gravity-controller](https://www.npmjs.com/package/@rbxts/gravity-controller) - Typescript bindings for with ground normal finding by
 - [@rbxts/greedycanvas](https://www.npmjs.com/package/@rbxts/greedycanvas) - A canvas renderer using greedy gradients to draw efficiently in Roblox
 - [@rbxts/greenwichdb](https://www.npmjs.com/package/@rbxts/greenwichdb) - Bindings from GreenwichDB to be compatible with roblox-ts
 - [@rbxts/grouper](https://www.npmjs.com/package/@rbxts/grouper) - A module for getting accurate group ranks for players on the server, and detecting rank changes.
 - [@rbxts/hashlib](https://www.npmjs.com/package/@rbxts/hashlib) - Roblox-TS port of HashLib by Egor Skriptunoff, boatbomber, and howmanysmall.
 - [@rbxts/heatup](https://www.npmjs.com/package/@rbxts/heatup) - Why cool down when you can heat up? A Roblox Datastore wrapper that avoids the cooldown limit.
-- [@rbxts/hero-framework](https://www.npmjs.com/package/@rbxts/hero-framework) - Generated by [Rojo](https://github.com/rojo-rbx/rojo) 7.4.1.
+- [@rbxts/hero-framework](https://www.npmjs.com/package/@rbxts/hero-framework) - Generated by 7.4.1.
 - [@rbxts/hexane](https://www.npmjs.com/package/@rbxts/hexane)
 - [@rbxts/hidden-signal](https://www.npmjs.com/package/@rbxts/hidden-signal)
 - [@rbxts/highlighter](https://www.npmjs.com/package/@rbxts/highlighter) - Types for boatbomber/Highlighter
@@ -276,12 +277,12 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/instance-utility](https://www.npmjs.com/package/@rbxts/instance-utility) - Utility functions for Roblox instances
 - [@rbxts/instance-utils](https://www.npmjs.com/package/@rbxts/instance-utils) - Package that contains utility classes and functions for Instances.
 - [@rbxts/ip-data](https://www.npmjs.com/package/@rbxts/ip-data) - https://ip-api.com API Wrapper
-- [@rbxts/iris](https://www.npmjs.com/package/@rbxts/iris) - RobloxTS definitions for [Iris](https://github.com/Michael-48/Iris/tree/main).
-- [@rbxts/iris-plugin](https://www.npmjs.com/package/@rbxts/iris-plugin) - RobloxTS definitions for [Iris](https://github.com/Michael-48/Iris/tree/main).
-- [@rbxts/jabby](https://www.npmjs.com/package/@rbxts/jabby) - jabby is a debugger for [jecs](https://github.com/ukendio/jecs) based off [gorp](https://github.com/aloroid/gorp)
-- [@rbxts/jade](https://www.npmjs.com/package/@rbxts/jade) - Attempt at porting [Hecs](https://github.com/Ralith/hecs) made by Ralith to Roblox. Semantically identical API and documentation.
+- [@rbxts/iris](https://www.npmjs.com/package/@rbxts/iris) - RobloxTS definitions for .
+- [@rbxts/iris-plugin](https://www.npmjs.com/package/@rbxts/iris-plugin) - RobloxTS definitions for .
+- [@rbxts/jabby](https://www.npmjs.com/package/@rbxts/jabby) - jabby is a debugger for based off
+- [@rbxts/jade](https://www.npmjs.com/package/@rbxts/jade) - Attempt at porting made by Ralith to Roblox. Semantically identical API and documentation.
 - [@rbxts/janitor](https://www.npmjs.com/package/@rbxts/janitor) - A port of howmanysmall's janitor module.
-- [@rbxts/janitor-utilities](https://www.npmjs.com/package/@rbxts/janitor-utilities) - Generated by [Rojo](https://github.com/rojo-rbx/rojo) 7.4.4.
+- [@rbxts/janitor-utilities](https://www.npmjs.com/package/@rbxts/janitor-utilities) - Generated by 7.4.4.
 - [@rbxts/jecs](https://www.npmjs.com/package/@rbxts/jecs) - Stupidly fast Entity Component System
 - [@rbxts/jecs-hooks](https://www.npmjs.com/package/@rbxts/jecs-hooks) - Hooks for Jecs ECS
 - [@rbxts/jecs-topo-runtime](https://www.npmjs.com/package/@rbxts/jecs-topo-runtime) - A Runtime for Jecs
@@ -293,11 +294,11 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/jwt](https://www.npmjs.com/package/@rbxts/jwt) - JWT lib for Luau
 - [@rbxts/keyed](https://www.npmjs.com/package/@rbxts/keyed) - Replica of Minecraft Bukkit's cool namespace system
 - [@rbxts/knit](https://www.npmjs.com/package/@rbxts/knit) - Roblox game framework (Alpha)
-- [@rbxts/lapis-mockdatastore](https://www.npmjs.com/package/@rbxts/lapis-mockdatastore) - ## Warning This is not a fully featured mock DataStoreService. It's intended to test [Lapis](https://github.com/nezuo/lapis) so it includes only the necessary features.
+- [@rbxts/lapis-mockdatastore](https://www.npmjs.com/package/@rbxts/lapis-mockdatastore)
 - [@rbxts/layoututil](https://www.npmjs.com/package/@rbxts/layoututil) - LayoutUtil; manages aspect ratios of UILayouts.
 - [@rbxts/lazy](https://www.npmjs.com/package/@rbxts/lazy) - A simple implementation of a lazy loading wrapper for any type of value.
 - [@rbxts/lazy-iterator](https://www.npmjs.com/package/@rbxts/lazy-iterator) - Combines multiple array operations into an iterator and only applies operations when the iterator is processed
-- [@rbxts/lemon-signal](https://www.npmjs.com/package/@rbxts/lemon-signal) - Typings for [Lemon Signal](https://github.com/Data-Oriented-House/LemonSignal).
+- [@rbxts/lemon-signal](https://www.npmjs.com/package/@rbxts/lemon-signal) - Typings for .
 - [@rbxts/lerp-functions](https://www.npmjs.com/package/@rbxts/lerp-functions) - Interpolation functions
 - [@rbxts/libopen-docleanup](https://www.npmjs.com/package/@rbxts/libopen-docleanup) - LibOpen's doCleanup
 - [@rbxts/libopen-dontyield](https://www.npmjs.com/package/@rbxts/libopen-dontyield) - LibOpen's DontYield
@@ -330,9 +331,9 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/luau-polyfill](https://www.npmjs.com/package/@rbxts/luau-polyfill) - LuauPolyfill with types.
 - [@rbxts/luau-polyfill-internal](https://www.npmjs.com/package/@rbxts/luau-polyfill-internal)
 - [@rbxts/luau-thread](https://www.npmjs.com/package/@rbxts/luau-thread) - Parallel Luau library designed for simplicity and ease of use.
-- [@rbxts/luau-thread-fixed](https://www.npmjs.com/package/@rbxts/luau-thread-fixed) - Fork of [luau-thread](https://github.com/decimalcubed/luau-thread) for Roblox-ts
+- [@rbxts/luau-thread-fixed](https://www.npmjs.com/package/@rbxts/luau-thread-fixed) - Fork of for Roblox-ts
 - [@rbxts/lumin-framework](https://www.npmjs.com/package/@rbxts/lumin-framework) - A feather light framework for Roblox-TS games
-- [@rbxts/lunit](https://www.npmjs.com/package/@rbxts/lunit) - [NPM Registry](https://npmjs.org/@rbxts/lunit)\r # @rbxts/lunit
+- [@rbxts/lunit](https://www.npmjs.com/package/@rbxts/lunit)
 - [@rbxts/lyra](https://www.npmjs.com/package/@rbxts/lyra) - A DataStoreService wrapper
 - [@rbxts/lzw](https://www.npmjs.com/package/@rbxts/lzw) - Typings for Lua LZW Compression. https://devforum.roblox.com/t/lua-lzw-compression/22028
 - [@rbxts/mad-replica](https://www.npmjs.com/package/@rbxts/mad-replica) - Replica typings.
@@ -343,8 +344,8 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/markdown-ast](https://www.npmjs.com/package/@rbxts/markdown-ast) - Exposes a simple 'parse' function that generates an AST from Markdown
 - [@rbxts/matchmakingservice](https://www.npmjs.com/package/@rbxts/matchmakingservice)
 - [@rbxts/math](https://www.npmjs.com/package/@rbxts/math) - A port of RobloxianDemo's Math module.
-- [@rbxts/matter](https://www.npmjs.com/package/@rbxts/matter) -  \t           \t \t\t<img src=\https://github.com/matter-ecs/matter
-- [@rbxts/matter-bootstrap](https://www.npmjs.com/package/@rbxts/matter-bootstrap) - A simple class that handles everything needed to bootstrap a Matter world including hot-reloading, live debug, networking (using ``@rbxts/yetanothernet``), and component replication.
+- [@rbxts/matter](https://www.npmjs.com/package/@rbxts/matter) - <img src="https://github.com/matter-ecs/matter
+- [@rbxts/matter-bootstrap](https://www.npmjs.com/package/@rbxts/matter-bootstrap) - A simple class that handles everything needed to bootstrap a Matter world including hot-reloading, live debug, networking (using @rbxts/yetanothernet), and component replication.
 - [@rbxts/matter-hooks](https://www.npmjs.com/package/@rbxts/matter-hooks) - A hooks library for Matter
 - [@rbxts/matter-sync](https://www.npmjs.com/package/@rbxts/matter-sync) - Server-client sync library for Matter ECS
 - [@rbxts/mechanism](https://www.npmjs.com/package/@rbxts/mechanism) - An elegant composable input library for Roblox
@@ -362,18 +363,18 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/moceanlib](https://www.npmjs.com/package/@rbxts/moceanlib)
 - [@rbxts/mock-memory-store-service](https://www.npmjs.com/package/@rbxts/mock-memory-store-service) - A wrapper for memory store service to allow testing locally
 - [@rbxts/mockdatastore](https://www.npmjs.com/package/@rbxts/mockdatastore)
-- [@rbxts/mockdatastoreservice](https://www.npmjs.com/package/@rbxts/mockdatastoreservice) -  \t \t\t \t 
+- [@rbxts/mockdatastoreservice](https://www.npmjs.com/package/@rbxts/mockdatastoreservice)
 - [@rbxts/module3d](https://www.npmjs.com/package/@rbxts/module3d) - A port of TheNexusAvenger's Module3D module.
 - [@rbxts/mollerbase](https://www.npmjs.com/package/@rbxts/mollerbase) - the world's stupidest function wrapper
 - [@rbxts/moonlite](https://www.npmjs.com/package/@rbxts/moonlite) - Moonlite typings
-- [@rbxts/motion](https://www.npmjs.com/package/@rbxts/motion) - ## Introduction
+- [@rbxts/motion](https://www.npmjs.com/package/@rbxts/motion)
 - [@rbxts/motor](https://www.npmjs.com/package/@rbxts/motor)
 - [@rbxts/muon](https://www.npmjs.com/package/@rbxts/muon) - A memory store library
 - [@rbxts/must](https://www.npmjs.com/package/@rbxts/must) - Just a simple function that errors out if the argument is nil / undefined.
 - [@rbxts/mutable-fast-replica](https://www.npmjs.com/package/@rbxts/mutable-fast-replica) - A (mutable) simple and intuitive package for sharing data from server to client.
 - [@rbxts/mutility-ts](https://www.npmjs.com/package/@rbxts/mutility-ts)
 - [@rbxts/nanoai](https://www.npmjs.com/package/@rbxts/nanoai) - Minimal library for creating neural networks
-- [@rbxts/neomake](https://www.npmjs.com/package/@rbxts/neomake) - My personal alternative to [@rbxts/make](https://www.npmjs.com/package/@rbxts/make).
+- [@rbxts/neomake](https://www.npmjs.com/package/@rbxts/neomake) - My personal alternative to .
 - [@rbxts/net](https://www.npmjs.com/package/@rbxts/net)
 - [@rbxts/net-eventemitter](https://www.npmjs.com/package/@rbxts/net-eventemitter) - @rbxts/eventemitter, but with 100% more RemoteEvents
 - [@rbxts/net-functions](https://www.npmjs.com/package/@rbxts/net-functions) - Type-checking typesafe remotefunction wrapper
@@ -389,14 +390,14 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/number-size](https://www.npmjs.com/package/@rbxts/number-size) - Utility functions for checking the sizes of numbers
 - [@rbxts/number-spinner-typings](https://www.npmjs.com/package/@rbxts/number-spinner-typings) - Boatbomber's number spinner module typings
 - [@rbxts/objecat](https://www.npmjs.com/package/@rbxts/objecat) - Yet Another Way To Create Instances
-- [@rbxts/object-cache](https://www.npmjs.com/package/@rbxts/object-cache) -  ObjectCache A robust, blazing fast part cache for Roblox
+- [@rbxts/object-cache](https://www.npmjs.com/package/@rbxts/object-cache) - ObjectCache A robust, blazing fast part cache for Roblox
 - [@rbxts/object-composer](https://www.npmjs.com/package/@rbxts/object-composer) - A simple, light-weight multiple inheritance object composition library
 - [@rbxts/object-event](https://www.npmjs.com/package/@rbxts/object-event) - Allows for custom events to be created for custom OOP implementations. Attempts to reproduce Roblox's syntax as closely as possible while adding more features.
-- [@rbxts/object-pool](https://www.npmjs.com/package/@rbxts/object-pool) - \r   \r     \r   \r   \r     <img src=\https://img.shields.io/badge/Licen
-- [@rbxts/object-pool-patched](https://www.npmjs.com/package/@rbxts/object-pool-patched) - \r   \r     \r   \r   \r     <img src=\https://img.shields.io/badge/Licen
+- [@rbxts/object-pool](https://www.npmjs.com/package/@rbxts/object-pool) - <img src="https://img.shields.io/badge/Licen
+- [@rbxts/object-pool-patched](https://www.npmjs.com/package/@rbxts/object-pool-patched) - <img src="https://img.shields.io/badge/Licen
 - [@rbxts/object-stack](https://www.npmjs.com/package/@rbxts/object-stack) - A Stack data structure which is formed by creating a singly linked-list on already existing objects.
 - [@rbxts/object-utils](https://www.npmjs.com/package/@rbxts/object-utils) - Polyfills for Object functions
-- [@rbxts/objecthighlighter](https://www.npmjs.com/package/@rbxts/objecthighlighter) - This module allows you to make an object or model act as \Always on Top\ (or X-Ray) and layer over the normal 3D game world.
+- [@rbxts/objecthighlighter](https://www.npmjs.com/package/@rbxts/objecthighlighter) - This module allows you to make an object or model act as "Always on Top" (or X-Ray) and layer over the normal 3D game world.
 - [@rbxts/observer](https://www.npmjs.com/package/@rbxts/observer) - An implementation of observers in roblox-ts based on Android's LiveData
 - [@rbxts/observer-charm](https://www.npmjs.com/package/@rbxts/observer-charm)
 - [@rbxts/observers](https://www.npmjs.com/package/@rbxts/observers) - Collection of observer utility functions
@@ -404,8 +405,8 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/octo-tree](https://www.npmjs.com/package/@rbxts/octo-tree) - Octree implementation
 - [@rbxts/octree](https://www.npmjs.com/package/@rbxts/octree) - A Typescript port of Nevermore's Octree module
 - [@rbxts/ohmyprvd](https://www.npmjs.com/package/@rbxts/ohmyprvd) - Oh My Prvd is a delightful framework for Roblox games.
-- [@rbxts/ohmyprvd-lifecycles](https://www.npmjs.com/package/@rbxts/ohmyprvd-lifecycles) - Implements a \small\ amount of lifecycle events for providers.
-- [@rbxts/open-skill](https://www.npmjs.com/package/@rbxts/open-skill) - A Typescript rapper for [Vaschex's OpenSkill.lua](https://github.com/Vaschex/openskill.lua)
+- [@rbxts/ohmyprvd-lifecycles](https://www.npmjs.com/package/@rbxts/ohmyprvd-lifecycles) - Implements a "small" amount of lifecycle events for providers.
+- [@rbxts/open-skill](https://www.npmjs.com/package/@rbxts/open-skill) - A Typescript rapper for
 - [@rbxts/openskill](https://www.npmjs.com/package/@rbxts/openskill) - Typescript types for OpenSkill Roblox Lua library
 - [@rbxts/osgl](https://www.npmjs.com/package/@rbxts/osgl)
 - [@rbxts/oxalate](https://www.npmjs.com/package/@rbxts/oxalate) - I am sorry, documentation will arrive once I figure out how to do it :p
@@ -415,7 +416,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/pascal](https://www.npmjs.com/package/@rbxts/pascal) - PascalCase primitive types for Roblox TypeScript.
 - [@rbxts/path-finding](https://www.npmjs.com/package/@rbxts/path-finding) - A generic path finding library for finding paths and generating flow maps.
 - [@rbxts/path-parser](https://www.npmjs.com/package/@rbxts/path-parser) - parses string paths and returns their respective roblox instances
-- [@rbxts/persist](https://www.npmjs.com/package/@rbxts/persist) - Wrapper around [Persist](https://github.com/lukadev-0/rbx-persist)
+- [@rbxts/persist](https://www.npmjs.com/package/@rbxts/persist) - Wrapper around
 - [@rbxts/phantom](https://www.npmjs.com/package/@rbxts/phantom) - Data manipulation library for Roblox
 - [@rbxts/ping](https://www.npmjs.com/package/@rbxts/ping) - Dead simple roblox-ts bindable event wrapper.
 - [@rbxts/planck](https://www.npmjs.com/package/@rbxts/planck) - An agnostic scheduler for ECS
@@ -425,7 +426,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/planck-matter-debugger](https://www.npmjs.com/package/@rbxts/planck-matter-debugger) - A Plugin for Planck, adding support for the matter debugger.
 - [@rbxts/planck-matter-hooks](https://www.npmjs.com/package/@rbxts/planck-matter-hooks) - A Plugin for Planck, adding support for matter hooks.
 - [@rbxts/planck-rewire](https://www.npmjs.com/package/@rbxts/planck-rewire) - A hot-reload plugin for @rbxts/planck
-- [@rbxts/plasma](https://www.npmjs.com/package/@rbxts/plasma) - **Plasma** is a declarative, immediate mode UI widget library for _[Roblox]_.
+- [@rbxts/plasma](https://www.npmjs.com/package/@rbxts/plasma) - Plasma is a declarative, immediate mode UI widget library for [Roblox].
 - [@rbxts/player-hooks](https://www.npmjs.com/package/@rbxts/player-hooks) - A port of RobloxianDemo's Player class.
 - [@rbxts/player-module-types](https://www.npmjs.com/package/@rbxts/player-module-types) - This package provides TypeScript type definitions for the Roblox built-in PlayerModule. It is designed to be used with roblox-ts.
 - [@rbxts/player-statistic-achievements](https://www.npmjs.com/package/@rbxts/player-statistic-achievements) - A generic, type-safe package for Roblox development made with roblox-ts for giving out rewards to players who achieve specified objectives based on their player statistics.
@@ -441,7 +442,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/pretty-format](https://www.npmjs.com/package/@rbxts/pretty-format) - PrettyFormat bindings for Roblox
 - [@rbxts/pretty-matter-hooks](https://www.npmjs.com/package/@rbxts/pretty-matter-hooks) - A set of hooks to be used in pair with Matter ECS.
 - [@rbxts/pretty-react-hooks](https://www.npmjs.com/package/@rbxts/pretty-react-hooks) - Useful hooks for @rbxts/react
-- [@rbxts/pretty-roact-hooks](https://www.npmjs.com/package/@rbxts/pretty-roact-hooks) -  [![npm version](https://img.shields.io/npm/v/@rbxts/pretty-roact-hooks.svg?style=for-the-badg
+- [@rbxts/pretty-roact-hooks](https://www.npmjs.com/package/@rbxts/pretty-roact-hooks) - [![npm version](https://img.shields.io/npm/v/@rbxts/pretty-roact-hooks.svg?style=for-the-badg
 - [@rbxts/pretty-vide-utils](https://www.npmjs.com/package/@rbxts/pretty-vide-utils) - Useful utilities for @rbxts/vide
 - [@rbxts/priority-map](https://www.npmjs.com/package/@rbxts/priority-map) - A map that allows multiple values per key while only exposing one.
 - [@rbxts/priorityqueue](https://www.npmjs.com/package/@rbxts/priorityqueue) - A simple priority queue implementation
@@ -458,13 +459,13 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/promptifier](https://www.npmjs.com/package/@rbxts/promptifier) - This is a package designed to ease the use of prompt-like UI structures prompting users based on a choice or just a notification that could be acknowledged.
 - [@rbxts/proton](https://www.npmjs.com/package/@rbxts/proton) - Framework for Roblox game development
 - [@rbxts/prvdmwrong](https://www.npmjs.com/package/@rbxts/prvdmwrong) - The swaggest Roblox game framework in town.
-- [@rbxts/prvdmwrong-lifecycles](https://www.npmjs.com/package/@rbxts/prvdmwrong-lifecycles) - Implements a \small\ amount of lifecycle events for providers.\n\nWe'll admit. We've gotten a bit too lifecycle happy:\n\n- `:onPostSimulation(dt: number)` runs every `RunService.PostSimulation`\n- `:onPreSimulation(dt: number)` runs every `RunService.PreSimul
+- [@rbxts/prvdmwrong-lifecycles](https://www.npmjs.com/package/@rbxts/prvdmwrong-lifecycles) - Implements a "small" amount of lifecycle events for providers. We'll admit. We've gotten a bit too lifecycle happy: :onPostSimulation(dt: number) runs every RunService.PostSimulation :onPreSimulation(dt: number) runs every `RunService.PreSimul
 - [@rbxts/quaternion](https://www.npmjs.com/package/@rbxts/quaternion) - A basic quaternion implementation for Roblox
 - [@rbxts/query](https://www.npmjs.com/package/@rbxts/query) - A JQuery-like system for roblox-ts.
 - [@rbxts/quicksave](https://www.npmjs.com/package/@rbxts/quicksave) - A port of evaera's quicksave package - a DataStore abstraction library
 - [@rbxts/r15-ragdoll](https://www.npmjs.com/package/@rbxts/r15-ragdoll) - Port of https://devforum.roblox.com/t/r15-rthro-ragdolls/338580
 - [@rbxts/radialimage](https://www.npmjs.com/package/@rbxts/radialimage) - Types for RadialImage
-- [@rbxts/rain](https://www.npmjs.com/package/@rbxts/rain) - Typings for [Rain](https://github.com/buildthomas/Rain) by buildthomas
+- [@rbxts/rain](https://www.npmjs.com/package/@rbxts/rain) - Typings for by buildthomas
 - [@rbxts/randomstring](https://www.npmjs.com/package/@rbxts/randomstring) - Generate random strings from a list of strings/characters.
 - [@rbxts/range](https://www.npmjs.com/package/@rbxts/range) - A simple range implementation with utility methods
 - [@rbxts/raycast-hitbox](https://www.npmjs.com/package/@rbxts/raycast-hitbox) - Typings for Swordphin's RaycastHitbox module
@@ -477,10 +478,10 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/rbx-draw](https://www.npmjs.com/package/@rbxts/rbx-draw) - A utility library to debug things in 3D space for Roblox. Each method will always return an object you can use to cleanup the resulting drawing.
 - [@rbxts/rbx-format-number](https://www.npmjs.com/package/@rbxts/rbx-format-number)
 - [@rbxts/rbx-fzy](https://www.npmjs.com/package/@rbxts/rbx-fzy)
-- [@rbxts/rbx-gc-tracker](https://www.npmjs.com/package/@rbxts/rbx-gc-tracker) - GC tracker for Luau that provides more predictable (compared to `__gc`...) destructor invocation for dead objects. Supports ~constant time update cost by limiting the iteration count such that update can be called every frame with a small n for negligible
+- [@rbxts/rbx-gc-tracker](https://www.npmjs.com/package/@rbxts/rbx-gc-tracker) - GC tracker for Luau that provides more predictable (compared to gc...) destructor invocation for dead objects. Supports ~constant time update cost by limiting the iteration count such that update can be called every frame with a small n for negligible
 - [@rbxts/rbx-generic-screen-gui-provider](https://www.npmjs.com/package/@rbxts/rbx-generic-screen-gui-provider) - Provides screenGuis with a given display order for easy use.
 - [@rbxts/rbx-gui-library](https://www.npmjs.com/package/@rbxts/rbx-gui-library) - TypeScript definitions for Rbx Gui, a library EgoMoose created to help developers with a few common UI components that are not currently present on the Roblox platform.
-- [@rbxts/rbx-hooks](https://www.npmjs.com/package/@rbxts/rbx-hooks) - A few 
+- [@rbxts/rbx-hooks](https://www.npmjs.com/package/@rbxts/rbx-hooks) - A few
 - [@rbxts/rbx-profileservice-plus](https://www.npmjs.com/package/@rbxts/rbx-profileservice-plus) - A version of ProfileService with a few added features.
 - [@rbxts/rbx-react-error-boundary](https://www.npmjs.com/package/@rbxts/rbx-react-error-boundary)
 - [@rbxts/rbx-react-spring](https://www.npmjs.com/package/@rbxts/rbx-react-spring)
@@ -496,12 +497,12 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/react-crate](https://www.npmjs.com/package/@rbxts/react-crate) - A hook library to integrate @rbxts/crate with react-lua.
 - [@rbxts/react-debug-tools-internal](https://www.npmjs.com/package/@rbxts/react-debug-tools-internal) - This is an experimental package for debugging React renderers.
 - [@rbxts/react-gates](https://www.npmjs.com/package/@rbxts/react-gates) - fancy way to use react portals!
-- [@rbxts/react-hooks](https://www.npmjs.com/package/@rbxts/react-hooks) - Generated by [Rojo](https://github.com/rojo-rbx/rojo) 7.4.0.
+- [@rbxts/react-hooks](https://www.npmjs.com/package/@rbxts/react-hooks) - Generated by 7.4.0.
 - [@rbxts/react-internal](https://www.npmjs.com/package/@rbxts/react-internal) - React is a library for creating user interfaces.
 - [@rbxts/react-lifetime-component](https://www.npmjs.com/package/@rbxts/react-lifetime-component) - A React util that allows you to delay the component's unmounting to your liking.
 - [@rbxts/react-motion](https://www.npmjs.com/package/@rbxts/react-motion) - Motion for React
-- [@rbxts/react-particle-emitter](https://www.npmjs.com/package/@rbxts/react-particle-emitter) - **@rbxts/react-particle-emitter** is available on [NPM](https://www.npmjs.com/package/@rbxts/ripple) and can be installed with the following commands:
-- [@rbxts/react-reconciler-internal](https://www.npmjs.com/package/@rbxts/react-reconciler-internal) - **NOTE:** This README is copied directly from React upstream.
+- [@rbxts/react-particle-emitter](https://www.npmjs.com/package/@rbxts/react-particle-emitter) - @rbxts/react-particle-emitter is available on and can be installed with the following commands:
+- [@rbxts/react-reconciler-internal](https://www.npmjs.com/package/@rbxts/react-reconciler-internal) - NOTE: This README is copied directly from React upstream.
 - [@rbxts/react-redux](https://www.npmjs.com/package/@rbxts/react-redux) - roblox-ts typings for react-redux
 - [@rbxts/react-reflex](https://www.npmjs.com/package/@rbxts/react-reflex) - React bindings for Reflex
 - [@rbxts/react-ripple](https://www.npmjs.com/package/@rbxts/react-ripple) - Hooks for Ripple. Built off of RoactFlipper.
@@ -512,10 +513,10 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/react-tooltip](https://www.npmjs.com/package/@rbxts/react-tooltip) - A tooltip library for Roblox UIs using React
 - [@rbxts/react-tooltips](https://www.npmjs.com/package/@rbxts/react-tooltips) - React tooltips
 - [@rbxts/react-tree](https://www.npmjs.com/package/@rbxts/react-tree)
-- [@rbxts/react-ts](https://www.npmjs.com/package/@rbxts/react-ts) - To allow React in Roblox-TS, this package combines `jsdotlua/react` and `jsdotlua/roact-compat` and re-exports them with typings from `@rbxts/roact` some types from [the DefinitelyTyped package](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/mast
+- [@rbxts/react-ts](https://www.npmjs.com/package/@rbxts/react-ts) - To allow React in Roblox-TS, this package combines jsdotlua/react and jsdotlua/roact-compat and re-exports them with typings from @rbxts/roact some types from [the DefinitelyTyped package](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/mast
 - [@rbxts/react-vendor](https://www.npmjs.com/package/@rbxts/react-vendor) - Internal module for @rbxts/react
 - [@rbxts/readonly](https://www.npmjs.com/package/@rbxts/readonly) - Just a simple function that is really only useful in roblox-ts for forcing the value to be inferred as readonly.
-- [@rbxts/red](https://www.npmjs.com/package/@rbxts/red) - A wrapper around jackdotink's [Red](https://github.com/jackdotink/Red)
+- [@rbxts/red](https://www.npmjs.com/package/@rbxts/red) - A wrapper around jackdotink's
 - [@rbxts/reflection](https://www.npmjs.com/package/@rbxts/reflection) - Library that allows you to work with types in runtime!
 - [@rbxts/reflection-runtime](https://www.npmjs.com/package/@rbxts/reflection-runtime) - Library that allows you to work with types in runtime!
 - [@rbxts/reflector](https://www.npmjs.com/package/@rbxts/reflector) - Reflector: Metadata Reflection API for Roblox-TS
@@ -540,9 +541,9 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/ripple](https://www.npmjs.com/package/@rbxts/ripple) - A motion library for Roblox
 - [@rbxts/rlog](https://www.npmjs.com/package/@rbxts/rlog) - Context-based server-side logging solution for ROBLOX projects.
 - [@rbxts/roact](https://www.npmjs.com/package/@rbxts/roact) - TypeScript support for Roact
-- [@rbxts/roact-compat-internal](https://www.npmjs.com/package/@rbxts/roact-compat-internal) - This package serves as a compatibility bridge between `react` and legacy [`Roact`](https://github.com/Roblox/roact). It can be used when migrating an existing codebase to React, but new code shouldn't use this package.
-- [@rbxts/roact-dnd](https://www.npmjs.com/package/@rbxts/roact-dnd) - \r \t\r \r \r   Roact Drag and Drop (D&D)\r 
-- [@rbxts/roact-flipper](https://www.npmjs.com/package/@rbxts/roact-flipper) -  roact-flipper-TS       \t\t<img src=\https://i
+- [@rbxts/roact-compat-internal](https://www.npmjs.com/package/@rbxts/roact-compat-internal) - This package serves as a compatibility bridge between react and legacy . It can be used when migrating an existing codebase to React, but new code shouldn't use this package.
+- [@rbxts/roact-dnd](https://www.npmjs.com/package/@rbxts/roact-dnd) - Roact Drag and Drop (D&D)
+- [@rbxts/roact-flipper](https://www.npmjs.com/package/@rbxts/roact-flipper) - roact-flipper-TS <img src="https://i
 - [@rbxts/roact-hooked](https://www.npmjs.com/package/@rbxts/roact-hooked) - Roact hooks based on Kampfkarren's hooks & React Hooks
 - [@rbxts/roact-hooked-plus](https://www.npmjs.com/package/@rbxts/roact-hooked-plus) - Useful hooks for @rbxts/roact-hooked
 - [@rbxts/roact-hooks](https://www.npmjs.com/package/@rbxts/roact-hooks) - Typings for Kampfkarren's roact-hooks module
@@ -553,7 +554,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/roact-spring](https://www.npmjs.com/package/@rbxts/roact-spring) - A modern spring-physics based animation library for Roact inspired by react-spring
 - [@rbxts/roact-spritesheet](https://www.npmjs.com/package/@rbxts/roact-spritesheet) - This is a handy spritesheet component for Roact. It can easily be used with Evaera's Radial Sprite Sheet generator, but works for general purpose spritesheets too.
 - [@rbxts/roact-studio-components](https://www.npmjs.com/package/@rbxts/roact-studio-components) - Meant for being used for plugin development.
-- [@rbxts/roact-wm](https://www.npmjs.com/package/@rbxts/roact-wm) -  \t         Roact Window Manager \t \t\t \t \t      
+- [@rbxts/roact-wm](https://www.npmjs.com/package/@rbxts/roact-wm) - Roact Window Manager
 - [@rbxts/roblox-observers](https://www.npmjs.com/package/@rbxts/roblox-observers) - Observers to help simplify some specific event handling.
 - [@rbxts/roblox-parallel-worker](https://www.npmjs.com/package/@rbxts/roblox-parallel-worker) - A ModuleScript library designed to abstract away Roblox's Actor model for parallel execution in favor of a simple task distribution module which handles the lifetime execution of a parallel task!
 - [@rbxts/roblox-wait-for](https://www.npmjs.com/package/@rbxts/roblox-wait-for)
@@ -566,21 +567,21 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/rodux-toolkit](https://www.npmjs.com/package/@rbxts/rodux-toolkit) - Heavily inspired Redux-Toolkit project for @rbxts/rodux-remastered
 - [@rbxts/roduxutils](https://www.npmjs.com/package/@rbxts/roduxutils) - Typings for SolarHorizon's Rodux-Utils module. https://solarhorizon.github.io/rodux-utils/api/RoduxUtils
 - [@rbxts/rofraps](https://www.npmjs.com/package/@rbxts/rofraps) - RoFraps is used to measure some performance related things. Ported to Roblox-TS, originally made by HowManySmall.
-- [@rbxts/rokux](https://www.npmjs.com/package/@rbxts/rokux) - (Inspired by Rodux)\nThis is a small package which manages states.\nThe reason why I am creating my own state machine is simply because I wanted to.\nIt is ultra lightweight, so don't expect too many features.
+- [@rbxts/rokux](https://www.npmjs.com/package/@rbxts/rokux) - (Inspired by Rodux) This is a small package which manages states. The reason why I am creating my own state machine is simply because I wanted to. It is ultra lightweight, so don't expect too many features.
 - [@rbxts/roman-numerals](https://www.npmjs.com/package/@rbxts/roman-numerals) - Utility functions for parsing and converting roman numerals
-- [@rbxts/roquest](https://www.npmjs.com/package/@rbxts/roquest) - RoQuest is a sophisticated abstract implementation of a Quest System. 
+- [@rbxts/roquest](https://www.npmjs.com/package/@rbxts/roquest) - RoQuest is a sophisticated abstract implementation of a Quest System.
 - [@rbxts/roselect](https://www.npmjs.com/package/@rbxts/roselect) - Simple “selector” library for Rodux
 - [@rbxts/rotatedregion3](https://www.npmjs.com/package/@rbxts/rotatedregion3) - A port of EgoMoose's Rotated Region 3 module.
 - [@rbxts/rotypeuibolt](https://www.npmjs.com/package/@rbxts/rotypeuibolt) - This is a next generation, super modern and highly declarative user interface library. It uses a revolutionary and concise IDL called TypeScript types which allows you to focus on designing your UI, not writing code.
 - [@rbxts/round-towards-zero](https://www.npmjs.com/package/@rbxts/round-towards-zero)
 - [@rbxts/router](https://www.npmjs.com/package/@rbxts/router) - A core library for creating REST APIs in Roblox
-- [@rbxts/rowind-mini](https://www.npmjs.com/package/@rbxts/rowind-mini) - *This is a fork of RowindCSS, it was separated from the original repo as it uses a completely separate code structure and fundamentalism without interfering with yayashn's project.*
+- [@rbxts/rowind-mini](https://www.npmjs.com/package/@rbxts/rowind-mini) - This is a fork of RowindCSS, it was separated from the original repo as it uses a completely separate code structure and fundamentalism without interfering with yayashn's project.
 - [@rbxts/rowindcss](https://www.npmjs.com/package/@rbxts/rowindcss) - TailwindCSS classes for Roact & Roblox-ts.
 - [@rbxts/rparticle](https://www.npmjs.com/package/@rbxts/rparticle) - Super light weight and highly customizable 2D particle system for Roblox.
 - [@rbxts/rsml](https://www.npmjs.com/package/@rbxts/rsml) - A language for Roblox's styling system.
 - [@rbxts/rubine](https://www.npmjs.com/package/@rbxts/rubine) - An ergonomic, runtime agnostic scheduler for jecs
 - [@rbxts/rubine-roblox](https://www.npmjs.com/package/@rbxts/rubine-roblox) - A roblox extension for the ergonomic, runtime agnostic jecs scheduler
-- [@rbxts/runit](https://www.npmjs.com/package/@rbxts/runit) - A unit testing library for Roblox heavily inspired by xUnit from C#
+- [@rbxts/runit](https://www.npmjs.com/package/@rbxts/runit) - A unit testing library for Roblox heavily inspired by xUnit from C
 - [@rbxts/rust-classes](https://www.npmjs.com/package/@rbxts/rust-classes) - Typescript implementations of Rust's std types
 - [@rbxts/rx](https://www.npmjs.com/package/@rbxts/rx) - Reactive Extensions for modern JavaScript. (Ported to Roblox-TS)
 - [@rbxts/rx-state](https://www.npmjs.com/package/@rbxts/rx-state) - Observable based state management library. (Ported to Roblox-TS)
@@ -593,7 +594,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/schema](https://www.npmjs.com/package/@rbxts/schema) - A powerful tree reconciler with support for user-defined checks and instantiate callbacks.
 - [@rbxts/secure-cast](https://www.npmjs.com/package/@rbxts/secure-cast) - A server-authoritative projectile system for ROBLOX.
 - [@rbxts/securehitbox](https://www.npmjs.com/package/@rbxts/securehitbox)
-- [@rbxts/semver](https://www.npmjs.com/package/@rbxts/semver) - Implementation of [semver.lua](https://github.com/kikito/semver.lua) in `roblox-ts`.
+- [@rbxts/semver](https://www.npmjs.com/package/@rbxts/semver) - Implementation of in roblox-ts.
 - [@rbxts/ser](https://www.npmjs.com/package/@rbxts/ser)
 - [@rbxts/serio](https://www.npmjs.com/package/@rbxts/serio) - Roblox buffer serialization library
 - [@rbxts/server-networked-values](https://www.npmjs.com/package/@rbxts/server-networked-values) - A Roblox-TS library for networking persistent values from the server to the client
@@ -625,7 +626,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/sound2](https://www.npmjs.com/package/@rbxts/sound2)
 - [@rbxts/soundtrack](https://www.npmjs.com/package/@rbxts/soundtrack) - An Open-Source Soundtrack & SFX library for Roblox.
 - [@rbxts/spark](https://www.npmjs.com/package/@rbxts/spark) - This is a fork of https://github.com/nezuo/spark with typings. Originally from https://github.com/sporblord/spark.
-- [@rbxts/spr](https://www.npmjs.com/package/@rbxts/spr) - Springs are powerful approach for describing fluid, physically-based animation. **spr** is a high-performance and user-friendly motion library for Roblox based on springs.
+- [@rbxts/spr](https://www.npmjs.com/package/@rbxts/spr) - Springs are powerful approach for describing fluid, physically-based animation. spr is a high-performance and user-friendly motion library for Roblox based on springs.
 - [@rbxts/spring](https://www.npmjs.com/package/@rbxts/spring) - Simulates the motion of a critically damped spring
 - [@rbxts/spring-ts](https://www.npmjs.com/package/@rbxts/spring-ts)
 - [@rbxts/spriteclip](https://www.npmjs.com/package/@rbxts/spriteclip) - A Roblox module for easy sprite animation. Originally by nooneisback — with type declarations for roblox-ts compatibility.
@@ -650,7 +651,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/t](https://www.npmjs.com/package/@rbxts/t) - A Runtime Type Checker for Roblox
 - [@rbxts/table-authenticator](https://www.npmjs.com/package/@rbxts/table-authenticator) - Simple type checker for tables.
 - [@rbxts/tableutil](https://www.npmjs.com/package/@rbxts/tableutil) - A port of AeroGameFramework's TableUtil
-- [@rbxts/tableutil2](https://www.npmjs.com/package/@rbxts/tableutil2) - ## Changes
+- [@rbxts/tableutil2](https://www.npmjs.com/package/@rbxts/tableutil2)
 - [@rbxts/tally-store](https://www.npmjs.com/package/@rbxts/tally-store) - A Roblox TypeScript library for managing in-game global counters stores.
 - [@rbxts/task-event-emitter](https://www.npmjs.com/package/@rbxts/task-event-emitter) - Event emitter for roblox-ts using stravant's GoodSignal
 - [@rbxts/task-queue](https://www.npmjs.com/package/@rbxts/task-queue) - Queue of cancellable tasks that is shifted and resumed whenever a task finishes
@@ -663,14 +664,14 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/threader](https://www.npmjs.com/package/@rbxts/threader)
 - [@rbxts/tic-tac-toe](https://www.npmjs.com/package/@rbxts/tic-tac-toe) - Modular tic-tac-toe without dependencies, because why not.
 - [@rbxts/timer](https://www.npmjs.com/package/@rbxts/timer) - A simple package for creating timers to more accurately track time and allow for cancellation. Written using roblox-ts.
-- [@rbxts/timespan](https://www.npmjs.com/package/@rbxts/timespan) - A simple `TimeSpan` class.
+- [@rbxts/timespan](https://www.npmjs.com/package/@rbxts/timespan) - A simple TimeSpan class.
 - [@rbxts/tina](https://www.npmjs.com/package/@rbxts/tina)
 - [@rbxts/tnet](https://www.npmjs.com/package/@rbxts/tnet)
 - [@rbxts/todo](https://www.npmjs.com/package/@rbxts/todo)
-- [@rbxts/tool_pack](https://www.npmjs.com/package/@rbxts/tool_pack) - Documentation WIP\r For now you can read from the implementation
+- [@rbxts/tool_pack](https://www.npmjs.com/package/@rbxts/tool_pack) - Documentation WIP For now you can read from the implementation
 - [@rbxts/tooltip](https://www.npmjs.com/package/@rbxts/tooltip)
 - [@rbxts/topbar-components](https://www.npmjs.com/package/@rbxts/topbar-components) - @rbxts/react component package mimicking topbar-plus
-- [@rbxts/topbar-plus](https://www.npmjs.com/package/@rbxts/topbar-plus) - This ia a Typescript port of [ForeverHD's Topbar+ module](https://github.com/1ForeverHD/TopbarPlus).
+- [@rbxts/topbar-plus](https://www.npmjs.com/package/@rbxts/topbar-plus) - This ia a Typescript port of .
 - [@rbxts/topbarplus](https://www.npmjs.com/package/@rbxts/topbarplus) - Roblox-TS typings for the TopbarPlus module.
 - [@rbxts/topo-hooks](https://www.npmjs.com/package/@rbxts/topo-hooks) - Hooks for topo-runtime
 - [@rbxts/topo-runtime](https://www.npmjs.com/package/@rbxts/topo-runtime) - Topologically-aware runtime for Roblox
@@ -700,7 +701,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/use-sync-external-store](https://www.npmjs.com/package/@rbxts/use-sync-external-store) - Port of useSyncExternalStore.
 - [@rbxts/utf8-validate](https://www.npmjs.com/package/@rbxts/utf8-validate) - UTF8 validator
 - [@rbxts/uuid-transform](https://www.npmjs.com/package/@rbxts/uuid-transform) - A transformer for roblox-ts to change Enum values to UUIDs during compile time
-- [@rbxts/uzi](https://www.npmjs.com/package/@rbxts/uzi) - * Frame (Supports Gradient and Border) * Border * Corner (Has normal Behavior) * Group (Ty littensy) * Image (Supports gradients) * Input (Supports GuiObjects) * Layer (Ty littensy) * TextLabel (Supports CustomFont) * Transition (Ty littensy)
+- [@rbxts/uzi](https://www.npmjs.com/package/@rbxts/uzi) - Frame (Supports Gradient and Border) Border Corner (Has normal Behavior) Group (Ty littensy) Image (Supports gradients) Input (Supports GuiObjects) Layer (Ty littensy) TextLabel (Supports CustomFont) * Transition (Ty littensy)
 - [@rbxts/valibot](https://www.npmjs.com/package/@rbxts/valibot) - A Runtime Typechecker for Roblox
 - [@rbxts/validate-tree](https://www.npmjs.com/package/@rbxts/validate-tree) - Validates whether a given instance matches a given instance tree
 - [@rbxts/value-holders](https://www.npmjs.com/package/@rbxts/value-holders) - A module for passing any values around by sharing a pointer, as well as allowing consumers to subscribe to changes and allowing authors to hold locks on changing the value.
@@ -714,7 +715,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/viewportcanvas](https://www.npmjs.com/package/@rbxts/viewportcanvas) - A greedy meshed canvas for arbitrary drawings on Roblox
 - [@rbxts/virtualized-list](https://www.npmjs.com/package/@rbxts/virtualized-list) - roblox-ts typings for virtualized-list-lua
 - [@rbxts/visualize](https://www.npmjs.com/package/@rbxts/visualize) - A package for easily visualizing various information.
-- [@rbxts/void](https://www.npmjs.com/package/@rbxts/void) - **Plasma** is a declarative, immediate mode UI widget library for _[Roblox]_.
+- [@rbxts/void](https://www.npmjs.com/package/@rbxts/void) - Plasma is a declarative, immediate mode UI widget library for [Roblox].
 - [@rbxts/vrlib](https://www.npmjs.com/package/@rbxts/vrlib) - TypeScript support for VRLib
 - [@rbxts/wait-for](https://www.npmjs.com/package/@rbxts/wait-for) - Wait for instances to exist
 - [@rbxts/wave](https://www.npmjs.com/package/@rbxts/wave) - A sine/cosine wave implementation for Roblox
@@ -735,10 +736,10 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/yield-for-tree](https://www.npmjs.com/package/@rbxts/yield-for-tree) - Yield until all members of a specified tree exist, then dot access!
 - [@rbxts/z](https://www.npmjs.com/package/@rbxts/z) - A Runtime Typechecker for Roblox
 - [@rbxts/zenui-core](https://www.npmjs.com/package/@rbxts/zenui-core) - Core user interface code for the Zenerith Engine - open sourced for other games using TypeScript to use.
-- [@rbxts/zircon](https://www.npmjs.com/package/@rbxts/zircon) - \r     \r     ZIRCON\r     A clean, sleek, runtime debugging console for Roblox\r     <img src=\https://badge.fury.io
-- [@rbxts/zirconium](https://www.npmjs.com/package/@rbxts/zirconium) -  \t   \tZirconium     \t \t\t \t <
+- [@rbxts/zircon](https://www.npmjs.com/package/@rbxts/zircon) - ZIRCON A clean, sleek, runtime debugging console for Roblox <img src="https://badge.fury.io
+- [@rbxts/zirconium](https://www.npmjs.com/package/@rbxts/zirconium) - Zirconium <
 - [@rbxts/zirconium-ast](https://www.npmjs.com/package/@rbxts/zirconium-ast) - Parser for Zirconium
-- [@rbxts/zlib](https://www.npmjs.com/package/@rbxts/zlib) - Zlib is a library is used for compressing strings. Mainly used for optimizing datastores. Outclasses [squash](https://www.npmjs.com/package/@rbxts/squash) when compressing strings for datastores. This package is **not made by me**, I just wanted to upload
+- [@rbxts/zlib](https://www.npmjs.com/package/@rbxts/zlib) - Zlib is a library is used for compressing strings. Mainly used for optimizing datastores. Outclasses when compressing strings for datastores. This package is not made by me, I just wanted to upload
 - [@rbxts/zone-plus](https://www.npmjs.com/package/@rbxts/zone-plus) - Typings for ForeverHD's ZonePlus v3 module
 - [@rbxts/zterm](https://www.npmjs.com/package/@rbxts/zterm)
 - [@rbxts/zustand](https://www.npmjs.com/package/@rbxts/zustand) - Port of Zustand for roblox-ts. Only tested for usage with @rbxts/react-ts, vanilla stores have not tested and may or may not work.
