@@ -18,6 +18,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [`@rbxts-js/math`](https://www.npmjs.com/package/%40rbxts-js%2Fmath)
 - [`@rbxts-js/number`](https://www.npmjs.com/package/%40rbxts-js%2Fnumber)
 - [`@rbxts-js/symbol-luau`](https://www.npmjs.com/package/%40rbxts-js%2Fsymbol-luau) - A Symbol object to mimic [JavaScript's Symbol type](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol).
+- [`@rbxts-js/timers`](https://www.npmjs.com/package/%40rbxts-js%2Ftimers)
 - [`@rbxts/abbreviate`](https://www.npmjs.com/package/%40rbxts%2Fabbreviate) - A lightweight number abbreviator
 - [`@rbxts/airfoil`](https://www.npmjs.com/package/%40rbxts%2Fairfoil) - Widgeon's modified Sleitnick airfoil module, ported to roblox-ts
 - [`@rbxts/allocator`](https://www.npmjs.com/package/%40rbxts%2Fallocator) - Roblox-TS object pooling system with configurable allocation strategies for efficient object management.
@@ -97,7 +98,6 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [`@rbxts/jest`](https://www.npmjs.com/package/%40rbxts%2Fjest) - Delightful testing for Roblox TypeScript
 - [`@rbxts/jsnatives`](https://www.npmjs.com/package/%40rbxts%2Fjsnatives) - A TypeScript library for Roblox that provides JavaScript-like native functionality, including Proxy, Object utilities, setTimeout/setInterval, JSON, and more.
 - [`@rbxts/jwt`](https://www.npmjs.com/package/%40rbxts%2Fjwt) - JWT lib for Luau
-- [`@rbxts/kitamin`](https://www.npmjs.com/package/%40rbxts%2Fkitamin) - Roblox administration, controlled.
 - [`@rbxts/knit`](https://www.npmjs.com/package/%40rbxts%2Fknit) - Roblox game framework (Alpha)
 - [`@rbxts/lapis-mockdatastore`](https://www.npmjs.com/package/%40rbxts%2Flapis-mockdatastore) - ## Warning This is not a fully featured mock DataStoreService. It's intended to test [Lapis](https://github.com/nezuo/lapis) so it includes only the necessary features.
 - [`@rbxts/lapis`](https://www.npmjs.com/package/%40rbxts%2Flapis) - A Roblox DataStore abstraction that offers: - **Session Locking** - Documents can only be accessed from one server at a time. This prevents some bugs and duping methods. - **Validation** - Ensure your data is correct before saving it. - **Migrations** - U
