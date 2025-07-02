@@ -688,6 +688,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/try](https://www.npmjs.com/package/@rbxts/try) - No yield and no error callback wrapper
 - [@rbxts/ts-pattern](https://www.npmjs.com/package/@rbxts/ts-pattern) - ts-pattern adaption for roblox-ts
 - [@rbxts/ts-remote](https://www.npmjs.com/package/@rbxts/ts-remote) - Type safe remotes
+- [@rbxts/tutorial-ui-highlight](https://www.npmjs.com/package/@rbxts/tutorial-ui-highlight) - A React-based tutorial UI highlighting system for Roblox TypeScript projects. Create interactive tutorials with customizable overlay highlighting and step-by-step guidance.
 - [@rbxts/tween](https://www.npmjs.com/package/@rbxts/tween) - A library for writing efficient, simple interpolation code
 - [@rbxts/tweenreplicator](https://www.npmjs.com/package/@rbxts/tweenreplicator) - Easily replicate multiple tweens to the client.
 - [@rbxts/twin](https://www.npmjs.com/package/@rbxts/twin) - A modern TweenService tween builder.
