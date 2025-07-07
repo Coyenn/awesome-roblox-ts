@@ -346,6 +346,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/markdown-ast](https://www.npmjs.com/package/@rbxts/markdown-ast) - Exposes a simple 'parse' function that generates an AST from Markdown
 - [@rbxts/matchmakingservice](https://www.npmjs.com/package/@rbxts/matchmakingservice)
 - [@rbxts/math](https://www.npmjs.com/package/@rbxts/math) - A port of RobloxianDemo's Math module.
+- [@rbxts/mathparser](https://www.npmjs.com/package/@rbxts/mathparser) - Math expression parser and evaluator + more for roblox-ts
 - [@rbxts/matter](https://www.npmjs.com/package/@rbxts/matter) - <img src="https://github.com/matter-ecs/matter
 - [@rbxts/matter-bootstrap](https://www.npmjs.com/package/@rbxts/matter-bootstrap) - A simple class that handles everything needed to bootstrap a Matter world including hot-reloading, live debug, networking (using @rbxts/yetanothernet), and component replication.
 - [@rbxts/matter-hooks](https://www.npmjs.com/package/@rbxts/matter-hooks) - A hooks library for Matter
