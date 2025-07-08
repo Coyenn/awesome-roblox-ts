@@ -107,7 +107,6 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/cleanser](https://www.npmjs.com/package/@rbxts/cleanser) - A port of RobloxianDemo's Cleanser class.
 - [@rbxts/clientcast](https://www.npmjs.com/package/@rbxts/clientcast) - typings for the clientcast module made by PysephRBX
 - [@rbxts/cmdr](https://www.npmjs.com/package/@rbxts/cmdr) - View Docs
-- [@rbxts/coldfusion](https://www.npmjs.com/package/@rbxts/coldfusion) - Made My own version of fusion for roblox
 - [@rbxts/color](https://www.npmjs.com/package/@rbxts/color) - Color ============= Library for manipulating colors
 - [@rbxts/colour-utils](https://www.npmjs.com/package/@rbxts/colour-utils) - Colour manipulation utility for Roblox
 - [@rbxts/comet](https://www.npmjs.com/package/@rbxts/comet) - A fast framework for plugin development inspired by flamework.
@@ -224,6 +223,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/flamework-instance-parser](https://www.npmjs.com/package/@rbxts/flamework-instance-parser) - This is a small library that allows you to convert instances into a specified structure.
 - [@rbxts/flamework-instance-pooling](https://www.npmjs.com/package/@rbxts/flamework-instance-pooling) - Classes to pool Roblox instances, UIPool and PartPool included
 - [@rbxts/flamework-meta-utils](https://www.npmjs.com/package/@rbxts/flamework-meta-utils) - Metadata utility and utility macros for Flamework
+- [@rbxts/flamework-react-utils](https://www.npmjs.com/package/@rbxts/flamework-react-utils)
 - [@rbxts/flamework-shared-components-react](https://www.npmjs.com/package/@rbxts/flamework-shared-components-react)
 - [@rbxts/flipper](https://www.npmjs.com/package/@rbxts/flipper) - An animation library for Roblox
 - [@rbxts/flow](https://www.npmjs.com/package/@rbxts/flow) - Roblox-TS types for the Flow library (https://github.com/grilme99/Flow)
@@ -598,6 +598,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/secure-cast](https://www.npmjs.com/package/@rbxts/secure-cast) - A server-authoritative projectile system for ROBLOX.
 - [@rbxts/securehitbox](https://www.npmjs.com/package/@rbxts/securehitbox)
 - [@rbxts/semver](https://www.npmjs.com/package/@rbxts/semver) - Implementation of in roblox-ts.
+- [@rbxts/sentry](https://www.npmjs.com/package/@rbxts/sentry) - An unofficial Roblox SDK for Sentry.io
 - [@rbxts/ser](https://www.npmjs.com/package/@rbxts/ser)
 - [@rbxts/serio](https://www.npmjs.com/package/@rbxts/serio) - Roblox buffer serialization library
 - [@rbxts/server-networked-values](https://www.npmjs.com/package/@rbxts/server-networked-values) - A Roblox-TS library for networking persistent values from the server to the client
