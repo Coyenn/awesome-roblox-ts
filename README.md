@@ -422,6 +422,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/persist](https://www.npmjs.com/package/@rbxts/persist) - Wrapper around
 - [@rbxts/phantom](https://www.npmjs.com/package/@rbxts/phantom) - Data manipulation library for Roblox
 - [@rbxts/ping](https://www.npmjs.com/package/@rbxts/ping) - Dead simple roblox-ts bindable event wrapper.
+- [@rbxts/pixie](https://www.npmjs.com/package/@rbxts/pixie)
 - [@rbxts/planck](https://www.npmjs.com/package/@rbxts/planck) - An agnostic scheduler for ECS
 - [@rbxts/planck-flamecs-hooks](https://www.npmjs.com/package/@rbxts/planck-flamecs-hooks) - A @rbxts/planck plugin that provides support for @rbxts/flamecs hooks.
 - [@rbxts/planck-hooks](https://www.npmjs.com/package/@rbxts/planck-hooks) - A @rbxts/planck plugin that provides support for hooks.
@@ -604,6 +605,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/server-networked-values](https://www.npmjs.com/package/@rbxts/server-networked-values) - A Roblox-TS library for networking persistent values from the server to the client
 - [@rbxts/services](https://www.npmjs.com/package/@rbxts/services) - A module that exports common Roblox services.
 - [@rbxts/ses](https://www.npmjs.com/package/@rbxts/ses) - A simple messaging library
+- [@rbxts/set-nested](https://www.npmjs.com/package/@rbxts/set-nested) - change.
 - [@rbxts/set-timeout](https://www.npmjs.com/package/@rbxts/set-timeout) - Functions for setTimeout and setInterval
 - [@rbxts/shared-class](https://www.npmjs.com/package/@rbxts/shared-class) - A package that utilizes decorators to sync a class between server and client.
 - [@rbxts/shared-classes-reflex](https://www.npmjs.com/package/@rbxts/shared-classes-reflex)
