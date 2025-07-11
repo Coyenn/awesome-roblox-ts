@@ -540,6 +540,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/result](https://www.npmjs.com/package/@rbxts/result) - An implementation of Rust-like Results for use with roblox-ts
 - [@rbxts/reverse-array](https://www.npmjs.com/package/@rbxts/reverse-array) - A simple function that just reverses any array given to it.
 - [@rbxts/reward-containers](https://www.npmjs.com/package/@rbxts/reward-containers) - A generic, type-safe library for Roblox game development, written using roblox-ts, for granting rewards to players through containers.
+- [@rbxts/rewindcss](https://www.npmjs.com/package/@rbxts/rewindcss) - TailwindCSS classes for Roblox-react & Roblox-ts.
 - [@rbxts/rewire](https://www.npmjs.com/package/@rbxts/rewire) - Roblox Typescript bindings for Rewire
 - [@rbxts/rich-text-stream](https://www.npmjs.com/package/@rbxts/rich-text-stream) - A Roblox rich text builder
 - [@rbxts/ripple](https://www.npmjs.com/package/@rbxts/ripple) - A motion library for Roblox
