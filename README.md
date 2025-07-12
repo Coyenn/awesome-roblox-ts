@@ -722,6 +722,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/vide-ripple](https://www.npmjs.com/package/@rbxts/vide-ripple) - Vide bindings for Ripple spring animation
 - [@rbxts/viewport-model](https://www.npmjs.com/package/@rbxts/viewport-model) - Typings of Lua class to calculate camera distance/cframe for fitting models into viewport frames
 - [@rbxts/viewportcanvas](https://www.npmjs.com/package/@rbxts/viewportcanvas) - A greedy meshed canvas for arbitrary drawings on Roblox
+- [@rbxts/viewportmodel](https://www.npmjs.com/package/@rbxts/viewportmodel) - Type script version of the EgoMoose module "ViewportModel.lua". It's a module calculating the camera position to fit a model in the viewport frame.
 - [@rbxts/virtualized-list](https://www.npmjs.com/package/@rbxts/virtualized-list) - roblox-ts typings for virtualized-list-lua
 - [@rbxts/visualize](https://www.npmjs.com/package/@rbxts/visualize) - A package for easily visualizing various information.
 - [@rbxts/void](https://www.npmjs.com/package/@rbxts/void) - Plasma is a declarative, immediate mode UI widget library for [Roblox].
