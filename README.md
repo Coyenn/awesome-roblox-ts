@@ -608,6 +608,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/ses](https://www.npmjs.com/package/@rbxts/ses) - A simple messaging library
 - [@rbxts/set-nested](https://www.npmjs.com/package/@rbxts/set-nested) - change.
 - [@rbxts/set-timeout](https://www.npmjs.com/package/@rbxts/set-timeout) - Functions for setTimeout and setInterval
+- [@rbxts/shapecasthitbox](https://www.npmjs.com/package/@rbxts/shapecasthitbox) - A shapecast-centric solution to melee hitboxes. Successor to RaycastHitbox. (TS typings)
 - [@rbxts/shared-class](https://www.npmjs.com/package/@rbxts/shared-class) - A package that utilizes decorators to sync a class between server and client.
 - [@rbxts/shared-classes-reflex](https://www.npmjs.com/package/@rbxts/shared-classes-reflex)
 - [@rbxts/shared-components-flamework](https://www.npmjs.com/package/@rbxts/shared-components-flamework) - This package will allow you to create shared components that will synchronize between server and client. This package is reflex-based, so it is important to know how to work with it to understand how this package works.
