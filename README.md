@@ -747,6 +747,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/yield-for-tree](https://www.npmjs.com/package/@rbxts/yield-for-tree) - Yield until all members of a specified tree exist, then dot access!
 - [@rbxts/z](https://www.npmjs.com/package/@rbxts/z) - A Runtime Typechecker for Roblox
 - [@rbxts/zenui-core](https://www.npmjs.com/package/@rbxts/zenui-core) - Core user interface code for the Zenerith Engine - open sourced for other games using TypeScript to use.
+- [@rbxts/zest](https://www.npmjs.com/package/@rbxts/zest) - Testing library from OCPlace
 - [@rbxts/zircon](https://www.npmjs.com/package/@rbxts/zircon) - ZIRCON A clean, sleek, runtime debugging console for Roblox <img src="https://badge.fury.io
 - [@rbxts/zirconium](https://www.npmjs.com/package/@rbxts/zirconium) - Zirconium <
 - [@rbxts/zirconium-ast](https://www.npmjs.com/package/@rbxts/zirconium-ast) - Parser for Zirconium
