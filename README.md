@@ -334,6 +334,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/luau-polyfill-internal](https://www.npmjs.com/package/@rbxts/luau-polyfill-internal)
 - [@rbxts/luau-thread](https://www.npmjs.com/package/@rbxts/luau-thread) - Parallel Luau library designed for simplicity and ease of use.
 - [@rbxts/luau-thread-fixed](https://www.npmjs.com/package/@rbxts/luau-thread-fixed) - Fork of for Roblox-ts
+- [@rbxts/lucide](https://www.npmjs.com/package/@rbxts/lucide) - Lucide Icons for Roblox
 - [@rbxts/lumin-framework](https://www.npmjs.com/package/@rbxts/lumin-framework) - A feather light framework for Roblox-TS games
 - [@rbxts/lunit](https://www.npmjs.com/package/@rbxts/lunit)
 - [@rbxts/lyra](https://www.npmjs.com/package/@rbxts/lyra) - A DataStoreService wrapper
