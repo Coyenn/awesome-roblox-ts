@@ -206,6 +206,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/feces](https://www.npmjs.com/package/@rbxts/feces) - Fast Entity Component Export System
 - [@rbxts/fenwick-tree](https://www.npmjs.com/package/@rbxts/fenwick-tree) - A 1-based Fenwick Tree implementation.
 - [@rbxts/fetch](https://www.npmjs.com/package/@rbxts/fetch) - Fetch for Roblox-TS!
+- [@rbxts/fetch-patched](https://www.npmjs.com/package/@rbxts/fetch-patched) - quick workaround for @rbxts/fetch
 - [@rbxts/fetchu](https://www.npmjs.com/package/@rbxts/fetchu) - Simplifying requests out of Roblox making HttpService easier.
 - [@rbxts/fflag](https://www.npmjs.com/package/@rbxts/fflag) - TypeScript wrapper for Boatbomber's SheetValues FFlag implementation.
 - [@rbxts/find-up](https://www.npmjs.com/package/@rbxts/find-up) - Find an Instance by walking up ancestors
