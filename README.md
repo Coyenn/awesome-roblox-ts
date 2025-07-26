@@ -228,6 +228,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/flamework-shared-components-react](https://www.npmjs.com/package/@rbxts/flamework-shared-components-react)
 - [@rbxts/flipper](https://www.npmjs.com/package/@rbxts/flipper) - An animation library for Roblox
 - [@rbxts/flow](https://www.npmjs.com/package/@rbxts/flow) - Roblox-TS types for the Flow library (https://github.com/grilme99/Flow)
+- [@rbxts/forge](https://www.npmjs.com/package/@rbxts/forge) - reactive window state manager for vide
 - [@rbxts/format-number](https://www.npmjs.com/package/@rbxts/format-number) - This contains the typing for
 - [@rbxts/formatting](https://www.npmjs.com/package/@rbxts/formatting) - Utility functions for formatting numbers and parsing strings back into numbers for Roblox
 - [@rbxts/fsm](https://www.npmjs.com/package/@rbxts/fsm) - Generic finite state machine implementation for roblox-ts.
@@ -425,13 +426,14 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/phantom](https://www.npmjs.com/package/@rbxts/phantom) - Data manipulation library for Roblox
 - [@rbxts/ping](https://www.npmjs.com/package/@rbxts/ping) - Dead simple roblox-ts bindable event wrapper.
 - [@rbxts/pixie](https://www.npmjs.com/package/@rbxts/pixie)
-- [@rbxts/planck](https://www.npmjs.com/package/@rbxts/planck) - An agnostic scheduler for ECS
+- [@rbxts/planck](https://www.npmjs.com/package/@rbxts/planck) - An Agnostic Scheduler, inspired by Bevy Schedules and Flecs Pipelines and Phases
 - [@rbxts/planck-flamecs-hooks](https://www.npmjs.com/package/@rbxts/planck-flamecs-hooks) - A @rbxts/planck plugin that provides support for @rbxts/flamecs hooks.
 - [@rbxts/planck-hooks](https://www.npmjs.com/package/@rbxts/planck-hooks) - A @rbxts/planck plugin that provides support for hooks.
-- [@rbxts/planck-jabby](https://www.npmjs.com/package/@rbxts/planck-jabby) - A Plugin for Planck, adding support for the Jabby debugger.
+- [@rbxts/planck-jabby](https://www.npmjs.com/package/@rbxts/planck-jabby) - A Jabby plugin for the Planck scheduler - debug and visualize your Planck scheduling system with jecs entity debugging tools
 - [@rbxts/planck-matter-debugger](https://www.npmjs.com/package/@rbxts/planck-matter-debugger) - A Plugin for Planck, adding support for the matter debugger.
 - [@rbxts/planck-matter-hooks](https://www.npmjs.com/package/@rbxts/planck-matter-hooks) - A Plugin for Planck, adding support for matter hooks.
 - [@rbxts/planck-rewire](https://www.npmjs.com/package/@rbxts/planck-rewire) - A hot-reload plugin for @rbxts/planck
+- [@rbxts/planck-runservice](https://www.npmjs.com/package/@rbxts/planck-runservice) - Roblox RunService integration for Planck scheduler providing Heartbeat, Stepped, and RenderStepped phases
 - [@rbxts/plasma](https://www.npmjs.com/package/@rbxts/plasma) - Plasma is a declarative, immediate mode UI widget library for [Roblox].
 - [@rbxts/player-hooks](https://www.npmjs.com/package/@rbxts/player-hooks) - A port of RobloxianDemo's Player class.
 - [@rbxts/player-module-types](https://www.npmjs.com/package/@rbxts/player-module-types) - This package provides TypeScript type definitions for the Roblox built-in PlayerModule. It is designed to be used with roblox-ts.
