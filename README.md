@@ -420,6 +420,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/parallelworker](https://www.npmjs.com/package/@rbxts/parallelworker) - A ModuleScript library designed to abstract away Roblox's Actor model for parallel execution in favor of a simple task distribution module which handles the lifetime execution of a parallel task!
 - [@rbxts/partcache](https://www.npmjs.com/package/@rbxts/partcache) - Typings for Eti's PartCache module
 - [@rbxts/pascal](https://www.npmjs.com/package/@rbxts/pascal) - PascalCase primitive types for Roblox TypeScript.
+- [@rbxts/path](https://www.npmjs.com/package/@rbxts/path) - A TypeScript wrapper for Roblox's PathfindingService
 - [@rbxts/path-finding](https://www.npmjs.com/package/@rbxts/path-finding) - A generic path finding library for finding paths and generating flow maps.
 - [@rbxts/path-parser](https://www.npmjs.com/package/@rbxts/path-parser) - parses string paths and returns their respective roblox instances
 - [@rbxts/persist](https://www.npmjs.com/package/@rbxts/persist) - Wrapper around
@@ -537,6 +538,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/remo](https://www.npmjs.com/package/@rbxts/remo) - A simple remote library for Roblox
 - [@rbxts/remoteevent](https://www.npmjs.com/package/@rbxts/remoteevent) - Typed Remote Event support for roblox-ts.
 - [@rbxts/replace](https://www.npmjs.com/package/@rbxts/replace) - Helping library implements simpler way working with roblox vectors & cframes
+- [@rbxts/replecs](https://www.npmjs.com/package/@rbxts/replecs) - Replication library for Jecs
 - [@rbxts/replica](https://www.npmjs.com/package/@rbxts/replica) - Roblox-TS typings for Replica
 - [@rbxts/replicaservice](https://www.npmjs.com/package/@rbxts/replicaservice) - ReplicaService typings.
 - [@rbxts/reply](https://www.npmjs.com/package/@rbxts/reply) - Advanced lightweight rokux-like store replicator.
