@@ -603,6 +603,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/scale-model](https://www.npmjs.com/package/@rbxts/scale-model) - Scale and Resize Models and Parts while maintaining correct relationships with descendants
 - [@rbxts/scheduler-internal](https://www.npmjs.com/package/@rbxts/scheduler-internal) - This is a package for cooperative scheduling in a Lua environment. It is currently used internally by React, but we plan to make it more generic.
 - [@rbxts/schema](https://www.npmjs.com/package/@rbxts/schema) - A powerful tree reconciler with support for user-defined checks and instantiate callbacks.
+- [@rbxts/screen3d](https://www.npmjs.com/package/@rbxts/screen3d) - 3D UI that just works. Now with TypeScript types!
 - [@rbxts/secure-cast](https://www.npmjs.com/package/@rbxts/secure-cast) - A server-authoritative projectile system for ROBLOX.
 - [@rbxts/securehitbox](https://www.npmjs.com/package/@rbxts/securehitbox)
 - [@rbxts/semver](https://www.npmjs.com/package/@rbxts/semver) - Implementation of in roblox-ts.
@@ -619,7 +620,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/shared-classes-reflex](https://www.npmjs.com/package/@rbxts/shared-classes-reflex)
 - [@rbxts/shared-components-flamework](https://www.npmjs.com/package/@rbxts/shared-components-flamework) - This package will allow you to create shared components that will synchronize between server and client. This package is reflex-based, so it is important to know how to work with it to understand how this package works.
 - [@rbxts/sheetvalues](https://www.npmjs.com/package/@rbxts/sheetvalues) - Use Google Sheets as a live value updater for Roblox games. roblox-ts typings for SheetValues by boatbomber
-- [@rbxts/shieldcore](https://www.npmjs.com/package/@rbxts/shieldcore)
+- [@rbxts/shieldcore](https://www.npmjs.com/package/@rbxts/shieldcore) - Shieldcore is a Roblox framework for creating command-based systems.
 - [@rbxts/sift](https://www.npmjs.com/package/@rbxts/sift) - Immutable data library for Luau
 - [@rbxts/sight](https://www.npmjs.com/package/@rbxts/sight)
 - [@rbxts/signal](https://www.npmjs.com/package/@rbxts/signal) - BindableEvent wrapper which passes values by reference
