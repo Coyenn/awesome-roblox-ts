@@ -73,6 +73,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/bus](https://www.npmjs.com/package/@rbxts/bus) - Lightweight Event bus for Roblox
 - [@rbxts/bytenet](https://www.npmjs.com/package/@rbxts/bytenet) - ---
 - [@rbxts/bytenet-fixed](https://www.npmjs.com/package/@rbxts/bytenet-fixed)
+- [@rbxts/cachefy](https://www.npmjs.com/package/@rbxts/cachefy) - Cachefy is a tool that provides an advanced cache that auto-cleanups every-time you want and also replicates if you need it, useful for user in-server global interactions sync so it seems like it is live while it isn't
 - [@rbxts/callback-pool](https://www.npmjs.com/package/@rbxts/callback-pool) - Includes a CallbackPool class, than, when drained, will execute all functions currently in it's pool and then remove them from the pool.
 - [@rbxts/camera-shaker](https://www.npmjs.com/package/@rbxts/camera-shaker) - roblox-ts package for Crazyman32's Roblox port of "EZ Camera Shake"
 - [@rbxts/canaryengine](https://www.npmjs.com/package/@rbxts/canaryengine) - CanaryEngine is a lightweight and performant game framework for beginners and power-users alike.
