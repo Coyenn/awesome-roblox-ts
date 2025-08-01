@@ -182,6 +182,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/easytween](https://www.npmjs.com/package/@rbxts/easytween)
 - [@rbxts/ebba](https://www.npmjs.com/package/@rbxts/ebba) - jabby is a debugger for based off
 - [@rbxts/ecr](https://www.npmjs.com/package/@rbxts/ecr) - A sparse-set based ECS library for Luau, now with TS types.
+- [@rbxts/ecs-lite](https://www.npmjs.com/package/@rbxts/ecs-lite) - Lightweight and fast ECS framework for Roblox-TS
 - [@rbxts/eis](https://www.npmjs.com/package/@rbxts/eis) - A roblox UI manager with useful utils
 - [@rbxts/emitter](https://www.npmjs.com/package/@rbxts/emitter) - Roblox Typescript package for creating event-emitting objects and classes.
 - [@rbxts/emittery](https://www.npmjs.com/package/@rbxts/emittery) - Emittery v0.11.0 bindings for Roblox.
@@ -421,6 +422,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/parallelworker](https://www.npmjs.com/package/@rbxts/parallelworker) - A ModuleScript library designed to abstract away Roblox's Actor model for parallel execution in favor of a simple task distribution module which handles the lifetime execution of a parallel task!
 - [@rbxts/partcache](https://www.npmjs.com/package/@rbxts/partcache) - Typings for Eti's PartCache module
 - [@rbxts/pascal](https://www.npmjs.com/package/@rbxts/pascal) - PascalCase primitive types for Roblox TypeScript.
+- [@rbxts/patch-cameramodule](https://www.npmjs.com/package/@rbxts/patch-cameramodule) - Access the CameraModule API in the Roblox PlayerModule
 - [@rbxts/path](https://www.npmjs.com/package/@rbxts/path) - A TypeScript wrapper for Roblox's PathfindingService
 - [@rbxts/path-finding](https://www.npmjs.com/package/@rbxts/path-finding) - A generic path finding library for finding paths and generating flow maps.
 - [@rbxts/path-parser](https://www.npmjs.com/package/@rbxts/path-parser) - parses string paths and returns their respective roblox instances
