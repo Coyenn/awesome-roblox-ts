@@ -766,3 +766,4 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/zterm](https://www.npmjs.com/package/@rbxts/zterm)
 - [@rbxts/zustand](https://www.npmjs.com/package/@rbxts/zustand) - Port of Zustand for roblox-ts. Only tested for usage with @rbxts/react-ts, vanilla stores have not tested and may or may not work.
 - [@rbxts/zycore](https://www.npmjs.com/package/@rbxts/zycore) - Utilities I have considered useful for my projects.
+- [@rbxts/zyntex-sdk](https://www.npmjs.com/package/@rbxts/zyntex-sdk) - Typescript types for: The Roblox Zyntex SDK.
