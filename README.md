@@ -665,6 +665,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/studiocomponents-react](https://www.npmjs.com/package/@rbxts/studiocomponents-react) - A forked version of @rbxts/studiocomponents migrated over to @rbxts/react
 - [@rbxts/suphi-datastore](https://www.npmjs.com/package/@rbxts/suphi-datastore) - About typescript support for suphi's dataStore module
 - [@rbxts/sweet-charm](https://www.npmjs.com/package/@rbxts/sweet-charm) - Library for @rbxts/charm that allows to create atom classes and sync them using repositories
+- [@rbxts/syn-utils](https://www.npmjs.com/package/@rbxts/syn-utils) - A utilities package that I use for personal development but is welcomed to be used, if you find yourself with any use cases :)
 - [@rbxts/synced-poller](https://www.npmjs.com/package/@rbxts/synced-poller) - Calls functions on an interval along os.time (for cross-server simultaneous calls)
 - [@rbxts/t](https://www.npmjs.com/package/@rbxts/t) - A Runtime Type Checker for Roblox
 - [@rbxts/table-authenticator](https://www.npmjs.com/package/@rbxts/table-authenticator) - Simple type checker for tables.
@@ -717,7 +718,6 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/ui-motion](https://www.npmjs.com/package/@rbxts/ui-motion) - A simple package to animate UI elements in Roblox.
 - [@rbxts/ui-scaler](https://www.npmjs.com/package/@rbxts/ui-scaler) - This library will allow you to scalable ui
 - [@rbxts/uiblox](https://www.npmjs.com/package/@rbxts/uiblox) - UI Library and theming for roblox-ts projects
-- [@rbxts/uipresets](https://www.npmjs.com/package/@rbxts/uipresets) - This is a package that contains various UI presets and components which was designed to ease my development. You are welcome to use this package I will note that it's mainly designed for personal use.
 - [@rbxts/use-sync-external-store](https://www.npmjs.com/package/@rbxts/use-sync-external-store) - Port of useSyncExternalStore.
 - [@rbxts/utf8-validate](https://www.npmjs.com/package/@rbxts/utf8-validate) - UTF8 validator
 - [@rbxts/uuid-transform](https://www.npmjs.com/package/@rbxts/uuid-transform) - A transformer for roblox-ts to change Enum values to UUIDs during compile time
