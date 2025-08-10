@@ -17,6 +17,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/amulet](https://www.npmjs.com/package/@rbxts/amulet) - Atomic state management for Roblox
 - [@rbxts/anatta](https://www.npmjs.com/package/@rbxts/anatta)
 - [@rbxts/animation](https://www.npmjs.com/package/@rbxts/animation) - @rbxts/animation is inspired by Flameworks networking package and streamlines the process of creating, and loading
+- [@rbxts/animation-replicator](https://www.npmjs.com/package/@rbxts/animation-replicator)
 - [@rbxts/api-dump-fetcher](https://www.npmjs.com/package/@rbxts/api-dump-fetcher) - Fully types MaximumADHD Api-Dump (mostly for plugins)
 - [@rbxts/array-utils](https://www.npmjs.com/package/@rbxts/array-utils) - Extra utility methods for roblox-ts arrays
 - [@rbxts/asciify](https://www.npmjs.com/package/@rbxts/asciify) - Package to convert UTF-8 to ASCII with minimal loss
@@ -328,6 +329,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/loader](https://www.npmjs.com/package/@rbxts/loader) - A simple module loader for Roblox-TS.
 - [@rbxts/localize](https://www.npmjs.com/package/@rbxts/localize) - Roblox localization framework.
 - [@rbxts/log](https://www.npmjs.com/package/@rbxts/log) - Structured logging library for Roblox
+- [@rbxts/logger](https://www.npmjs.com/package/@rbxts/logger) - A lightweight and flexible logger utility for Roblox projects. Supports message templates for clean, readable log statements.
 - [@rbxts/logsnag](https://www.npmjs.com/package/@rbxts/logsnag) - LogSnag SDK for roblox-ts
 - [@rbxts/longuint-ui](https://www.npmjs.com/package/@rbxts/longuint-ui) - A lightweight ui component library.
 - [@rbxts/loot](https://www.npmjs.com/package/@rbxts/loot)
