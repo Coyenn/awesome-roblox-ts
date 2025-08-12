@@ -588,6 +588,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/roquest](https://www.npmjs.com/package/@rbxts/roquest) - RoQuest is a sophisticated abstract implementation of a Quest System.
 - [@rbxts/roselect](https://www.npmjs.com/package/@rbxts/roselect) - Simple “selector” library for Rodux
 - [@rbxts/rotatedregion3](https://www.npmjs.com/package/@rbxts/rotatedregion3) - A port of EgoMoose's Rotated Region 3 module.
+- [@rbxts/rotype](https://www.npmjs.com/package/@rbxts/rotype) - Advanced runtime type checking library
 - [@rbxts/rotypeuibolt](https://www.npmjs.com/package/@rbxts/rotypeuibolt) - This is a next generation, super modern and highly declarative user interface library. It uses a revolutionary and concise IDL called TypeScript types which allows you to focus on designing your UI, not writing code.
 - [@rbxts/round-towards-zero](https://www.npmjs.com/package/@rbxts/round-towards-zero)
 - [@rbxts/router](https://www.npmjs.com/package/@rbxts/router) - A core library for creating REST APIs in Roblox
