@@ -744,6 +744,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/vrlib](https://www.npmjs.com/package/@rbxts/vrlib) - TypeScript support for VRLib
 - [@rbxts/wait-for](https://www.npmjs.com/package/@rbxts/wait-for) - Wait for instances to exist
 - [@rbxts/wave](https://www.npmjs.com/package/@rbxts/wave) - A sine/cosine wave implementation for Roblox
+- [@rbxts/waypoint](https://www.npmjs.com/package/@rbxts/waypoint)
 - [@rbxts/wcs](https://www.npmjs.com/package/@rbxts/wcs) - WCS is an extensible framework that allows you create fully customizable combat systems easily by providing useful abstraction
 - [@rbxts/weave](https://www.npmjs.com/package/@rbxts/weave) - TypeScript support for Weave
 - [@rbxts/weighted-random-picker](https://www.npmjs.com/package/@rbxts/weighted-random-picker) - Generates functions which pick a random element of an array based upon their assigned relative probabilities.
