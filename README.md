@@ -336,6 +336,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/lua-table-utils](https://www.npmjs.com/package/@rbxts/lua-table-utils) - A helper package for Lua tables, adding certain abstraction layers to repetitive patterns.
 - [@rbxts/luanoid](https://www.npmjs.com/package/@rbxts/luanoid) - TypeScript support for Luanoid
 - [@rbxts/luaquaternion](https://www.npmjs.com/package/@rbxts/luaquaternion) - A quaternion library for Roblox
+- [@rbxts/luau-character](https://www.npmjs.com/package/@rbxts/luau-character) - A Luau library for Unicode character classification and conversion
 - [@rbxts/luau-polyfill](https://www.npmjs.com/package/@rbxts/luau-polyfill) - LuauPolyfill with types.
 - [@rbxts/luau-polyfill-internal](https://www.npmjs.com/package/@rbxts/luau-polyfill-internal)
 - [@rbxts/luau-thread](https://www.npmjs.com/package/@rbxts/luau-thread) - Parallel Luau library designed for simplicity and ease of use.
