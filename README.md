@@ -73,6 +73,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/bufferlayout](https://www.npmjs.com/package/@rbxts/bufferlayout) - A simple and efficient way to manage buffers.
 - [@rbxts/builders](https://www.npmjs.com/package/@rbxts/builders) - Gives builder APIs to common parameter objects on Roblox
 - [@rbxts/bus](https://www.npmjs.com/package/@rbxts/bus) - Lightweight Event bus for Roblox
+- [@rbxts/bytebuf](https://www.npmjs.com/package/@rbxts/bytebuf) - ByteBuf is a self-describing serialization library for Roblox.
 - [@rbxts/bytenet](https://www.npmjs.com/package/@rbxts/bytenet) - ---
 - [@rbxts/bytenet-fixed](https://www.npmjs.com/package/@rbxts/bytenet-fixed)
 - [@rbxts/cachefy](https://www.npmjs.com/package/@rbxts/cachefy) - Cachefy is a tool that provides an advanced cache that auto-cleanups every-time you want and also replicates if you need it, useful for user in-server global interactions sync so it seems like it is live while it isn't
