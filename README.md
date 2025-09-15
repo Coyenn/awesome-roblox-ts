@@ -431,6 +431,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/path](https://www.npmjs.com/package/@rbxts/path) - A TypeScript wrapper for Roblox's PathfindingService
 - [@rbxts/path-finding](https://www.npmjs.com/package/@rbxts/path-finding) - A generic path finding library for finding paths and generating flow maps.
 - [@rbxts/path-parser](https://www.npmjs.com/package/@rbxts/path-parser) - parses string paths and returns their respective roblox instances
+- [@rbxts/peek](https://www.npmjs.com/package/@rbxts/peek) - A simple logging library for Roblox
 - [@rbxts/persist](https://www.npmjs.com/package/@rbxts/persist) - Wrapper around
 - [@rbxts/phantom](https://www.npmjs.com/package/@rbxts/phantom) - Data manipulation library for Roblox
 - [@rbxts/ping](https://www.npmjs.com/package/@rbxts/ping) - Dead simple roblox-ts bindable event wrapper.
