@@ -672,6 +672,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/studiocomponents](https://www.npmjs.com/package/@rbxts/studiocomponents) - Help and documentation can be found at:
 - [@rbxts/studiocomponents-react](https://www.npmjs.com/package/@rbxts/studiocomponents-react) - A forked version of @rbxts/studiocomponents migrated over to @rbxts/react
 - [@rbxts/suphi-datastore](https://www.npmjs.com/package/@rbxts/suphi-datastore) - About typescript support for suphi's dataStore module
+- [@rbxts/surfaceguiwrapper](https://www.npmjs.com/package/@rbxts/surfaceguiwrapper) - roblox-ts bindings for TheNexusAvenger's SurfaceGuiWrapper module
 - [@rbxts/sweet-charm](https://www.npmjs.com/package/@rbxts/sweet-charm) - Library for @rbxts/charm that allows to create atom classes and sync them using repositories
 - [@rbxts/swimming](https://www.npmjs.com/package/@rbxts/swimming)
 - [@rbxts/syn-utils](https://www.npmjs.com/package/@rbxts/syn-utils) - A utilities package that I use for personal development but is welcomed to be used, if you find yourself with any use cases :)
