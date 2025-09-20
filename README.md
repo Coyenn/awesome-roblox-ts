@@ -231,6 +231,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/flamework-meta-utils](https://www.npmjs.com/package/@rbxts/flamework-meta-utils) - Metadata utility and utility macros for Flamework
 - [@rbxts/flamework-react-utils](https://www.npmjs.com/package/@rbxts/flamework-react-utils)
 - [@rbxts/flamework-shared-components-react](https://www.npmjs.com/package/@rbxts/flamework-shared-components-react)
+- [@rbxts/fletchette](https://www.npmjs.com/package/@rbxts/fletchette) - Simple networking library for roblox-ts.
 - [@rbxts/flipper](https://www.npmjs.com/package/@rbxts/flipper) - An animation library for Roblox
 - [@rbxts/flow](https://www.npmjs.com/package/@rbxts/flow) - Roblox-TS types for the Flow library (https://github.com/grilme99/Flow)
 - [@rbxts/forge](https://www.npmjs.com/package/@rbxts/forge) - reactive window state manager for vide
@@ -468,6 +469,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/prism-kit](https://www.npmjs.com/package/@rbxts/prism-kit) - UI kit for prism
 - [@rbxts/profile-store](https://www.npmjs.com/package/@rbxts/profile-store) - roblox-ts bindings for loleris's ProfileStore
 - [@rbxts/profileservice](https://www.npmjs.com/package/@rbxts/profileservice) - Roblox-ts typings for loleris's ProfileService
+- [@rbxts/profilestore-with-accesses](https://www.npmjs.com/package/@rbxts/profilestore-with-accesses) - roblox-ts bindings for profilestore with an added signal for accesses to the data table
 - [@rbxts/projectile](https://www.npmjs.com/package/@rbxts/projectile) - WIP projectile package
 - [@rbxts/projectile-cast](https://www.npmjs.com/package/@rbxts/projectile-cast) - Simple projectile package based off of @rbxts/projectile.
 - [@rbxts/promise-character](https://www.npmjs.com/package/@rbxts/promise-character) - Promise all members of a character rig exist, then dot access!
