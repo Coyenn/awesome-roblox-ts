@@ -579,6 +579,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/roact-wm](https://www.npmjs.com/package/@rbxts/roact-wm) - Roact Window Manager
 - [@rbxts/roblox-observers](https://www.npmjs.com/package/@rbxts/roblox-observers) - Observers to help simplify some specific event handling.
 - [@rbxts/roblox-parallel-worker](https://www.npmjs.com/package/@rbxts/roblox-parallel-worker) - A ModuleScript library designed to abstract away Roblox's Actor model for parallel execution in favor of a simple task distribution module which handles the lifetime execution of a parallel task!
+- [@rbxts/roblox-state-machine](https://www.npmjs.com/package/@rbxts/roblox-state-machine) - (package will be released once I test this more)
 - [@rbxts/roblox-wait-for](https://www.npmjs.com/package/@rbxts/roblox-wait-for)
 - [@rbxts/rodux](https://www.npmjs.com/package/@rbxts/rodux) - Rodux for Roblox TypeScript
 - [@rbxts/rodux-effects](https://www.npmjs.com/package/@rbxts/rodux-effects) - Lightweight side-effect library for Rodux
@@ -730,6 +731,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/ui-motion](https://www.npmjs.com/package/@rbxts/ui-motion) - A simple package to animate UI elements in Roblox.
 - [@rbxts/ui-scaler](https://www.npmjs.com/package/@rbxts/ui-scaler) - This library will allow you to scalable ui
 - [@rbxts/uiblox](https://www.npmjs.com/package/@rbxts/uiblox) - UI Library and theming for roblox-ts projects
+- [@rbxts/ultimate-list](https://www.npmjs.com/package/@rbxts/ultimate-list) - Typings for Kampfkarren/ultimate-list
 - [@rbxts/use-sync-external-store](https://www.npmjs.com/package/@rbxts/use-sync-external-store) - Port of useSyncExternalStore.
 - [@rbxts/utf8-validate](https://www.npmjs.com/package/@rbxts/utf8-validate) - UTF8 validator
 - [@rbxts/uuid-transform](https://www.npmjs.com/package/@rbxts/uuid-transform) - A transformer for roblox-ts to change Enum values to UUIDs during compile time
