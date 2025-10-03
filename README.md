@@ -489,6 +489,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/randomstring](https://www.npmjs.com/package/@rbxts/randomstring) - Generate random strings from a list of strings/characters.
 - [@rbxts/range](https://www.npmjs.com/package/@rbxts/range) - A simple range implementation with utility methods
 - [@rbxts/raycast-hitbox](https://www.npmjs.com/package/@rbxts/raycast-hitbox) - Typings for Swordphin's RaycastHitbox module
+- [@rbxts/rblxdatastore](https://www.npmjs.com/package/@rbxts/rblxdatastore) - A robust, strictly-typed Roblox DataStore library written in TypeScript through transpiler, designed to organize data with schema, enforce strict data validation.
 - [@rbxts/rblxstate](https://www.npmjs.com/package/@rbxts/rblxstate) - A Roblox state management library designed with maximum simplicity in mind!
 - [@rbxts/rblxsync](https://www.npmjs.com/package/@rbxts/rblxsync) - An extended seperate package for RblxState designed for syncing server-side states to the client from the server.
 - [@rbxts/rbx-bitfield](https://www.npmjs.com/package/@rbxts/rbx-bitfield)
