@@ -57,6 +57,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/bettersignal](https://www.npmjs.com/package/@rbxts/bettersignal)
 - [@rbxts/bezier](https://www.npmjs.com/package/@rbxts/bezier) - Simple package to calculate points on bezier curves
 - [@rbxts/bezierpath](https://www.npmjs.com/package/@rbxts/bezierpath) - BezierPath is an easy to use bezier spline module, designed to be used for TD games and general paths while being optimizied for large scale uses.
+- [@rbxts/bezierts](https://www.npmjs.com/package/@rbxts/bezierts) - This library helps you create smooth position animations with bezier curves in Roblox.
 - [@rbxts/bin](https://www.npmjs.com/package/@rbxts/bin) - Manages things to be cleaned up later
 - [@rbxts/bind](https://www.npmjs.com/package/@rbxts/bind) - Utilities for binding functions to RBXScriptSignals (or similar) with a simple decorator, similar to @rbxts/proton's @Lifecycle decorator.
 - [@rbxts/binder](https://www.npmjs.com/package/@rbxts/binder) - Typings for Quenty's Binder module
@@ -310,6 +311,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/lazy-iterator](https://www.npmjs.com/package/@rbxts/lazy-iterator) - Combines multiple array operations into an iterator and only applies operations when the iterator is processed
 - [@rbxts/lemon-signal](https://www.npmjs.com/package/@rbxts/lemon-signal) - Typings for .
 - [@rbxts/lerp-functions](https://www.npmjs.com/package/@rbxts/lerp-functions) - Interpolation functions
+- [@rbxts/lexi](https://www.npmjs.com/package/@rbxts/lexi) - Localisation for Vide, simplified.
 - [@rbxts/libopen-docleanup](https://www.npmjs.com/package/@rbxts/libopen-docleanup) - LibOpen's doCleanup
 - [@rbxts/libopen-dontyield](https://www.npmjs.com/package/@rbxts/libopen-dontyield) - LibOpen's DontYield
 - [@rbxts/libopen-event](https://www.npmjs.com/package/@rbxts/libopen-event) - LibOpen's Event
@@ -528,6 +530,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/react-reflex](https://www.npmjs.com/package/@rbxts/react-reflex) - React bindings for Reflex
 - [@rbxts/react-ripple](https://www.npmjs.com/package/@rbxts/react-ripple) - Hooks for Ripple. Built off of RoactFlipper.
 - [@rbxts/react-roblox](https://www.npmjs.com/package/@rbxts/react-roblox) - React DOM bindings for Roblox
+- [@rbxts/react-roblox-studio-plugin](https://www.npmjs.com/package/@rbxts/react-roblox-studio-plugin) - Typings for
 - [@rbxts/react-router](https://www.npmjs.com/package/@rbxts/react-router) - React Router implementation for Roblox TypeScript
 - [@rbxts/react-rx](https://www.npmjs.com/package/@rbxts/react-rx) - React bindings for RxJS. (Ported to Roblox-TS)
 - [@rbxts/react-spring](https://www.npmjs.com/package/@rbxts/react-spring) - A modern spring-physics based animation library for React Luau inspired by react-spring
