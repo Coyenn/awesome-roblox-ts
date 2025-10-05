@@ -336,6 +336,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/log](https://www.npmjs.com/package/@rbxts/log) - Structured logging library for Roblox
 - [@rbxts/logger](https://www.npmjs.com/package/@rbxts/logger) - A lightweight and flexible logger utility for Roblox projects. Supports message templates for clean, readable log statements.
 - [@rbxts/logsnag](https://www.npmjs.com/package/@rbxts/logsnag) - LogSnag SDK for roblox-ts
+- [@rbxts/loner1536-pebble](https://www.npmjs.com/package/@rbxts/loner1536-pebble) - This is a fork of .
 - [@rbxts/longuint-ui](https://www.npmjs.com/package/@rbxts/longuint-ui) - A lightweight ui component library.
 - [@rbxts/loot](https://www.npmjs.com/package/@rbxts/loot)
 - [@rbxts/lua-table-utils](https://www.npmjs.com/package/@rbxts/lua-table-utils) - A helper package for Lua tables, adding certain abstraction layers to repetitive patterns.
