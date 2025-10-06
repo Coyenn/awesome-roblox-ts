@@ -188,6 +188,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/ecr](https://www.npmjs.com/package/@rbxts/ecr) - A sparse-set based ECS library for Luau, now with TS types.
 - [@rbxts/ecs-lite](https://www.npmjs.com/package/@rbxts/ecs-lite) - Lightweight and fast ECS framework for Roblox-TS
 - [@rbxts/eis](https://www.npmjs.com/package/@rbxts/eis) - A roblox UI manager with useful utils
+- [@rbxts/ejt](https://www.npmjs.com/package/@rbxts/ejt) - A library for interacting with difficulties in the EToH Joke Towers wiki.
 - [@rbxts/emitter](https://www.npmjs.com/package/@rbxts/emitter) - Roblox Typescript package for creating event-emitting objects and classes.
 - [@rbxts/emittery](https://www.npmjs.com/package/@rbxts/emittery) - Emittery v0.11.0 bindings for Roblox.
 - [@rbxts/encryptednet](https://www.npmjs.com/package/@rbxts/encryptednet) - Typings for the EncryptedNet Library.
