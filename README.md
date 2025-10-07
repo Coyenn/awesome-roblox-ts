@@ -148,6 +148,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/create-shared-toolbar](https://www.npmjs.com/package/@rbxts/create-shared-toolbar) - A library that helps you create a shared plugin toolbar for your plugins.
 - [@rbxts/create-slice](https://www.npmjs.com/package/@rbxts/create-slice) - Helpful function to easily define rodux reducers.
 - [@rbxts/crochet](https://www.npmjs.com/package/@rbxts/crochet) - Crochet is a framework for Roblox games using roblox-ts.
+- [@rbxts/crosshair](https://www.npmjs.com/package/@rbxts/crosshair) - Easy crosshair in Roblox Studio with Typescipt
 - [@rbxts/crypto](https://www.npmjs.com/package/@rbxts/crypto) - An Open-Source Cryptography library for Roblox.
 - [@rbxts/cubic-bezier](https://www.npmjs.com/package/@rbxts/cubic-bezier) - A library for generating smooth two-dimensional interpolation curves
 - [@rbxts/cue](https://www.npmjs.com/package/@rbxts/cue) - The fastest and lightest Event object ever made
@@ -403,6 +404,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/networked-signals](https://www.npmjs.com/package/@rbxts/networked-signals) - A TypeScript wrapper for RemoteEvents that provides a type-safe interface for networked events in a Roblox game.
 - [@rbxts/next-roblox](https://www.npmjs.com/package/@rbxts/next-roblox) - A Next.js-inspired routing library for Roblox using @rbxts/react.
 - [@rbxts/nextcast](https://www.npmjs.com/package/@rbxts/nextcast) - A FastCast-like method for simulating projectile physics.
+- [@rbxts/noobpath](https://www.npmjs.com/package/@rbxts/noobpath) - Pathfinding module script with Auto Timeout, Non-humanoid support and Waypoint adjustments - Now with TypeScript typings!
 - [@rbxts/number](https://www.npmjs.com/package/@rbxts/number) - Polyfills for Number.
 - [@rbxts/number-manipulator](https://www.npmjs.com/package/@rbxts/number-manipulator) - Number manipulator in roblox-ts
 - [@rbxts/number-size](https://www.npmjs.com/package/@rbxts/number-size) - Utility functions for checking the sizes of numbers
@@ -493,7 +495,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/randomstring](https://www.npmjs.com/package/@rbxts/randomstring) - Generate random strings from a list of strings/characters.
 - [@rbxts/range](https://www.npmjs.com/package/@rbxts/range) - A simple range implementation with utility methods
 - [@rbxts/raycast-hitbox](https://www.npmjs.com/package/@rbxts/raycast-hitbox) - Typings for Swordphin's RaycastHitbox module
-- [@rbxts/rblxdatastore](https://www.npmjs.com/package/@rbxts/rblxdatastore) - A robust, strictly-typed Roblox DataStore library written in TypeScript through transpiler, designed to organize data with schema, enforce strict data validation.
+- [@rbxts/rblxdatastore](https://www.npmjs.com/package/@rbxts/rblxdatastore) - A robust, strictly-typed Roblox DataStore library written in TypeScript (via ) that organizes data with strictly-typed schemas, enforces strict validation, enables migrations that mutate data overtime, and features robust
 - [@rbxts/rblxstate](https://www.npmjs.com/package/@rbxts/rblxstate) - A Roblox state management library designed with maximum simplicity in mind!
 - [@rbxts/rblxsync](https://www.npmjs.com/package/@rbxts/rblxsync) - An extended seperate package for RblxState designed for syncing server-side states to the client from the server.
 - [@rbxts/rbx-bitfield](https://www.npmjs.com/package/@rbxts/rbx-bitfield)
@@ -595,6 +597,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/rodux-tk](https://www.npmjs.com/package/@rbxts/rodux-tk) - Redux Toolkit made for Roblox-TS. Get access to createSlice, and reducers wrapped in Immut.
 - [@rbxts/rodux-toolkit](https://www.npmjs.com/package/@rbxts/rodux-toolkit) - Heavily inspired Redux-Toolkit project for @rbxts/rodux-remastered
 - [@rbxts/roduxutils](https://www.npmjs.com/package/@rbxts/roduxutils) - Typings for SolarHorizon's Rodux-Utils module. https://solarhorizon.github.io/rodux-utils/api/RoduxUtils
+- [@rbxts/rofirestore](https://www.npmjs.com/package/@rbxts/rofirestore) - A Roblox TypeScript library for interacting with Google Firestore.
 - [@rbxts/rofraps](https://www.npmjs.com/package/@rbxts/rofraps) - RoFraps is used to measure some performance related things. Ported to Roblox-TS, originally made by HowManySmall.
 - [@rbxts/rokux](https://www.npmjs.com/package/@rbxts/rokux) - (Inspired by Rodux) This is a small package which manages states. The reason why I am creating my own state machine is simply because I wanted to. It is ultra lightweight, so don't expect too many features.
 - [@rbxts/roman-numerals](https://www.npmjs.com/package/@rbxts/roman-numerals) - Utility functions for parsing and converting roman numerals
