@@ -631,6 +631,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/semver](https://www.npmjs.com/package/@rbxts/semver) - Implementation of in roblox-ts.
 - [@rbxts/sentry](https://www.npmjs.com/package/@rbxts/sentry) - An unofficial Roblox SDK for Sentry.io
 - [@rbxts/ser](https://www.npmjs.com/package/@rbxts/ser)
+- [@rbxts/serikanum](https://www.npmjs.com/package/@rbxts/serikanum) - Onoe Serika's go-to big number library for small and large-scale incremental games!
 - [@rbxts/serio](https://www.npmjs.com/package/@rbxts/serio) - Roblox buffer serialization library
 - [@rbxts/server-networked-values](https://www.npmjs.com/package/@rbxts/server-networked-values) - A Roblox-TS library for networking persistent values from the server to the client
 - [@rbxts/services](https://www.npmjs.com/package/@rbxts/services) - A module that exports common Roblox services.
