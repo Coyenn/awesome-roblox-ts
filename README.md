@@ -56,7 +56,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/better-variant](https://www.npmjs.com/package/@rbxts/better-variant) - Upstream of the variant library for Roblox.
 - [@rbxts/bettersignal](https://www.npmjs.com/package/@rbxts/bettersignal)
 - [@rbxts/bezier](https://www.npmjs.com/package/@rbxts/bezier) - Simple package to calculate points on bezier curves
-- [@rbxts/bezierpath](https://www.npmjs.com/package/@rbxts/bezierpath) - BezierPath is an easy to use bezier spline module, designed to be used for TD games and general paths while being optimizied for large scale uses.
+- [@rbxts/bezierpath](https://www.npmjs.com/package/@rbxts/bezierpath) - BezierPath is an easy to use bezier spline module, designed to be used for TD games and general paths while being optimized for large scale uses.
 - [@rbxts/bezierts](https://www.npmjs.com/package/@rbxts/bezierts) - This library helps you create smooth position animations with bezier curves in Roblox.
 - [@rbxts/bin](https://www.npmjs.com/package/@rbxts/bin) - Manages things to be cleaned up later
 - [@rbxts/bind](https://www.npmjs.com/package/@rbxts/bind) - Utilities for binding functions to RBXScriptSignals (or similar) with a simple decorator, similar to @rbxts/proton's @Lifecycle decorator.
