@@ -446,6 +446,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/peek](https://www.npmjs.com/package/@rbxts/peek) - A simple logging library for Roblox
 - [@rbxts/persist](https://www.npmjs.com/package/@rbxts/persist) - Wrapper around
 - [@rbxts/phantom](https://www.npmjs.com/package/@rbxts/phantom) - Data manipulation library for Roblox
+- [@rbxts/pid](https://www.npmjs.com/package/@rbxts/pid) - A PID module based on sleitnick's RbxUtil PID module.
 - [@rbxts/ping](https://www.npmjs.com/package/@rbxts/ping) - Dead simple roblox-ts bindable event wrapper.
 - [@rbxts/pixie](https://www.npmjs.com/package/@rbxts/pixie)
 - [@rbxts/planck](https://www.npmjs.com/package/@rbxts/planck) - An Agnostic Scheduler, inspired by Bevy Schedules and Flecs Pipelines and Phases
