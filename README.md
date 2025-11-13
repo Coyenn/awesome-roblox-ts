@@ -145,6 +145,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/corepackages-symbol](https://www.npmjs.com/package/@rbxts/corepackages-symbol) - Type declarations for Roblox's licensed CorePackage of 'Symbol'
 - [@rbxts/corepackages-timers](https://www.npmjs.com/package/@rbxts/corepackages-timers) - Type declarations for Roblox's licensed CorePackage of 'Timers'
 - [@rbxts/coro](https://www.npmjs.com/package/@rbxts/coro) - Coro is a library for managing Actors in Roblox
+- [@rbxts/covenant](https://www.npmjs.com/package/@rbxts/covenant)
 - [@rbxts/crate](https://www.npmjs.com/package/@rbxts/crate) - A tiny state manager for roblox-ts.
 - [@rbxts/create-shared-toolbar](https://www.npmjs.com/package/@rbxts/create-shared-toolbar) - A library that helps you create a shared plugin toolbar for your plugins.
 - [@rbxts/create-slice](https://www.npmjs.com/package/@rbxts/create-slice) - Helpful function to easily define rodux reducers.
@@ -579,6 +580,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/rewire](https://www.npmjs.com/package/@rbxts/rewire) - Roblox Typescript bindings for Rewire
 - [@rbxts/rich-text-stream](https://www.npmjs.com/package/@rbxts/rich-text-stream) - A Roblox rich text builder
 - [@rbxts/ripple](https://www.npmjs.com/package/@rbxts/ripple) - A motion library for Roblox
+- [@rbxts/rl](https://www.npmjs.com/package/@rbxts/rl) - simple reactive library
 - [@rbxts/rlog](https://www.npmjs.com/package/@rbxts/rlog) - Context-based server-side logging solution for ROBLOX projects.
 - [@rbxts/roact](https://www.npmjs.com/package/@rbxts/roact) - TypeScript support for Roact
 - [@rbxts/roact-compat-internal](https://www.npmjs.com/package/@rbxts/roact-compat-internal) - This package serves as a compatibility bridge between react and legacy . It can be used when migrating an existing codebase to React, but new code shouldn't use this package.
