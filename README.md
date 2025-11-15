@@ -89,7 +89,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/ccdik-controller](https://www.npmjs.com/package/@rbxts/ccdik-controller) - Alternate inverse kinematics method for Roblox Motor6D rigs. roblox-ts typings for datlass's CCDIK Controller.
 - [@rbxts/ceive-im-gizmo](https://www.npmjs.com/package/@rbxts/ceive-im-gizmo) - TypeScript types for CeiveImGizmo
 - [@rbxts/centurion](https://www.npmjs.com/package/@rbxts/centurion) - A flexible and extensible command framework for roblox-ts
-- [@rbxts/centurion-commands](https://www.npmjs.com/package/@rbxts/centurion-commands)
+- [@rbxts/centurion-commands](https://www.npmjs.com/package/@rbxts/centurion-commands) - Centurion-Commands is a Roblox-TS Library built for Centurion to easily create Commands and focus on what matters.
 - [@rbxts/centurion-ui](https://www.npmjs.com/package/@rbxts/centurion-ui) - Terminal UI for the Centurion command framework
 - [@rbxts/chain](https://www.npmjs.com/package/@rbxts/chain) - Generic chain of command / middleware thingy implementation for roblox-ts.
 - [@rbxts/character](https://www.npmjs.com/package/@rbxts/character)
