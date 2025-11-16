@@ -151,6 +151,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/create-slice](https://www.npmjs.com/package/@rbxts/create-slice) - Helpful function to easily define rodux reducers.
 - [@rbxts/crochet](https://www.npmjs.com/package/@rbxts/crochet) - Crochet is a framework for Roblox games using roblox-ts.
 - [@rbxts/crosshair](https://www.npmjs.com/package/@rbxts/crosshair) - Easy crosshair in Roblox Studio with Typescipt
+- [@rbxts/crunchyroll](https://www.npmjs.com/package/@rbxts/crunchyroll) - A custom animation solver for Roblox.
 - [@rbxts/crypto](https://www.npmjs.com/package/@rbxts/crypto) - An Open-Source Cryptography library for Roblox.
 - [@rbxts/cubic-bezier](https://www.npmjs.com/package/@rbxts/cubic-bezier) - A library for generating smooth two-dimensional interpolation curves
 - [@rbxts/cue](https://www.npmjs.com/package/@rbxts/cue) - The fastest and lightest Event object ever made
