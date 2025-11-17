@@ -255,6 +255,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/geom](https://www.npmjs.com/package/@rbxts/geom)
 - [@rbxts/ghostevents](https://www.npmjs.com/package/@rbxts/ghostevents) - Prevent hackers from calling events
 - [@rbxts/gizmo](https://www.npmjs.com/package/@rbxts/gizmo) - gizmo is a visual debug library designed for the Roblox game engine.
+- [@rbxts/gizmos](https://www.npmjs.com/package/@rbxts/gizmos) - TypeScript port of sg3cko's Gizmos library - Debug drawing utilities for Roblox including shapes, raycasts, paths, and world-space text.
 - [@rbxts/glassmorphicui](https://www.npmjs.com/package/@rbxts/glassmorphicui) - Glassmorphic UI in Roblox.
 - [@rbxts/glicko2](https://www.npmjs.com/package/@rbxts/glicko2) - Types for the Lua implementation of the Glicko-2 rating system.
 - [@rbxts/goap](https://www.npmjs.com/package/@rbxts/goap) - A direct port of to Roblox. Should work functionally the same: albeit a few differences. Eventually, this will support parallel Luau.
@@ -347,6 +348,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/logger](https://www.npmjs.com/package/@rbxts/logger) - A lightweight and flexible logger utility for Roblox projects. Supports message templates for clean, readable log statements.
 - [@rbxts/logsnag](https://www.npmjs.com/package/@rbxts/logsnag) - LogSnag SDK for roblox-ts
 - [@rbxts/loner1536-pebble](https://www.npmjs.com/package/@rbxts/loner1536-pebble) - This is a fork of .
+- [@rbxts/loners-pretty-react-hooks](https://www.npmjs.com/package/@rbxts/loners-pretty-react-hooks) - Useful hooks for @rbxts/react
 - [@rbxts/longuint-ui](https://www.npmjs.com/package/@rbxts/longuint-ui) - A lightweight ui component library.
 - [@rbxts/loot](https://www.npmjs.com/package/@rbxts/loot)
 - [@rbxts/lua-table-utils](https://www.npmjs.com/package/@rbxts/lua-table-utils) - A helper package for Lua tables, adding certain abstraction layers to repetitive patterns.
@@ -624,6 +626,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/rowind-mini](https://www.npmjs.com/package/@rbxts/rowind-mini) - This is a fork of RowindCSS, it was separated from the original repo as it uses a completely separate code structure and fundamentalism without interfering with yayashn's project.
 - [@rbxts/rowindcss](https://www.npmjs.com/package/@rbxts/rowindcss) - TailwindCSS classes for Roact & Roblox-ts.
 - [@rbxts/rparticle](https://www.npmjs.com/package/@rbxts/rparticle) - Super light weight and highly customizable 2D particle system for Roblox.
+- [@rbxts/rquery](https://www.npmjs.com/package/@rbxts/rquery) - A small feature-rich Roblox-TS package for more helpful types and simpler management of instances, properties, and attributes.
 - [@rbxts/rsml](https://www.npmjs.com/package/@rbxts/rsml) - A language for Roblox's styling system.
 - [@rbxts/rubine](https://www.npmjs.com/package/@rbxts/rubine) - An ergonomic, runtime agnostic scheduler for jecs
 - [@rbxts/rubine-roblox](https://www.npmjs.com/package/@rbxts/rubine-roblox) - A roblox extension for the ergonomic, runtime agnostic jecs scheduler
