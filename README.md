@@ -241,6 +241,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/flipper](https://www.npmjs.com/package/@rbxts/flipper) - An animation library for Roblox
 - [@rbxts/flow](https://www.npmjs.com/package/@rbxts/flow) - Roblox-TS types for the Flow library (https://github.com/grilme99/Flow)
 - [@rbxts/forge](https://www.npmjs.com/package/@rbxts/forge) - reactive window state manager for vide
+- [@rbxts/forge-vfx](https://www.npmjs.com/package/@rbxts/forge-vfx) - Typescript typings for
 - [@rbxts/format-number](https://www.npmjs.com/package/@rbxts/format-number) - This contains the typing for
 - [@rbxts/formatting](https://www.npmjs.com/package/@rbxts/formatting) - Utility functions for formatting numbers and parsing strings back into numbers for Roblox
 - [@rbxts/fsm](https://www.npmjs.com/package/@rbxts/fsm) - Generic finite state machine implementation for roblox-ts.
