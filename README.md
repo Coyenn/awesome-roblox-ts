@@ -714,6 +714,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/tally-store](https://www.npmjs.com/package/@rbxts/tally-store) - A Roblox TypeScript library for managing in-game global counters stores.
 - [@rbxts/task-event-emitter](https://www.npmjs.com/package/@rbxts/task-event-emitter) - Event emitter for roblox-ts using stravant's GoodSignal
 - [@rbxts/task-queue](https://www.npmjs.com/package/@rbxts/task-queue) - Queue of cancellable tasks that is shifted and resumed whenever a task finishes
+- [@rbxts/test-cloud-testez](https://www.npmjs.com/package/@rbxts/test-cloud-testez) - Lightweight testing tool for running TestEZ tests in Roblox Cloud and Studio environments with direct API calls, supporting both TypeScript and Lua projects
 - [@rbxts/test-packages](https://www.npmjs.com/package/@rbxts/test-packages)
 - [@rbxts/testez](https://www.npmjs.com/package/@rbxts/testez) - A fork of TestEZ with TypeScript typings
 - [@rbxts/tether](https://www.npmjs.com/package/@rbxts/tether) - A message-based networking solution for Roblox with automatic binary serialization and type validation
