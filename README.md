@@ -528,6 +528,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/rbx-sleitnick-shake](https://www.npmjs.com/package/@rbxts/rbx-sleitnick-shake)
 - [@rbxts/rbxcad](https://www.npmjs.com/package/@rbxts/rbxcad) - roblox-ts port of JSCAD
 - [@rbxts/rbxts-hashlib](https://www.npmjs.com/package/@rbxts/rbxts-hashlib) - Since the other package has incorrect types.
+- [@rbxts/rbxts-jest](https://www.npmjs.com/package/@rbxts/rbxts-jest) - rbxts-jest is a testing library for Roblox-TS
 - [@rbxts/rbxts-link](https://www.npmjs.com/package/@rbxts/rbxts-link)
 - [@rbxts/rbxts-pattern](https://www.npmjs.com/package/@rbxts/rbxts-pattern) - ts-pattern
 - [@rbxts/rbxts-sleitnick-log](https://www.npmjs.com/package/@rbxts/rbxts-sleitnick-log) - Types for Sleitnick's Log library
@@ -627,7 +628,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/rowind-mini](https://www.npmjs.com/package/@rbxts/rowind-mini) - This is a fork of RowindCSS, it was separated from the original repo as it uses a completely separate code structure and fundamentalism without interfering with yayashn's project.
 - [@rbxts/rowindcss](https://www.npmjs.com/package/@rbxts/rowindcss) - TailwindCSS classes for Roact & Roblox-ts.
 - [@rbxts/rparticle](https://www.npmjs.com/package/@rbxts/rparticle) - Super light weight and highly customizable 2D particle system for Roblox.
-- [@rbxts/rquery](https://www.npmjs.com/package/@rbxts/rquery) - A small feature-rich Roblox-TS package for more helpful types and simpler management of instances, properties, and attributes.
+- [@rbxts/rquery](https://www.npmjs.com/package/@rbxts/rquery) - A small feature-rich Roblox-TS package for more helpful types and simpler management of instances, properties, tags, and attributes.
 - [@rbxts/rsml](https://www.npmjs.com/package/@rbxts/rsml) - A language for Roblox's styling system.
 - [@rbxts/rubine](https://www.npmjs.com/package/@rbxts/rubine) - An ergonomic, runtime agnostic scheduler for jecs
 - [@rbxts/rubine-roblox](https://www.npmjs.com/package/@rbxts/rubine-roblox) - A roblox extension for the ergonomic, runtime agnostic jecs scheduler
