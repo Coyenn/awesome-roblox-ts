@@ -244,6 +244,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/forge](https://www.npmjs.com/package/@rbxts/forge) - reactive window state manager for vide
 - [@rbxts/forge-vfx](https://www.npmjs.com/package/@rbxts/forge-vfx) - Typescript typings for
 - [@rbxts/format-number](https://www.npmjs.com/package/@rbxts/format-number) - This contains the typing for
+- [@rbxts/formati](https://www.npmjs.com/package/@rbxts/formati) - formati is a simple formatting library for creating valid Roblox strings, getting rid of the need to memorize RichText tags.
 - [@rbxts/formatting](https://www.npmjs.com/package/@rbxts/formatting) - Utility functions for formatting numbers and parsing strings back into numbers for Roblox
 - [@rbxts/fsm](https://www.npmjs.com/package/@rbxts/fsm) - Generic finite state machine implementation for roblox-ts.
 - [@rbxts/fusion](https://www.npmjs.com/package/@rbxts/fusion) - TypeScript support for Fusion
