@@ -550,7 +550,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/react-reconciler-internal](https://www.npmjs.com/package/@rbxts/react-reconciler-internal) - NOTE: This README is copied directly from React upstream.
 - [@rbxts/react-redux](https://www.npmjs.com/package/@rbxts/react-redux) - roblox-ts typings for react-redux
 - [@rbxts/react-reflex](https://www.npmjs.com/package/@rbxts/react-reflex) - React bindings for Reflex
-- [@rbxts/react-ripple](https://www.npmjs.com/package/@rbxts/react-ripple) - Hooks for Ripple. Built off of RoactFlipper.
+- [@rbxts/react-ripple](https://www.npmjs.com/package/@rbxts/react-ripple) - React bindings for Ripple spring animation
 - [@rbxts/react-roblox](https://www.npmjs.com/package/@rbxts/react-roblox) - React DOM bindings for Roblox
 - [@rbxts/react-roblox-studio-plugin](https://www.npmjs.com/package/@rbxts/react-roblox-studio-plugin) - Typings for
 - [@rbxts/react-router](https://www.npmjs.com/package/@rbxts/react-router) - React Router implementation for Roblox TypeScript
@@ -586,7 +586,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/rewindcss](https://www.npmjs.com/package/@rbxts/rewindcss) - TailwindCSS classes for Roblox-react & Roblox-ts.
 - [@rbxts/rewire](https://www.npmjs.com/package/@rbxts/rewire) - Roblox Typescript bindings for Rewire
 - [@rbxts/rich-text-stream](https://www.npmjs.com/package/@rbxts/rich-text-stream) - A Roblox rich text builder
-- [@rbxts/ripple](https://www.npmjs.com/package/@rbxts/ripple) - A motion library for Roblox
+- [@rbxts/ripple](https://www.npmjs.com/package/@rbxts/ripple) - Spring-driven animations and more
 - [@rbxts/rl](https://www.npmjs.com/package/@rbxts/rl) - simple reactive library
 - [@rbxts/rlog](https://www.npmjs.com/package/@rbxts/rlog) - Context-based server-side logging solution for ROBLOX projects.
 - [@rbxts/roact](https://www.npmjs.com/package/@rbxts/roact) - TypeScript support for Roact
