@@ -386,6 +386,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/memoize-multi](https://www.npmjs.com/package/@rbxts/memoize-multi) - Memoize function calls with multiple parameters and return values.
 - [@rbxts/memoize-multi-async](https://www.npmjs.com/package/@rbxts/memoize-multi-async) - Memoize async function calls with multiple parameters and return values.
 - [@rbxts/memoize-recently-used](https://www.npmjs.com/package/@rbxts/memoize-recently-used) - Memoization function with a least-recently-used cache eviction policy.
+- [@rbxts/mesa](https://www.npmjs.com/package/@rbxts/mesa) - Given mesa and a test game mesa-test, in order to automatically send changes over, you must first follow the steps below a single time only:
 - [@rbxts/message-templates](https://www.npmjs.com/package/@rbxts/message-templates) - Message template library for Roblox TypeScript
 - [@rbxts/messages](https://www.npmjs.com/package/@rbxts/messages) - Light-weight library for those who want to retrieve and send data within.
 - [@rbxts/metrik](https://www.npmjs.com/package/@rbxts/metrik) - SDK for https://metrik.app
