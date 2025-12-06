@@ -403,6 +403,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/moonlite](https://www.npmjs.com/package/@rbxts/moonlite) - Moonlite typings
 - [@rbxts/motion](https://www.npmjs.com/package/@rbxts/motion)
 - [@rbxts/motor](https://www.npmjs.com/package/@rbxts/motor)
+- [@rbxts/mubinet-fork-object-utils](https://www.npmjs.com/package/@rbxts/mubinet-fork-object-utils) - Polyfills for Object functions
 - [@rbxts/muon](https://www.npmjs.com/package/@rbxts/muon) - A memory store library
 - [@rbxts/must](https://www.npmjs.com/package/@rbxts/must) - Just a simple function that errors out if the argument is nil / undefined.
 - [@rbxts/mutable-fast-replica](https://www.npmjs.com/package/@rbxts/mutable-fast-replica) - A (mutable) simple and intuitive package for sharing data from server to client.
