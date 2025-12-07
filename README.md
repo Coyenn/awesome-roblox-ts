@@ -785,6 +785,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/virtualized-list](https://www.npmjs.com/package/@rbxts/virtualized-list) - roblox-ts typings for virtualized-list-lua
 - [@rbxts/visualize](https://www.npmjs.com/package/@rbxts/visualize) - A package for easily visualizing various information.
 - [@rbxts/void](https://www.npmjs.com/package/@rbxts/void) - Plasma is a declarative, immediate mode UI widget library for [Roblox].
+- [@rbxts/volume3](https://www.npmjs.com/package/@rbxts/volume3) - An RBXTS TypeScript library for defining 3D convex hull volumes in Roblox with efficient collision detection and object tracking. Track Models, BaseParts, and Attachments entering/leaving dynamic volumes using precise spatial queries with customizable que
 - [@rbxts/vrlib](https://www.npmjs.com/package/@rbxts/vrlib) - TypeScript support for VRLib
 - [@rbxts/wait-for](https://www.npmjs.com/package/@rbxts/wait-for) - Wait for instances to exist
 - [@rbxts/wave](https://www.npmjs.com/package/@rbxts/wave) - A sine/cosine wave implementation for Roblox
