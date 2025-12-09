@@ -114,6 +114,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/cleanser](https://www.npmjs.com/package/@rbxts/cleanser) - A port of RobloxianDemo's Cleanser class.
 - [@rbxts/clientcast](https://www.npmjs.com/package/@rbxts/clientcast) - typings for the clientcast module made by PysephRBX
 - [@rbxts/cmdr](https://www.npmjs.com/package/@rbxts/cmdr) - View Docs
+- [@rbxts/cmove-wrapper](https://www.npmjs.com/package/@rbxts/cmove-wrapper) - A sophisticated Roblox camera controller with smooth movement, rotation tracking, and intelligent occlusion detection. Features configurable smoothing, multiple tracking modes (lock/follow), and automatic obstacle avoidance with customizable reactions.
 - [@rbxts/color](https://www.npmjs.com/package/@rbxts/color) - Color ============= Library for manipulating colors
 - [@rbxts/colour-utils](https://www.npmjs.com/package/@rbxts/colour-utils) - Colour manipulation utility for Roblox
 - [@rbxts/comet](https://www.npmjs.com/package/@rbxts/comet) - A fast framework for plugin development inspired by flamework.
@@ -513,6 +514,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/randomstring](https://www.npmjs.com/package/@rbxts/randomstring) - Generate random strings from a list of strings/characters.
 - [@rbxts/range](https://www.npmjs.com/package/@rbxts/range) - A simple range implementation with utility methods
 - [@rbxts/raycast-hitbox](https://www.npmjs.com/package/@rbxts/raycast-hitbox) - Typings for Swordphin's RaycastHitbox module
+- [@rbxts/rblx-object-utils](https://www.npmjs.com/package/@rbxts/rblx-object-utils) - RblxObject is a utility library for Roblox-TS (TypeScript for Roblox) that provides robust functions for working with objects, arrays, sets, maps, and tables in a consistent and type-safe manner. This library simplifies common object operations such as it
 - [@rbxts/rblxdatastore](https://www.npmjs.com/package/@rbxts/rblxdatastore) - A robust, strictly-typed Roblox DataStore library written in TypeScript (via ) that organizes data with strictly-typed schemas, enforces strict validation, enables migrations that mutate data overtime, and features robust
 - [@rbxts/rblxstate](https://www.npmjs.com/package/@rbxts/rblxstate) - A Roblox state management library designed with maximum simplicity in mind!
 - [@rbxts/rblxsync](https://www.npmjs.com/package/@rbxts/rblxsync) - An extended seperate package for RblxState designed for syncing server-side states to the client from the server.
