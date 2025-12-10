@@ -353,6 +353,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/logsnag](https://www.npmjs.com/package/@rbxts/logsnag) - LogSnag SDK for roblox-ts
 - [@rbxts/loner1536-pebble](https://www.npmjs.com/package/@rbxts/loner1536-pebble) - This is a fork of .
 - [@rbxts/loners-pretty-react-hooks](https://www.npmjs.com/package/@rbxts/loners-pretty-react-hooks) - Useful hooks for @rbxts/react
+- [@rbxts/loners-pretty-vide-utils](https://www.npmjs.com/package/@rbxts/loners-pretty-vide-utils) - Useful utilities for @rbxts/vide
 - [@rbxts/longuint-ui](https://www.npmjs.com/package/@rbxts/longuint-ui) - A lightweight ui component library.
 - [@rbxts/loot](https://www.npmjs.com/package/@rbxts/loot)
 - [@rbxts/lua-table-utils](https://www.npmjs.com/package/@rbxts/lua-table-utils) - A helper package for Lua tables, adding certain abstraction layers to repetitive patterns.
@@ -502,6 +503,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/promisify](https://www.npmjs.com/package/@rbxts/promisify) - Converts yielding methods into Promise methods. Has built-in exports for all yielding methods in the roblox api
 - [@rbxts/promptifier](https://www.npmjs.com/package/@rbxts/promptifier) - This is a package designed to ease the use of prompt-like UI structures prompting users based on a choice or just a notification that could be acknowledged.
 - [@rbxts/proton](https://www.npmjs.com/package/@rbxts/proton) - Framework for Roblox game development
+- [@rbxts/providerservice](https://www.npmjs.com/package/@rbxts/providerservice) - A lightweight roblox-ts framework offering Service creation and client-server separation and usage
 - [@rbxts/prvdmwrong](https://www.npmjs.com/package/@rbxts/prvdmwrong) - The swaggest Roblox game framework in town.
 - [@rbxts/prvdmwrong-lifecycles](https://www.npmjs.com/package/@rbxts/prvdmwrong-lifecycles) - Implements a "small" amount of lifecycle events for providers. We'll admit. We've gotten a bit too lifecycle happy: :onPostSimulation(dt: number) runs every RunService.PostSimulation :onPreSimulation(dt: number) runs every `RunService.PreSimul
 - [@rbxts/quaternion](https://www.npmjs.com/package/@rbxts/quaternion) - A basic quaternion implementation for Roblox
