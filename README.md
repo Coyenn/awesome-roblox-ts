@@ -516,6 +516,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/randomstring](https://www.npmjs.com/package/@rbxts/randomstring) - Generate random strings from a list of strings/characters.
 - [@rbxts/range](https://www.npmjs.com/package/@rbxts/range) - A simple range implementation with utility methods
 - [@rbxts/raycast-hitbox](https://www.npmjs.com/package/@rbxts/raycast-hitbox) - Typings for Swordphin's RaycastHitbox module
+- [@rbxts/rblx-ecs](https://www.npmjs.com/package/@rbxts/rblx-ecs)
 - [@rbxts/rblx-object-utils](https://www.npmjs.com/package/@rbxts/rblx-object-utils) - RblxObject is a utility library for Roblox-TS (TypeScript for Roblox) that provides robust functions for working with objects, arrays, sets, maps, and tables in a consistent and type-safe manner. This library simplifies common object operations such as it
 - [@rbxts/rblxdatastore](https://www.npmjs.com/package/@rbxts/rblxdatastore) - A robust, strictly-typed Roblox DataStore library written in TypeScript (via ) that organizes data with strictly-typed schemas, enforces strict validation, enables migrations that mutate data overtime, and features robust
 - [@rbxts/rblxstate](https://www.npmjs.com/package/@rbxts/rblxstate) - A Roblox state management library designed with maximum simplicity in mind!
