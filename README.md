@@ -19,7 +19,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/animation](https://www.npmjs.com/package/@rbxts/animation) - @rbxts/animation is inspired by Flameworks networking package and streamlines the process of creating, and loading
 - [@rbxts/animation-replicator](https://www.npmjs.com/package/@rbxts/animation-replicator)
 - [@rbxts/api-dump-fetcher](https://www.npmjs.com/package/@rbxts/api-dump-fetcher) - Fully types MaximumADHD Api-Dump (mostly for plugins)
-- [@rbxts/app-forge](https://www.npmjs.com/package/@rbxts/app-forge) - An App Manager for react
+- [@rbxts/app-forge](https://www.npmjs.com/package/@rbxts/app-forge) - An App Manager for Vide
 - [@rbxts/array-utils](https://www.npmjs.com/package/@rbxts/array-utils) - Extra utility methods for roblox-ts arrays
 - [@rbxts/asciify](https://www.npmjs.com/package/@rbxts/asciify) - Package to convert UTF-8 to ASCII with minimal loss
 - [@rbxts/assert_eq](https://www.npmjs.com/package/@rbxts/assert_eq)
