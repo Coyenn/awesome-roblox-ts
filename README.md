@@ -212,6 +212,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/fabric](https://www.npmjs.com/package/@rbxts/fabric) - roblox-ts typings for evaera's Fabric.
 - [@rbxts/fade-ts](https://www.npmjs.com/package/@rbxts/fade-ts) - A light package that fades all descendants of a element at the same time smoothly, with just one function
 - [@rbxts/faker](https://www.npmjs.com/package/@rbxts/faker) - A library that mocks Roblox user data, inspired by faker-js.
+- [@rbxts/falldown](https://www.npmjs.com/package/@rbxts/falldown) - A realistic ragdoll physics system for Roblox with smooth getup animations, collision management, and customizable velocity modes. Supports both R6 and R15 rigs with surface-aware positioning.
 - [@rbxts/fast-replica](https://www.npmjs.com/package/@rbxts/fast-replica) - A simple and intuitive package for sharing data from server to client.
 - [@rbxts/fast-rotated-region3](https://www.npmjs.com/package/@rbxts/fast-rotated-region3) - Faster version of EgoMoose's RotatedRegion3 GJK module.
 - [@rbxts/fast-spawn](https://www.npmjs.com/package/@rbxts/fast-spawn) - Spawns a new thread without waiting one step
