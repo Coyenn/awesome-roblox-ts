@@ -67,6 +67,8 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/bloxstrap-rpc-sdk](https://www.npmjs.com/package/@rbxts/bloxstrap-rpc-sdk) - Bloxstrap RPC SDK library
 - [@rbxts/bloxstraprpc](https://www.npmjs.com/package/@rbxts/bloxstraprpc)
 - [@rbxts/boat-tween](https://www.npmjs.com/package/@rbxts/boat-tween) - TypeScript port of boatbomber's BoatTween
+- [@rbxts/boba](https://www.npmjs.com/package/@rbxts/boba) - Boba is a general-purpose runtime typechecking library for Luau.
+- [@rbxts/boba-roblox](https://www.npmjs.com/package/@rbxts/boba-roblox) - Implements Roblox data types and instances for the Boba runtime typechecker.
 - [@rbxts/brand](https://www.npmjs.com/package/@rbxts/brand) - Source was taken from: https://github.com/kourge/ts-brand for the purpose of it working with roblox TypeScript compiler.
 - [@rbxts/bridge](https://www.npmjs.com/package/@rbxts/bridge) - A simple and efficient way to share data between server and client in Roblox
 - [@rbxts/bridgenet](https://www.npmjs.com/package/@rbxts/bridgenet) - A networking library for Roblox
@@ -192,6 +194,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/easytween](https://www.npmjs.com/package/@rbxts/easytween)
 - [@rbxts/ebba](https://www.npmjs.com/package/@rbxts/ebba) - jabby is a debugger for based off
 - [@rbxts/ecr](https://www.npmjs.com/package/@rbxts/ecr) - A sparse-set based ECS library for Luau, now with TS types.
+- [@rbxts/ecs-forge](https://www.npmjs.com/package/@rbxts/ecs-forge) - A simple, extensible ECS library for roblox-ts
 - [@rbxts/ecs-lite](https://www.npmjs.com/package/@rbxts/ecs-lite) - Lightweight and fast ECS framework for Roblox-TS
 - [@rbxts/eis](https://www.npmjs.com/package/@rbxts/eis) - A roblox UI manager with useful utils
 - [@rbxts/ejt](https://www.npmjs.com/package/@rbxts/ejt) - A library for interacting with difficulties in the EToH Joke Towers wiki.
