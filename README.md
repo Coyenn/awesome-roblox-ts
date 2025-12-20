@@ -751,6 +751,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/topbarplus](https://www.npmjs.com/package/@rbxts/topbarplus) - Roblox-TS typings for the TopbarPlus module.
 - [@rbxts/topo-hooks](https://www.npmjs.com/package/@rbxts/topo-hooks) - Hooks for topo-runtime
 - [@rbxts/topo-runtime](https://www.npmjs.com/package/@rbxts/topo-runtime) - Topologically-aware runtime for Roblox
+- [@rbxts/toucan](https://www.npmjs.com/package/@rbxts/toucan)
 - [@rbxts/touch-button](https://www.npmjs.com/package/@rbxts/touch-button)
 - [@rbxts/touch-screen-joysticks](https://www.npmjs.com/package/@rbxts/touch-screen-joysticks) - A library for creating touch-screen joystick interfaces for Roblox development written using roblox-ts.
 - [@rbxts/tracer](https://www.npmjs.com/package/@rbxts/tracer) - Raycast wrapper for Roblox
