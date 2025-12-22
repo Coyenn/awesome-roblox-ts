@@ -220,6 +220,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/fast-rotated-region3](https://www.npmjs.com/package/@rbxts/fast-rotated-region3) - Faster version of EgoMoose's RotatedRegion3 GJK module.
 - [@rbxts/fast-spawn](https://www.npmjs.com/package/@rbxts/fast-spawn) - Spawns a new thread without waiting one step
 - [@rbxts/fastcast](https://www.npmjs.com/package/@rbxts/fastcast) - Typescript types for EtiTheSpirit's FastCast
+- [@rbxts/fastcast-redux](https://www.npmjs.com/package/@rbxts/fastcast-redux) - Types for FastCast: Redux
 - [@rbxts/feces](https://www.npmjs.com/package/@rbxts/feces) - Fast Entity Component Export System
 - [@rbxts/fenwick-tree](https://www.npmjs.com/package/@rbxts/fenwick-tree) - A 1-based Fenwick Tree implementation.
 - [@rbxts/fetch](https://www.npmjs.com/package/@rbxts/fetch) - Fetch for Roblox-TS!
