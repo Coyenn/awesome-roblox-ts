@@ -150,6 +150,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/corepackages-timers](https://www.npmjs.com/package/@rbxts/corepackages-timers) - Type declarations for Roblox's licensed CorePackage of 'Timers'
 - [@rbxts/coro](https://www.npmjs.com/package/@rbxts/coro) - Coro is a library for managing Actors in Roblox
 - [@rbxts/covenant](https://www.npmjs.com/package/@rbxts/covenant)
+- [@rbxts/coverage](https://www.npmjs.com/package/@rbxts/coverage) - Coverage instrumentation for Roblox Luau
 - [@rbxts/crate](https://www.npmjs.com/package/@rbxts/crate) - A tiny state manager for roblox-ts.
 - [@rbxts/create-shared-toolbar](https://www.npmjs.com/package/@rbxts/create-shared-toolbar) - A library that helps you create a shared plugin toolbar for your plugins.
 - [@rbxts/create-slice](https://www.npmjs.com/package/@rbxts/create-slice) - Helpful function to easily define rodux reducers.
