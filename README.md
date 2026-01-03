@@ -697,6 +697,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/social-configuration](https://www.npmjs.com/package/@rbxts/social-configuration)
 - [@rbxts/socket.io](https://www.npmjs.com/package/@rbxts/socket.io) - A full implementation of Socket.IO on Roblox.
 - [@rbxts/solid](https://www.npmjs.com/package/@rbxts/solid) - A library for creating reactive everything in Roblox like SolidJS
+- [@rbxts/soma](https://www.npmjs.com/package/@rbxts/soma)
 - [@rbxts/sound-manager](https://www.npmjs.com/package/@rbxts/sound-manager) - A sound manager for Roblox-Typescript projects.
 - [@rbxts/sound2](https://www.npmjs.com/package/@rbxts/sound2)
 - [@rbxts/soundtrack](https://www.npmjs.com/package/@rbxts/soundtrack) - An Open-Source Soundtrack & SFX library for Roblox.
