@@ -813,6 +813,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/whatwg-event-target](https://www.npmjs.com/package/@rbxts/whatwg-event-target) - An implementation of WHATWG EventTarget interface. (Ported to Roblox-TS)
 - [@rbxts/wind-shake](https://www.npmjs.com/package/@rbxts/wind-shake) - High performance wind effect for leaves and foliage
 - [@rbxts/wired](https://www.npmjs.com/package/@rbxts/wired) - Lightweight Remote Wrapper for Roblox
+- [@rbxts/wispr](https://www.npmjs.com/package/@rbxts/wispr) - Server-authoritative state replication system for Roblox TypeScript
 - [@rbxts/xstate](https://www.npmjs.com/package/@rbxts/xstate) - Finite State Machines and Statecharts for the Modern Web. (Ported to Roblox-TS)
 - [@rbxts/xstate-react](https://www.npmjs.com/package/@rbxts/xstate-react) - XState tools for React. (Ported to Roblox-TS)
 - [@rbxts/yaruil](https://www.npmjs.com/package/@rbxts/yaruil) - Yet Another Roblox UI Library
