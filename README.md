@@ -291,6 +291,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/hotfusion](https://www.npmjs.com/package/@rbxts/hotfusion) - Fork of Fusion with improvements used by Team Fireworks
 - [@rbxts/hsm](https://www.npmjs.com/package/@rbxts/hsm) - Hierarchal state machine class for Roblox
 - [@rbxts/http-queue](https://www.npmjs.com/package/@rbxts/http-queue) - A small library to queue requests for your different external services
+- [@rbxts/humanoid-stat-manager](https://www.npmjs.com/package/@rbxts/humanoid-stat-manager)
 - [@rbxts/id](https://www.npmjs.com/package/@rbxts/id) - Utility classes for IDing objects
 - [@rbxts/immut](https://www.npmjs.com/package/@rbxts/immut) - A draft-based immutable data library based on Immer
 - [@rbxts/infinitum](https://www.npmjs.com/package/@rbxts/infinitum) - A BigNum implementation
@@ -519,6 +520,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/quirk-ui](https://www.npmjs.com/package/@rbxts/quirk-ui) - A modern, component-based UI library for Roblox-TS with reusable components and utilities
 - [@rbxts/r15-ragdoll](https://www.npmjs.com/package/@rbxts/r15-ragdoll) - Port of https://devforum.roblox.com/t/r15-rthro-ragdolls/338580
 - [@rbxts/radialimage](https://www.npmjs.com/package/@rbxts/radialimage) - Types for RadialImage
+- [@rbxts/ragdoll](https://www.npmjs.com/package/@rbxts/ragdoll)
 - [@rbxts/rain](https://www.npmjs.com/package/@rbxts/rain) - Typings for by buildthomas
 - [@rbxts/randomstring](https://www.npmjs.com/package/@rbxts/randomstring) - Generate random strings from a list of strings/characters.
 - [@rbxts/range](https://www.npmjs.com/package/@rbxts/range) - A simple range implementation with utility methods
@@ -774,6 +776,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/tween](https://www.npmjs.com/package/@rbxts/tween) - A library for writing efficient, simple interpolation code
 - [@rbxts/tweenreplicator](https://www.npmjs.com/package/@rbxts/tweenreplicator) - Easily replicate multiple tweens to the client.
 - [@rbxts/twin](https://www.npmjs.com/package/@rbxts/twin) - A modern TweenService tween builder.
+- [@rbxts/ty](https://www.npmjs.com/package/@rbxts/ty) - Type validation with detailed errors
 - [@rbxts/tycoon-framework](https://www.npmjs.com/package/@rbxts/tycoon-framework)
 - [@rbxts/types](https://www.npmjs.com/package/@rbxts/types) - TypeScript typings for the Roblox platform. Partially handwritten and partially automatically generated.
 - [@rbxts/ui](https://www.npmjs.com/package/@rbxts/ui)
