@@ -269,6 +269,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/glassmorphicui](https://www.npmjs.com/package/@rbxts/glassmorphicui) - Glassmorphic UI in Roblox.
 - [@rbxts/glicko2](https://www.npmjs.com/package/@rbxts/glicko2) - Types for the Lua implementation of the Glicko-2 rating system.
 - [@rbxts/goap](https://www.npmjs.com/package/@rbxts/goap) - A direct port of to Roblox. Should work functionally the same: albeit a few differences. Eventually, this will support parallel Luau.
+- [@rbxts/goap-solver](https://www.npmjs.com/package/@rbxts/goap-solver) - A lightweight, pure functional GOAP solver in TypeScript for creating complex AI agent behavior in games and simulations
 - [@rbxts/goodsignal](https://www.npmjs.com/package/@rbxts/goodsignal)
 - [@rbxts/google-analytics](https://www.npmjs.com/package/@rbxts/google-analytics)
 - [@rbxts/gorp](https://www.npmjs.com/package/@rbxts/gorp) - A hacky ECS debugger
