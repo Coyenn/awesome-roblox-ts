@@ -486,6 +486,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/player-statistics](https://www.npmjs.com/package/@rbxts/player-statistics) - A generic, type-safe package for Roblox development made with roblox-ts for giving out rewards to players who achieve specified objectives based on their player statistics.
 - [@rbxts/players-tracker](https://www.npmjs.com/package/@rbxts/players-tracker) - Tracker of player's character.
 - [@rbxts/playfab](https://www.npmjs.com/package/@rbxts/playfab) - A PlayFab SDK for Roblox. PlayFab is a complete backend platform for live games with managed game services, real-time analytics, and LiveOps.
+- [@rbxts/plugin-components](https://www.npmjs.com/package/@rbxts/plugin-components) - React plugin components for Roblox
 - [@rbxts/poisson-disk-sampling](https://www.npmjs.com/package/@rbxts/poisson-disk-sampling) - Poisson disk sampling implemention for roblox-ts
 - [@rbxts/polybool](https://www.npmjs.com/package/@rbxts/polybool) - Boolean operations on polygons (union, intersection, difference, xor)
 - [@rbxts/porcupine](https://www.npmjs.com/package/@rbxts/porcupine) - Unit testing framework inspired by TestEZ
