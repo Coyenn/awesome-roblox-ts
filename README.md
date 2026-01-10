@@ -291,6 +291,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/hot-reloader](https://www.npmjs.com/package/@rbxts/hot-reloader) - Modules hot reload solution for Roblox.
 - [@rbxts/hotfusion](https://www.npmjs.com/package/@rbxts/hotfusion) - Fork of Fusion with improvements used by Team Fireworks
 - [@rbxts/hsm](https://www.npmjs.com/package/@rbxts/hsm) - Hierarchal state machine class for Roblox
+- [@rbxts/htn-shop](https://www.npmjs.com/package/@rbxts/htn-shop) - a simple HTN SHOP-like planner
 - [@rbxts/http-queue](https://www.npmjs.com/package/@rbxts/http-queue) - A small library to queue requests for your different external services
 - [@rbxts/humanoid-stat-manager](https://www.npmjs.com/package/@rbxts/humanoid-stat-manager)
 - [@rbxts/id](https://www.npmjs.com/package/@rbxts/id) - Utility classes for IDing objects
@@ -387,6 +388,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/markdown-ast](https://www.npmjs.com/package/@rbxts/markdown-ast) - Exposes a simple 'parse' function that generates an AST from Markdown
 - [@rbxts/matchmakingservice](https://www.npmjs.com/package/@rbxts/matchmakingservice)
 - [@rbxts/math](https://www.npmjs.com/package/@rbxts/math) - A port of RobloxianDemo's Math module.
+- [@rbxts/mathcat](https://www.npmjs.com/package/@rbxts/mathcat) - a collection of math helpers for 3D graphics and simulations
 - [@rbxts/mathparser](https://www.npmjs.com/package/@rbxts/mathparser) - Math expression parser and evaluator + more for roblox-ts
 - [@rbxts/matter](https://www.npmjs.com/package/@rbxts/matter) - <img src="https://github.com/matter-ecs/matter
 - [@rbxts/matter-bootstrap](https://www.npmjs.com/package/@rbxts/matter-bootstrap) - A simple class that handles everything needed to bootstrap a Matter world including hot-reloading, live debug, networking (using @rbxts/yetanothernet), and component replication.
