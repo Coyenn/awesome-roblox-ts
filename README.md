@@ -473,10 +473,10 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/pid](https://www.npmjs.com/package/@rbxts/pid) - A PID module based on sleitnick's RbxUtil PID module.
 - [@rbxts/ping](https://www.npmjs.com/package/@rbxts/ping) - Dead simple roblox-ts bindable event wrapper.
 - [@rbxts/pixie](https://www.npmjs.com/package/@rbxts/pixie)
-- [@rbxts/planck](https://www.npmjs.com/package/@rbxts/planck) - An Agnostic Scheduler for ECS
+- [@rbxts/planck](https://www.npmjs.com/package/@rbxts/planck) - An Agnostic Scheduler, inspired by Bevy Schedules and Flecs Pipelines and Phases
 - [@rbxts/planck-flamecs-hooks](https://www.npmjs.com/package/@rbxts/planck-flamecs-hooks) - A @rbxts/planck plugin that provides support for @rbxts/flamecs hooks.
 - [@rbxts/planck-hooks](https://www.npmjs.com/package/@rbxts/planck-hooks) - A @rbxts/planck plugin that provides support for hooks.
-- [@rbxts/planck-jabby](https://www.npmjs.com/package/@rbxts/planck-jabby) - A Plugin for Planck, adding support for the Jabby debugger.
+- [@rbxts/planck-jabby](https://www.npmjs.com/package/@rbxts/planck-jabby) - A Jabby plugin for the Planck scheduler - debug and visualize your Planck scheduling system with jecs entity debugging tools
 - [@rbxts/planck-matter-debugger](https://www.npmjs.com/package/@rbxts/planck-matter-debugger) - A Plugin for Planck, adding support for the matter debugger.
 - [@rbxts/planck-matter-hooks](https://www.npmjs.com/package/@rbxts/planck-matter-hooks) - A Plugin for Planck, adding support for matter hooks.
 - [@rbxts/planck-rewire](https://www.npmjs.com/package/@rbxts/planck-rewire) - A hot-reload plugin for @rbxts/planck
