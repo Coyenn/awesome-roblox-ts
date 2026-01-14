@@ -714,6 +714,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/spriteclip](https://www.npmjs.com/package/@rbxts/spriteclip) - A Roblox module for easy sprite animation. Originally by nooneisback — with type declarations for roblox-ts compatibility.
 - [@rbxts/squash](https://www.npmjs.com/package/@rbxts/squash) - Typings for Squash, a comprehensive ser/des library
 - [@rbxts/stacks-and-queues](https://www.npmjs.com/package/@rbxts/stacks-and-queues) - A simple set of implementations of stack and queue data structures.
+- [@rbxts/stagemanager](https://www.npmjs.com/package/@rbxts/stagemanager) - Allocate isolated stages with lifecycle management
 - [@rbxts/state-management](https://www.npmjs.com/package/@rbxts/state-management) - A comprehensive state management library for roblox-ts, featuring Finite State Machines (FSM), Behavior Trees (BT), Goal Oriented Action Planning (GOAP), and Blackboard systems.
 - [@rbxts/statefy](https://www.npmjs.com/package/@rbxts/statefy) - NOT generated with chatgpt 💔
 - [@rbxts/stitch](https://www.npmjs.com/package/@rbxts/stitch) - @rbxts/stitch
