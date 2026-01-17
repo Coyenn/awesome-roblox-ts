@@ -608,7 +608,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/rewire](https://www.npmjs.com/package/@rbxts/rewire) - Roblox Typescript bindings for Rewire
 - [@rbxts/rich-text-stream](https://www.npmjs.com/package/@rbxts/rich-text-stream) - A Roblox rich text builder
 - [@rbxts/ripple](https://www.npmjs.com/package/@rbxts/ripple) - Spring-driven animations and more
-- [@rbxts/rl](https://www.npmjs.com/package/@rbxts/rl) - simple reactive library
+- [@rbxts/rl](https://www.npmjs.com/package/@rbxts/rl) - Simple reactive library. Docs: https://pesde.dev/packages/wiam/rl/latest/any/docs/intro
 - [@rbxts/rlog](https://www.npmjs.com/package/@rbxts/rlog) - Context-based server-side logging solution for ROBLOX projects.
 - [@rbxts/roact](https://www.npmjs.com/package/@rbxts/roact) - TypeScript support for Roact
 - [@rbxts/roact-compat-internal](https://www.npmjs.com/package/@rbxts/roact-compat-internal) - This package serves as a compatibility bridge between react and legacy . It can be used when migrating an existing codebase to React, but new code shouldn't use this package.
