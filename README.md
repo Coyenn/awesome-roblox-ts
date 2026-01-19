@@ -352,6 +352,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/libopen-whyhttp](https://www.npmjs.com/package/@rbxts/libopen-whyhttp) - LibOpen's whyhttp
 - [@rbxts/light-promise](https://www.npmjs.com/package/@rbxts/light-promise) - Lightweight Promise implementation in Luau.
 - [@rbxts/lightning-beams](https://www.npmjs.com/package/@rbxts/lightning-beams) - TypeScript support for LightningBeams
+- [@rbxts/lightsignal](https://www.npmjs.com/package/@rbxts/lightsignal) - Lightweight signal implementation.
 - [@rbxts/link](https://www.npmjs.com/package/@rbxts/link) - Extremely simple networking library that allows you to create shared modules for remotes that are the same between both the client and server.
 - [@rbxts/linked-lists](https://www.npmjs.com/package/@rbxts/linked-lists) - A module that provides basic linked list data structures.
 - [@rbxts/llama](https://www.npmjs.com/package/@rbxts/llama) - Lua Library for Immutable Data (Llama) by freddylist
@@ -608,7 +609,6 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/rewire](https://www.npmjs.com/package/@rbxts/rewire) - Roblox Typescript bindings for Rewire
 - [@rbxts/rich-text-stream](https://www.npmjs.com/package/@rbxts/rich-text-stream) - A Roblox rich text builder
 - [@rbxts/ripple](https://www.npmjs.com/package/@rbxts/ripple) - Spring-driven animations and more
-- [@rbxts/rl](https://www.npmjs.com/package/@rbxts/rl) - Simple reactive library. Docs: https://pesde.dev/packages/wiam/rl/latest/any/docs/intro
 - [@rbxts/rlog](https://www.npmjs.com/package/@rbxts/rlog) - Context-based server-side logging solution for ROBLOX projects.
 - [@rbxts/roact](https://www.npmjs.com/package/@rbxts/roact) - TypeScript support for Roact
 - [@rbxts/roact-compat-internal](https://www.npmjs.com/package/@rbxts/roact-compat-internal) - This package serves as a compatibility bridge between react and legacy . It can be used when migrating an existing codebase to React, but new code shouldn't use this package.
@@ -627,7 +627,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/roact-wm](https://www.npmjs.com/package/@rbxts/roact-wm) - Roact Window Manager
 - [@rbxts/roblox-observers](https://www.npmjs.com/package/@rbxts/roblox-observers) - Observers to help simplify some specific event handling.
 - [@rbxts/roblox-parallel-worker](https://www.npmjs.com/package/@rbxts/roblox-parallel-worker) - A ModuleScript library designed to abstract away Roblox's Actor model for parallel execution in favor of a simple task distribution module which handles the lifetime execution of a parallel task!
-- [@rbxts/roblox-postgrest](https://www.npmjs.com/package/@rbxts/roblox-postgrest) - A TypeScript client library for designed for Roblox games using .
+- [@rbxts/roblox-postgrest](https://www.npmjs.com/package/@rbxts/roblox-postgrest) - A TypeScript client library for PostgREST designed for Roblox games using roblox-ts.
 - [@rbxts/roblox-spr](https://www.npmjs.com/package/@rbxts/roblox-spr) - Springs are powerful approach for describing fluid, physically-based animation. spr is a high-performance and user-friendly motion library for Roblox based on springs.
 - [@rbxts/roblox-state-machine](https://www.npmjs.com/package/@rbxts/roblox-state-machine) - A simple finite state machine implementation for RobloxTS
 - [@rbxts/roblox-wait-for](https://www.npmjs.com/package/@rbxts/roblox-wait-for)
@@ -732,6 +732,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/studiocomponents-react](https://www.npmjs.com/package/@rbxts/studiocomponents-react) - A forked version of @rbxts/studiocomponents migrated over to @rbxts/react
 - [@rbxts/suphi-datastore](https://www.npmjs.com/package/@rbxts/suphi-datastore) - About typescript support for suphi's dataStore module
 - [@rbxts/surfaceguiwrapper](https://www.npmjs.com/package/@rbxts/surfaceguiwrapper) - roblox-ts bindings for TheNexusAvenger's SurfaceGuiWrapper module
+- [@rbxts/swan](https://www.npmjs.com/package/@rbxts/swan) - Simple state management library. Docs: https://pesde.dev/packages/wiam/swan/latest/any/docs/intro
 - [@rbxts/sweet-charm](https://www.npmjs.com/package/@rbxts/sweet-charm) - Library for @rbxts/charm that allows to create atom classes and sync them using repositories
 - [@rbxts/swimming](https://www.npmjs.com/package/@rbxts/swimming)
 - [@rbxts/syn-utils](https://www.npmjs.com/package/@rbxts/syn-utils) - A utilities package that I use for personal development but is welcomed to be used, if you find yourself with any use cases :)
