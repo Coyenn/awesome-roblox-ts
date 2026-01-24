@@ -299,7 +299,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/infinitum](https://www.npmjs.com/package/@rbxts/infinitum) - A BigNum implementation
 - [@rbxts/input-actions](https://www.npmjs.com/package/@rbxts/input-actions) - A flexible input system for Roblox TypeScript inspired by Godot's input handling, providing action mapping, context switching, and advanced input utilities.
 - [@rbxts/input-capturer](https://www.npmjs.com/package/@rbxts/input-capturer) - A Roblox module to capture inputs and replay them later
-- [@rbxts/input-categorizer](https://www.npmjs.com/package/@rbxts/input-categorizer) - Categorize the input system that is being used.
+- [@rbxts/input-categorizer](https://www.npmjs.com/package/@rbxts/input-categorizer) - Observe the preferred input category of the player.
 - [@rbxts/insitux](https://www.npmjs.com/package/@rbxts/insitux) - Extensible s-expression scripting language enabling players to safely mod Roblox games themselves.
 - [@rbxts/inspect](https://www.npmjs.com/package/@rbxts/inspect) - https://github.com/kikito/inspect.lua
 - [@rbxts/instance-cache](https://www.npmjs.com/package/@rbxts/instance-cache) - Easily cache any instance to improve memory and performance.
