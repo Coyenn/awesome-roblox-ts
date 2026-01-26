@@ -603,6 +603,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/replecs](https://www.npmjs.com/package/@rbxts/replecs) - Replication library for Jecs
 - [@rbxts/replica](https://www.npmjs.com/package/@rbxts/replica) - Roblox-TS typings for Replica
 - [@rbxts/replicaservice](https://www.npmjs.com/package/@rbxts/replicaservice) - ReplicaService typings.
+- [@rbxts/replion](https://www.npmjs.com/package/@rbxts/replion) - Install with :\ Replion = "shouxtech/replion@1.0.15"
 - [@rbxts/reply](https://www.npmjs.com/package/@rbxts/reply) - Advanced lightweight rokux-like store replicator.
 - [@rbxts/repr](https://www.npmjs.com/package/@rbxts/repr) - Typings for Ozzypig's repr module
 - [@rbxts/result](https://www.npmjs.com/package/@rbxts/result) - An implementation of Rust-like Results for use with roblox-ts
