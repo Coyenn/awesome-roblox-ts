@@ -572,6 +572,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/react-lifetime-component](https://www.npmjs.com/package/@rbxts/react-lifetime-component) - A React util that allows you to delay the component's unmounting to your liking.
 - [@rbxts/react-motion](https://www.npmjs.com/package/@rbxts/react-motion) - Motion for React
 - [@rbxts/react-particle-emitter](https://www.npmjs.com/package/@rbxts/react-particle-emitter) - @rbxts/react-particle-emitter is available on and can be installed with the following commands:
+- [@rbxts/react-query](https://www.npmjs.com/package/@rbxts/react-query) - Exremely simple implementation for @tanstack/react-query for roblox-ts.
 - [@rbxts/react-reconciler-internal](https://www.npmjs.com/package/@rbxts/react-reconciler-internal) - NOTE: This README is copied directly from React upstream.
 - [@rbxts/react-redux](https://www.npmjs.com/package/@rbxts/react-redux) - roblox-ts typings for react-redux
 - [@rbxts/react-reflex](https://www.npmjs.com/package/@rbxts/react-reflex) - React bindings for Reflex
@@ -603,7 +604,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/replecs](https://www.npmjs.com/package/@rbxts/replecs) - Replication library for Jecs
 - [@rbxts/replica](https://www.npmjs.com/package/@rbxts/replica) - Roblox-TS typings for Replica
 - [@rbxts/replicaservice](https://www.npmjs.com/package/@rbxts/replicaservice) - ReplicaService typings.
-- [@rbxts/replion](https://www.npmjs.com/package/@rbxts/replion) - Install with :\ Replion = "shouxtech/replion@1.0.15"
+- [@rbxts/replion](https://www.npmjs.com/package/@rbxts/replion) - Install with :\ Replion = "shouxtech/replion@1.0.19"
 - [@rbxts/reply](https://www.npmjs.com/package/@rbxts/reply) - Advanced lightweight rokux-like store replicator.
 - [@rbxts/repr](https://www.npmjs.com/package/@rbxts/repr) - Typings for Ozzypig's repr module
 - [@rbxts/result](https://www.npmjs.com/package/@rbxts/result) - An implementation of Rust-like Results for use with roblox-ts
