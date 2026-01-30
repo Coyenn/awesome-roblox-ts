@@ -126,7 +126,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/component](https://www.npmjs.com/package/@rbxts/component) - A simple tag-based component library for Roblox TS.
 - [@rbxts/computelua](https://www.npmjs.com/package/@rbxts/computelua) - Typings for compute lua
 - [@rbxts/conf](https://www.npmjs.com/package/@rbxts/conf) - Instance based configuration management.
-- [@rbxts/confetti](https://www.npmjs.com/package/@rbxts/confetti) - Install with :\ Confetti = "shouxtech/Confetti@1.0.0"
+- [@rbxts/confetti](https://www.npmjs.com/package/@rbxts/confetti) - Install with :\ Confetti = "shouxtech/Confetti@1.0.1"
 - [@rbxts/config](https://www.npmjs.com/package/@rbxts/config) - Config is a simple configuration maker for RobloxTS. Setting a variable on a config creates a value instance for it which can be later read from another config with the same name and parent.
 - [@rbxts/constrained-markers](https://www.npmjs.com/package/@rbxts/constrained-markers) - Contains typings for Anaminus's ConstrainedMarkers Module. See https://devforum.roblox.com/t/constrainedmarkers-module/67640
 - [@rbxts/context-stack](https://www.npmjs.com/package/@rbxts/context-stack) - ContextStack component for React.
