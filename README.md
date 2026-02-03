@@ -496,6 +496,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/plugin-components](https://www.npmjs.com/package/@rbxts/plugin-components) - React plugin components for Roblox
 - [@rbxts/poisson-disk-sampling](https://www.npmjs.com/package/@rbxts/poisson-disk-sampling) - Poisson disk sampling implemention for roblox-ts
 - [@rbxts/polybool](https://www.npmjs.com/package/@rbxts/polybool) - Boolean operations on polygons (union, intersection, difference, xor)
+- [@rbxts/popup-notification](https://www.npmjs.com/package/@rbxts/popup-notification) - Install with :\ PopupNotification = "shouxtech/popup-notification@1.0.1"
 - [@rbxts/porcupine](https://www.npmjs.com/package/@rbxts/porcupine) - Unit testing framework inspired by TestEZ
 - [@rbxts/postman](https://www.npmjs.com/package/@rbxts/postman) - Easy server-client communication
 - [@rbxts/precomputed](https://www.npmjs.com/package/@rbxts/precomputed) - Just a collection of commonly used values.
@@ -794,6 +795,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/tycoon-framework](https://www.npmjs.com/package/@rbxts/tycoon-framework)
 - [@rbxts/types](https://www.npmjs.com/package/@rbxts/types) - TypeScript typings for the Roblox platform. Partially handwritten and partially automatically generated.
 - [@rbxts/ui](https://www.npmjs.com/package/@rbxts/ui)
+- [@rbxts/ui-exclusive-group](https://www.npmjs.com/package/@rbxts/ui-exclusive-group) - Install with :\ UIExclusiveGroup = "shouxtech/ui-exclusive-group@1.0.1"
 - [@rbxts/ui-labs](https://www.npmjs.com/package/@rbxts/ui-labs) - Utilities for UI-Labs, a storybook-like plugin for roblox
 - [@rbxts/ui-motion](https://www.npmjs.com/package/@rbxts/ui-motion) - A simple package to animate UI elements in Roblox.
 - [@rbxts/ui-scaler](https://www.npmjs.com/package/@rbxts/ui-scaler) - This library will allow you to scalable ui
