@@ -706,6 +706,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/simplepath](https://www.npmjs.com/package/@rbxts/simplepath) - Pathfinding made simple
 - [@rbxts/simplesignals](https://www.npmjs.com/package/@rbxts/simplesignals) - Get straight to connecting and firing! No more event instance boilerplate. RemoteEvent, RemoteFunction & BindableEvent wrapper.
 - [@rbxts/skilift](https://www.npmjs.com/package/@rbxts/skilift) - A session lockless general datastore library
+- [@rbxts/sleitnick-trove](https://www.npmjs.com/package/@rbxts/sleitnick-trove)
 - [@rbxts/slotted-data-manager](https://www.npmjs.com/package/@rbxts/slotted-data-manager) - A data manager that has full autocomplete for retrieving data
 - [@rbxts/smartbone](https://www.npmjs.com/package/@rbxts/smartbone) - Revamped release of legacy SmartBone
 - [@rbxts/snapdragon](https://www.npmjs.com/package/@rbxts/snapdragon) - A library that allows UI to be draggable in/and snappable to the viewport
