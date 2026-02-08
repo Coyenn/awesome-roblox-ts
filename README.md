@@ -32,6 +32,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/attributes](https://www.npmjs.com/package/@rbxts/attributes) - Roblox Typescript package for using type-safe attributes.
 - [@rbxts/attributes-validate](https://www.npmjs.com/package/@rbxts/attributes-validate) - Package for validating instance attributes
 - [@rbxts/audio](https://www.npmjs.com/package/@rbxts/audio)
+- [@rbxts/backpack-plus](https://www.npmjs.com/package/@rbxts/backpack-plus) - A modern Roblox backpack made /w React & inspired by ryanlua/satchel
 - [@rbxts/banner-notify](https://www.npmjs.com/package/@rbxts/banner-notify) - Banner Notifications is intuitive and customizable. You can easily notify a player for what they have done or whatnot.
 - [@rbxts/base64](https://www.npmjs.com/package/@rbxts/base64)
 - [@rbxts/baseplate](https://www.npmjs.com/package/@rbxts/baseplate) - Quick, make a baseplate!
