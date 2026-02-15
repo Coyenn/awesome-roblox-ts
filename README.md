@@ -46,7 +46,6 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/behavior-tree-5](https://www.npmjs.com/package/@rbxts/behavior-tree-5) - Defaultio's BehaviorTree5 with types!
 - [@rbxts/behaviour-tree](https://www.npmjs.com/package/@rbxts/behaviour-tree)
 - [@rbxts/berry-bin](https://www.npmjs.com/package/@rbxts/berry-bin)
-- [@rbxts/berry-linked-list](https://www.npmjs.com/package/@rbxts/berry-linked-list) - Simple linked list library.
 - [@rbxts/better-binding](https://www.npmjs.com/package/@rbxts/better-binding) - A better binding for Roact!
 - [@rbxts/better-builders](https://www.npmjs.com/package/@rbxts/better-builders) - A set of DataType builder factories.
 - [@rbxts/better-gizmos](https://www.npmjs.com/package/@rbxts/better-gizmos) - Visual debug library for Roblox.
@@ -171,7 +170,6 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/datastore2](https://www.npmjs.com/package/@rbxts/datastore2) - a roblox-ts package of Kampfkarren's Datastore2
 - [@rbxts/datastructures](https://www.npmjs.com/package/@rbxts/datastructures) - Typings for HowManySmall's datastructures
 - [@rbxts/date](https://www.npmjs.com/package/@rbxts/date) - A re-implementation of vanilla Lua's os.date function.
-- [@rbxts/dbg-it](https://www.npmjs.com/package/@rbxts/dbg-it) - Simple and extensible debugging utility.
 - [@rbxts/debris](https://www.npmjs.com/package/@rbxts/debris) - A port of RobloxianDemo's Debris module.
 - [@rbxts/debug-random](https://www.npmjs.com/package/@rbxts/debug-random) - A wrapper around Roblox's Random class that enables users to serialize and set the state of the Random object
 - [@rbxts/deep-equal](https://www.npmjs.com/package/@rbxts/deep-equal) - Recursive comparator for ROBLOX projects.
@@ -778,7 +776,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/topo-hooks](https://www.npmjs.com/package/@rbxts/topo-hooks) - Hooks for topo-runtime
 - [@rbxts/topo-runtime](https://www.npmjs.com/package/@rbxts/topo-runtime) - Topologically-aware runtime for Roblox
 - [@rbxts/toucan](https://www.npmjs.com/package/@rbxts/toucan)
-- [@rbxts/touch-button](https://www.npmjs.com/package/@rbxts/touch-button)
+- [@rbxts/touch-button](https://www.npmjs.com/package/@rbxts/touch-button) - Install with :\ TouchButton = "shouxtech/touch-button@1.0.13"
 - [@rbxts/touch-screen-joysticks](https://www.npmjs.com/package/@rbxts/touch-screen-joysticks) - A library for creating touch-screen joystick interfaces for Roblox development written using roblox-ts.
 - [@rbxts/tracer](https://www.npmjs.com/package/@rbxts/tracer) - Raycast wrapper for Roblox
 - [@rbxts/transact](https://www.npmjs.com/package/@rbxts/transact) - Transaction will allow you to conduct secure transactions using Transact, Rollback methods.
