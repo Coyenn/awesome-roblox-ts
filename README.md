@@ -326,6 +326,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/jecs-utils](https://www.npmjs.com/package/@rbxts/jecs-utils) - Utilities for Jecs.
 - [@rbxts/jecs-vide](https://www.npmjs.com/package/@rbxts/jecs-vide) - Utilities for using Jecs with Vide.
 - [@rbxts/jest](https://www.npmjs.com/package/@rbxts/jest) - Delightful testing for Roblox TypeScript
+- [@rbxts/jest-extended](https://www.npmjs.com/package/@rbxts/jest-extended) - Additional Jest matchers for roblox-ts projects.
 - [@rbxts/jest-globals](https://www.npmjs.com/package/@rbxts/jest-globals) - JestGlobal bindings for Roblox
 - [@rbxts/jest-matcher-utils](https://www.npmjs.com/package/@rbxts/jest-matcher-utils) - JestMatcherUtils bindings for Roblox
 - [@rbxts/jest-utils](https://www.npmjs.com/package/@rbxts/jest-utils) - A collection of utilities that can be used alongside roblox Jest
