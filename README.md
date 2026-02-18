@@ -327,6 +327,8 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/jecs-utils](https://www.npmjs.com/package/@rbxts/jecs-utils) - Utilities for Jecs.
 - [@rbxts/jecs-vide](https://www.npmjs.com/package/@rbxts/jecs-vide) - Utilities for using Jecs with Vide.
 - [@rbxts/jest](https://www.npmjs.com/package/@rbxts/jest) - Delightful testing for Roblox TypeScript
+- [@rbxts/jest-benchmark](https://www.npmjs.com/package/@rbxts/jest-benchmark) - JestBenchmark bindings for Roblox
+- [@rbxts/jest-diff](https://www.npmjs.com/package/@rbxts/jest-diff) - JestDiff bindings for Roblox
 - [@rbxts/jest-extended](https://www.npmjs.com/package/@rbxts/jest-extended) - Additional Jest matchers for roblox-ts projects.
 - [@rbxts/jest-globals](https://www.npmjs.com/package/@rbxts/jest-globals) - JestGlobal bindings for Roblox
 - [@rbxts/jest-matcher-utils](https://www.npmjs.com/package/@rbxts/jest-matcher-utils) - JestMatcherUtils bindings for Roblox
@@ -719,6 +721,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/soma](https://www.npmjs.com/package/@rbxts/soma)
 - [@rbxts/sound-manager](https://www.npmjs.com/package/@rbxts/sound-manager) - A sound manager for Roblox-Typescript projects.
 - [@rbxts/sound2](https://www.npmjs.com/package/@rbxts/sound2)
+- [@rbxts/soundspace](https://www.npmjs.com/package/@rbxts/soundspace) - Lightweight utility library for Roblox's new sound API
 - [@rbxts/soundtrack](https://www.npmjs.com/package/@rbxts/soundtrack) - An Open-Source Soundtrack & SFX library for Roblox.
 - [@rbxts/spark](https://www.npmjs.com/package/@rbxts/spark) - This is a fork of https://github.com/nezuo/spark with typings. Originally from https://github.com/sporblord/spark.
 - [@rbxts/spr](https://www.npmjs.com/package/@rbxts/spr) - Springs are powerful approach for describing fluid, physically-based animation. spr is a high-performance and user-friendly motion library for Roblox based on springs.
@@ -756,6 +759,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/tally-store](https://www.npmjs.com/package/@rbxts/tally-store) - A Roblox TypeScript library for managing in-game global counters stores.
 - [@rbxts/task-event-emitter](https://www.npmjs.com/package/@rbxts/task-event-emitter) - Event emitter for roblox-ts using stravant's GoodSignal
 - [@rbxts/task-queue](https://www.npmjs.com/package/@rbxts/task-queue) - Queue of cancellable tasks that is shifted and resumed whenever a task finishes
+- [@rbxts/teakzc-crunchyroll](https://www.npmjs.com/package/@rbxts/teakzc-crunchyroll) - just a fork of @rbxts/crunchyroll
 - [@rbxts/test-cloud-testez](https://www.npmjs.com/package/@rbxts/test-cloud-testez) - Lightweight testing tool for running TestEZ tests in Roblox Cloud and Studio environments with direct API calls, supporting both TypeScript and Lua projects
 - [@rbxts/test-packages](https://www.npmjs.com/package/@rbxts/test-packages)
 - [@rbxts/testez](https://www.npmjs.com/package/@rbxts/testez) - A fork of TestEZ with TypeScript typings
