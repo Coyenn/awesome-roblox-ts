@@ -113,6 +113,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/clan-labs](https://www.npmjs.com/package/@rbxts/clan-labs) - An object-orientated TypeScript implementation of all public known ClanLabs apis.
 - [@rbxts/clanware-justice-sdk](https://www.npmjs.com/package/@rbxts/clanware-justice-sdk) - Clanware Justice API SDK for Roblox
 - [@rbxts/class-cache](https://www.npmjs.com/package/@rbxts/class-cache) - WIP - A class cache for rbxts
+- [@rbxts/class-validator](https://www.npmjs.com/package/@rbxts/class-validator) - In-depth validation library using classes and decorators
 - [@rbxts/cldr](https://www.npmjs.com/package/@rbxts/cldr)
 - [@rbxts/cleanser](https://www.npmjs.com/package/@rbxts/cleanser) - A port of RobloxianDemo's Cleanser class.
 - [@rbxts/clientcast](https://www.npmjs.com/package/@rbxts/clientcast) - typings for the clientcast module made by PysephRBX
@@ -127,7 +128,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/component](https://www.npmjs.com/package/@rbxts/component) - A simple tag-based component library for Roblox TS.
 - [@rbxts/computelua](https://www.npmjs.com/package/@rbxts/computelua) - Typings for compute lua
 - [@rbxts/conf](https://www.npmjs.com/package/@rbxts/conf) - Instance based configuration management.
-- [@rbxts/confetti](https://www.npmjs.com/package/@rbxts/confetti) - Install with :\ Confetti = "shouxtech/Confetti@1.0.1"
+- [@rbxts/confetti](https://www.npmjs.com/package/@rbxts/confetti) - Install with :\ Confetti = "shouxtech/Confetti@1.0.2"
 - [@rbxts/config](https://www.npmjs.com/package/@rbxts/config) - Config is a simple configuration maker for RobloxTS. Setting a variable on a config creates a value instance for it which can be later read from another config with the same name and parent.
 - [@rbxts/constrained-markers](https://www.npmjs.com/package/@rbxts/constrained-markers) - Contains typings for Anaminus's ConstrainedMarkers Module. See https://devforum.roblox.com/t/constrainedmarkers-module/67640
 - [@rbxts/context-stack](https://www.npmjs.com/package/@rbxts/context-stack) - ContextStack component for React.
@@ -174,6 +175,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/debug-random](https://www.npmjs.com/package/@rbxts/debug-random) - A wrapper around Roblox's Random class that enables users to serialize and set the state of the Random object
 - [@rbxts/deep-equal](https://www.npmjs.com/package/@rbxts/deep-equal) - Recursive comparator for ROBLOX projects.
 - [@rbxts/deepcopy](https://www.npmjs.com/package/@rbxts/deepcopy) - DeepCopy utility function.
+- [@rbxts/default](https://www.npmjs.com/package/@rbxts/default) - Generate boilerplate default values from just a type
 - [@rbxts/default-map](https://www.npmjs.com/package/@rbxts/default-map) - A roblox-ts Map wrapper that automatically creates default values for missing keys.
 - [@rbxts/delay-spawn-wait](https://www.npmjs.com/package/@rbxts/delay-spawn-wait) - Replacement for the default delay, spawn, and wait functions
 - [@rbxts/delta](https://www.npmjs.com/package/@rbxts/delta) - A lightweight deterministic physics library for Roblox.
@@ -198,7 +200,6 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/easytween](https://www.npmjs.com/package/@rbxts/easytween)
 - [@rbxts/ebba](https://www.npmjs.com/package/@rbxts/ebba) - jabby is a debugger for based off
 - [@rbxts/ecr](https://www.npmjs.com/package/@rbxts/ecr) - A sparse-set based ECS library for Luau, now with TS types.
-- [@rbxts/ecs-forge](https://www.npmjs.com/package/@rbxts/ecs-forge) - A simple, extensible ECS library for roblox-ts
 - [@rbxts/ecs-lite](https://www.npmjs.com/package/@rbxts/ecs-lite) - Lightweight and fast ECS framework for Roblox-TS
 - [@rbxts/eis](https://www.npmjs.com/package/@rbxts/eis) - A roblox UI manager with useful utils
 - [@rbxts/ejt](https://www.npmjs.com/package/@rbxts/ejt) - A library for interacting with difficulties in the EToH Joke Towers wiki.
@@ -251,7 +252,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/fletchette](https://www.npmjs.com/package/@rbxts/fletchette) - Simple networking library for roblox-ts.
 - [@rbxts/flipper](https://www.npmjs.com/package/@rbxts/flipper) - An animation library for Roblox
 - [@rbxts/flow](https://www.npmjs.com/package/@rbxts/flow) - Roblox-TS types for the Flow library (https://github.com/grilme99/Flow)
-- [@rbxts/forge](https://www.npmjs.com/package/@rbxts/forge) - reactive window state manager for vide
+- [@rbxts/forge](https://www.npmjs.com/package/@rbxts/forge) - An App Manager for Vide
 - [@rbxts/forge-vfx](https://www.npmjs.com/package/@rbxts/forge-vfx) - Typescript typings for
 - [@rbxts/format-number](https://www.npmjs.com/package/@rbxts/format-number) - This contains the typing for
 - [@rbxts/formati](https://www.npmjs.com/package/@rbxts/formati) - formati is a simple formatting library for creating valid Roblox strings, getting rid of the need to memorize RichText tags.
@@ -611,7 +612,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/replecs](https://www.npmjs.com/package/@rbxts/replecs) - Replication library for Jecs
 - [@rbxts/replica](https://www.npmjs.com/package/@rbxts/replica) - Roblox-TS typings for Replica
 - [@rbxts/replicaservice](https://www.npmjs.com/package/@rbxts/replicaservice) - ReplicaService typings.
-- [@rbxts/replion](https://www.npmjs.com/package/@rbxts/replion) - Install with :\ Replion = "shouxtech/replion@1.0.19"
+- [@rbxts/replion](https://www.npmjs.com/package/@rbxts/replion) - Install with :\ Replion = "shouxtech/replion@1.0.21"
 - [@rbxts/reply](https://www.npmjs.com/package/@rbxts/reply) - Advanced lightweight rokux-like store replicator.
 - [@rbxts/repr](https://www.npmjs.com/package/@rbxts/repr) - Typings for Ozzypig's repr module
 - [@rbxts/result](https://www.npmjs.com/package/@rbxts/result) - An implementation of Rust-like Results for use with roblox-ts
