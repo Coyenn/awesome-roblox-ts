@@ -281,6 +281,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/gorp](https://www.npmjs.com/package/@rbxts/gorp) - A hacky ECS debugger
 - [@rbxts/gorp-ecr](https://www.npmjs.com/package/@rbxts/gorp-ecr) - gorp ecr layer
 - [@rbxts/graph](https://www.npmjs.com/package/@rbxts/graph) - boatbomber's Graph class with types!
+- [@rbxts/graph-data-structure](https://www.npmjs.com/package/@rbxts/graph-data-structure) - A graph data structure with topological sort.
 - [@rbxts/gravity-controller](https://www.npmjs.com/package/@rbxts/gravity-controller) - Typescript bindings for with ground normal finding by
 - [@rbxts/greedycanvas](https://www.npmjs.com/package/@rbxts/greedycanvas) - A canvas renderer using greedy gradients to draw efficiently in Roblox
 - [@rbxts/greenwichdb](https://www.npmjs.com/package/@rbxts/greenwichdb) - Bindings from GreenwichDB to be compatible with roblox-ts
@@ -373,6 +374,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/log](https://www.npmjs.com/package/@rbxts/log) - Structured logging library for Roblox
 - [@rbxts/logger](https://www.npmjs.com/package/@rbxts/logger) - A lightweight and flexible logger utility for Roblox projects. Supports message templates for clean, readable log statements.
 - [@rbxts/logsnag](https://www.npmjs.com/package/@rbxts/logsnag) - LogSnag SDK for roblox-ts
+- [@rbxts/loleris-replica](https://www.npmjs.com/package/@rbxts/loleris-replica) - Roblox server to client state replication solution which lets the developer subscribe certain players to certain states. Originally made by loleris
 - [@rbxts/loner1536-pebble](https://www.npmjs.com/package/@rbxts/loner1536-pebble) - This is a fork of .
 - [@rbxts/loners-pretty-react-hooks](https://www.npmjs.com/package/@rbxts/loners-pretty-react-hooks) - Useful hooks for @rbxts/react
 - [@rbxts/loners-pretty-vide-utils](https://www.npmjs.com/package/@rbxts/loners-pretty-vide-utils) - Useful utilities for @rbxts/vide
