@@ -375,7 +375,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/logger](https://www.npmjs.com/package/@rbxts/logger) - A lightweight and flexible logger utility for Roblox projects. Supports message templates for clean, readable log statements.
 - [@rbxts/logsnag](https://www.npmjs.com/package/@rbxts/logsnag) - LogSnag SDK for roblox-ts
 - [@rbxts/loleris-replica](https://www.npmjs.com/package/@rbxts/loleris-replica) - Roblox server to client state replication solution which lets the developer subscribe certain players to certain states. Originally made by loleris
-- [@rbxts/loner1536-pebble](https://www.npmjs.com/package/@rbxts/loner1536-pebble) - This is a fork of .
+- [@rbxts/loner1536-pebble](https://www.npmjs.com/package/@rbxts/loner1536-pebble)
 - [@rbxts/loners-pretty-react-hooks](https://www.npmjs.com/package/@rbxts/loners-pretty-react-hooks) - Useful hooks for @rbxts/react
 - [@rbxts/loners-pretty-vide-utils](https://www.npmjs.com/package/@rbxts/loners-pretty-vide-utils) - Useful utilities for @rbxts/vide
 - [@rbxts/longuint-ui](https://www.npmjs.com/package/@rbxts/longuint-ui) - A lightweight ui component library.
