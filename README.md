@@ -422,6 +422,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/midori](https://www.npmjs.com/package/@rbxts/midori) - A lightweight testing library for Roblox
 - [@rbxts/minheap](https://www.npmjs.com/package/@rbxts/minheap) - Simple and performant implementation of a min heap.
 - [@rbxts/minimax](https://www.npmjs.com/package/@rbxts/minimax) - A simple implementation of the Minimax Algorithm for turn-based two-player games, written with Roblox-TS.
+- [@rbxts/minstance](https://www.npmjs.com/package/@rbxts/minstance) - A very fast Instance serializer for Roblox that can serialize 40,000 Instances and compress it into a 100K+ character string in only 0.4s
 - [@rbxts/moceanlib](https://www.npmjs.com/package/@rbxts/moceanlib)
 - [@rbxts/mock-memory-store-service](https://www.npmjs.com/package/@rbxts/mock-memory-store-service) - A wrapper for memory store service to allow testing locally
 - [@rbxts/mockdatastore](https://www.npmjs.com/package/@rbxts/mockdatastore)
