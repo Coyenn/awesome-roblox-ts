@@ -825,6 +825,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/value-holders](https://www.npmjs.com/package/@rbxts/value-holders) - A module for passing any values around by sharing a pointer, as well as allowing consumers to subscribe to changes and allowing authors to hold locks on changing the value.
 - [@rbxts/variant](https://www.npmjs.com/package/@rbxts/variant) - Variant types in Roblox TypeScript
 - [@rbxts/vector](https://www.npmjs.com/package/@rbxts/vector) - A port of RobloxianDemo's Vector module.
+- [@rbxts/vfx-forge](https://www.npmjs.com/package/@rbxts/vfx-forge) - The official emit module from the VFX Forge plugin used to emit visual effects in-game.
 - [@rbxts/vfx-system](https://www.npmjs.com/package/@rbxts/vfx-system) - A system that utilizes shared classes to provide user abstraction for manipulating visual effects.
 - [@rbxts/vide](https://www.npmjs.com/package/@rbxts/vide) - A reactive Luau library for creating UI
 - [@rbxts/vide-charm](https://www.npmjs.com/package/@rbxts/vide-charm) - Vide bindings for Charm
