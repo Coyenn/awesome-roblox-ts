@@ -282,7 +282,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/gorp-ecr](https://www.npmjs.com/package/@rbxts/gorp-ecr) - gorp ecr layer
 - [@rbxts/graph](https://www.npmjs.com/package/@rbxts/graph) - boatbomber's Graph class with types!
 - [@rbxts/graph-data-structure](https://www.npmjs.com/package/@rbxts/graph-data-structure) - A graph data structure with topological sort.
-- [@rbxts/gravity-controller](https://www.npmjs.com/package/@rbxts/gravity-controller) - Typescript bindings for with ground normal finding by
+- [@rbxts/gravity-controller](https://www.npmjs.com/package/@rbxts/gravity-controller) - TypeScript bindings for with ground-normal-based wall walking by .
 - [@rbxts/greedycanvas](https://www.npmjs.com/package/@rbxts/greedycanvas) - A canvas renderer using greedy gradients to draw efficiently in Roblox
 - [@rbxts/greenwichdb](https://www.npmjs.com/package/@rbxts/greenwichdb) - Bindings from GreenwichDB to be compatible with roblox-ts
 - [@rbxts/grouper](https://www.npmjs.com/package/@rbxts/grouper) - A module for getting accurate group ranks for players on the server, and detecting rank changes.
@@ -730,6 +730,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/soundspace](https://www.npmjs.com/package/@rbxts/soundspace) - Lightweight utility library for Roblox's new sound API
 - [@rbxts/soundtrack](https://www.npmjs.com/package/@rbxts/soundtrack) - An Open-Source Soundtrack & SFX library for Roblox.
 - [@rbxts/spark](https://www.npmjs.com/package/@rbxts/spark) - This is a fork of https://github.com/nezuo/spark with typings. Originally from https://github.com/sporblord/spark.
+- [@rbxts/specium](https://www.npmjs.com/package/@rbxts/specium) - A simple and flexible testing framework for Roblox
 - [@rbxts/spr](https://www.npmjs.com/package/@rbxts/spr) - Springs are powerful approach for describing fluid, physically-based animation. spr is a high-performance and user-friendly motion library for Roblox based on springs.
 - [@rbxts/spring](https://www.npmjs.com/package/@rbxts/spring) - Simulates the motion of a critically damped spring
 - [@rbxts/spring-ts](https://www.npmjs.com/package/@rbxts/spring-ts)
