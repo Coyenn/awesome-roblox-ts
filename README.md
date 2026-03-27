@@ -175,6 +175,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/date](https://www.npmjs.com/package/@rbxts/date) - A re-implementation of vanilla Lua's os.date function.
 - [@rbxts/debris](https://www.npmjs.com/package/@rbxts/debris) - A port of RobloxianDemo's Debris module.
 - [@rbxts/debug-random](https://www.npmjs.com/package/@rbxts/debug-random) - A wrapper around Roblox's Random class that enables users to serialize and set the state of the Random object
+- [@rbxts/deep-charm](https://www.npmjs.com/package/@rbxts/deep-charm) - Use Charm with plain Luau tables
 - [@rbxts/deep-equal](https://www.npmjs.com/package/@rbxts/deep-equal) - Recursive comparator for ROBLOX projects.
 - [@rbxts/deepcopy](https://www.npmjs.com/package/@rbxts/deepcopy) - DeepCopy utility function.
 - [@rbxts/default](https://www.npmjs.com/package/@rbxts/default) - Generate boilerplate default values from just a type
