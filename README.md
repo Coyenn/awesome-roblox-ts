@@ -229,6 +229,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/fast-spawn](https://www.npmjs.com/package/@rbxts/fast-spawn) - Spawns a new thread without waiting one step
 - [@rbxts/fastcast](https://www.npmjs.com/package/@rbxts/fastcast) - Typescript types for EtiTheSpirit's FastCast
 - [@rbxts/fastcast-redux](https://www.npmjs.com/package/@rbxts/fastcast-redux) - Types for FastCast: Redux
+- [@rbxts/fdh-api](https://www.npmjs.com/package/@rbxts/fdh-api) - Screw Dynamic Heads. View or contribute to the . Read more .
 - [@rbxts/feces](https://www.npmjs.com/package/@rbxts/feces) - Fast Entity Component Export System
 - [@rbxts/fenwick-tree](https://www.npmjs.com/package/@rbxts/fenwick-tree) - A 1-based Fenwick Tree implementation.
 - [@rbxts/fetch](https://www.npmjs.com/package/@rbxts/fetch) - Fetch for Roblox-TS!
