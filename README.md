@@ -229,7 +229,6 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/fast-spawn](https://www.npmjs.com/package/@rbxts/fast-spawn) - Spawns a new thread without waiting one step
 - [@rbxts/fastcast](https://www.npmjs.com/package/@rbxts/fastcast) - Typescript types for EtiTheSpirit's FastCast
 - [@rbxts/fastcast-redux](https://www.npmjs.com/package/@rbxts/fastcast-redux) - Types for FastCast: Redux
-- [@rbxts/fdh-api](https://www.npmjs.com/package/@rbxts/fdh-api) - Screw Dynamic Heads. View or contribute to the . Read more .
 - [@rbxts/feces](https://www.npmjs.com/package/@rbxts/feces) - Fast Entity Component Export System
 - [@rbxts/fenwick-tree](https://www.npmjs.com/package/@rbxts/fenwick-tree) - A 1-based Fenwick Tree implementation.
 - [@rbxts/fetch](https://www.npmjs.com/package/@rbxts/fetch) - Fetch for Roblox-TS!
@@ -465,6 +464,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/object-pool-patched](https://www.npmjs.com/package/@rbxts/object-pool-patched) - <img src="https://img.shields.io/badge/Licen
 - [@rbxts/object-stack](https://www.npmjs.com/package/@rbxts/object-stack) - A Stack data structure which is formed by creating a singly linked-list on already existing objects.
 - [@rbxts/object-utils](https://www.npmjs.com/package/@rbxts/object-utils) - Polyfills for Object functions
+- [@rbxts/objectcache](https://www.npmjs.com/package/@rbxts/objectcache) - Unofficial roblox-ts port of ObjectCache (high-performance part cache using BulkMoveTo)
 - [@rbxts/objecthighlighter](https://www.npmjs.com/package/@rbxts/objecthighlighter) - This module allows you to make an object or model act as "Always on Top" (or X-Ray) and layer over the normal 3D game world.
 - [@rbxts/observer](https://www.npmjs.com/package/@rbxts/observer) - An implementation of observers in roblox-ts based on Android's LiveData
 - [@rbxts/observer-charm](https://www.npmjs.com/package/@rbxts/observer-charm)
@@ -829,6 +829,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/value-holders](https://www.npmjs.com/package/@rbxts/value-holders) - A module for passing any values around by sharing a pointer, as well as allowing consumers to subscribe to changes and allowing authors to hold locks on changing the value.
 - [@rbxts/variant](https://www.npmjs.com/package/@rbxts/variant) - Variant types in Roblox TypeScript
 - [@rbxts/vector](https://www.npmjs.com/package/@rbxts/vector) - A port of RobloxianDemo's Vector module.
+- [@rbxts/veteran](https://www.npmjs.com/package/@rbxts/veteran) - Screw Dynamic Heads. View or contribute to the . Read more .
 - [@rbxts/vfx-forge](https://www.npmjs.com/package/@rbxts/vfx-forge) - The official emit module from the VFX Forge plugin used to emit visual effects in-game.
 - [@rbxts/vfx-system](https://www.npmjs.com/package/@rbxts/vfx-system) - A system that utilizes shared classes to provide user abstraction for manipulating visual effects.
 - [@rbxts/vide](https://www.npmjs.com/package/@rbxts/vide) - A reactive Luau library for creating UI
