@@ -454,6 +454,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/networked-signals](https://www.npmjs.com/package/@rbxts/networked-signals) - A TypeScript wrapper for RemoteEvents that provides a type-safe interface for networked events in a Roblox game.
 - [@rbxts/next-roblox](https://www.npmjs.com/package/@rbxts/next-roblox) - A Next.js-inspired routing library for Roblox using @rbxts/react.
 - [@rbxts/nextcast](https://www.npmjs.com/package/@rbxts/nextcast) - A FastCast-like method for simulating projectile physics.
+- [@rbxts/nexus_ts](https://www.npmjs.com/package/@rbxts/nexus_ts)
 - [@rbxts/noobpath](https://www.npmjs.com/package/@rbxts/noobpath) - Pathfinding module script with Auto Timeout, Non-humanoid support and Waypoint adjustments - Now with TypeScript typings!
 - [@rbxts/number](https://www.npmjs.com/package/@rbxts/number) - Polyfills for Number.
 - [@rbxts/number-manipulator](https://www.npmjs.com/package/@rbxts/number-manipulator) - Number manipulator in roblox-ts
@@ -544,6 +545,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/quaternion](https://www.npmjs.com/package/@rbxts/quaternion) - A basic quaternion implementation for Roblox
 - [@rbxts/query](https://www.npmjs.com/package/@rbxts/query) - A JQuery-like system for roblox-ts.
 - [@rbxts/quicksave](https://www.npmjs.com/package/@rbxts/quicksave) - A port of evaera's quicksave package - a DataStore abstraction library
+- [@rbxts/quickzone](https://www.npmjs.com/package/@rbxts/quickzone) - A high-performance, physics-free spatial query library for Roblox. Maintain 60 FPS with 1M+ zones.
 - [@rbxts/quirk-ui](https://www.npmjs.com/package/@rbxts/quirk-ui) - A modern, component-based UI library for Roblox-TS with reusable components and utilities
 - [@rbxts/r15-ragdoll](https://www.npmjs.com/package/@rbxts/r15-ragdoll) - Port of https://devforum.roblox.com/t/r15-rthro-ragdolls/338580
 - [@rbxts/radialimage](https://www.npmjs.com/package/@rbxts/radialimage) - Types for RadialImage
