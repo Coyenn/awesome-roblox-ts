@@ -61,6 +61,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/bezier](https://www.npmjs.com/package/@rbxts/bezier) - Simple package to calculate points on bezier curves
 - [@rbxts/bezierpath](https://www.npmjs.com/package/@rbxts/bezierpath) - BezierPath is an easy to use bezier spline module, designed to be used for TD games and general paths while being optimized for large scale uses.
 - [@rbxts/bezierts](https://www.npmjs.com/package/@rbxts/bezierts) - This library helps you create smooth position animations with bezier curves in Roblox.
+- [@rbxts/big-ui](https://www.npmjs.com/package/@rbxts/big-ui) - Material-UI-inspired component library for Roblox-TS, built on Fusion 3.0. Ships 23 themeable primitives with a single configureTheme entrypoint for customization.
 - [@rbxts/bin](https://www.npmjs.com/package/@rbxts/bin) - Manages things to be cleaned up later
 - [@rbxts/bind](https://www.npmjs.com/package/@rbxts/bind) - Utilities for binding functions to RBXScriptSignals (or similar) with a simple decorator, similar to @rbxts/proton's @Lifecycle decorator.
 - [@rbxts/binder](https://www.npmjs.com/package/@rbxts/binder) - Typings for Quenty's Binder module
@@ -266,6 +267,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/fsm](https://www.npmjs.com/package/@rbxts/fsm) - Generic finite state machine implementation for roblox-ts.
 - [@rbxts/fusion](https://www.npmjs.com/package/@rbxts/fusion) - TypeScript support for Fusion
 - [@rbxts/fusion-0.3-temp](https://www.npmjs.com/package/@rbxts/fusion-0.3-temp) - Typescript Fusion 0.3
+- [@rbxts/fusion-3.0](https://www.npmjs.com/package/@rbxts/fusion-3.0) - A roblox-ts port of Fusion 3.0 — a modern reactive UI library for Roblox.
 - [@rbxts/fuzzy-search](https://www.npmjs.com/package/@rbxts/fuzzy-search) - Fuzzy search allows you to find the results even with the spelling mistaces or approximate search words
 - [@rbxts/gameanalytics](https://www.npmjs.com/package/@rbxts/gameanalytics) - The GameAnalytics SDK for roblox-ts
 - [@rbxts/gameanalytics-ab-service](https://www.npmjs.com/package/@rbxts/gameanalytics-ab-service) - A/B testing service for GameAnalytics in Roblox TypeScript
@@ -401,6 +403,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/lyra](https://www.npmjs.com/package/@rbxts/lyra) - A DataStoreService wrapper
 - [@rbxts/lzw](https://www.npmjs.com/package/@rbxts/lzw) - Typings for Lua LZW Compression. https://devforum.roblox.com/t/lua-lzw-compression/22028
 - [@rbxts/mad-replica](https://www.npmjs.com/package/@rbxts/mad-replica) - Replica typings.
+- [@rbxts/mad-studio-replica](https://www.npmjs.com/package/@rbxts/mad-studio-replica) - roblox-ts typings for MAD STUDIO Replica — state replication with life cycle handling and per-client subscription control.
 - [@rbxts/maid](https://www.npmjs.com/package/@rbxts/maid) - Quenty's Maid class with types!
 - [@rbxts/make](https://www.npmjs.com/package/@rbxts/make) - Shorthand for declaring Instances with properties.
 - [@rbxts/make-jsx](https://www.npmjs.com/package/@rbxts/make-jsx) - JSX version of Make
@@ -478,6 +481,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/octree](https://www.npmjs.com/package/@rbxts/octree) - A Typescript port of Nevermore's Octree module
 - [@rbxts/ohmyprvd](https://www.npmjs.com/package/@rbxts/ohmyprvd) - Oh My Prvd is a delightful framework for Roblox games.
 - [@rbxts/ohmyprvd-lifecycles](https://www.npmjs.com/package/@rbxts/ohmyprvd-lifecycles) - Implements a "small" amount of lifecycle events for providers.
+- [@rbxts/omeganet](https://www.npmjs.com/package/@rbxts/omeganet) - Reactive signals and networking for Roblox-TS (middleware, remotes, observables)
 - [@rbxts/open-skill](https://www.npmjs.com/package/@rbxts/open-skill) - A Typescript rapper for
 - [@rbxts/openskill](https://www.npmjs.com/package/@rbxts/openskill) - Typescript types for OpenSkill Roblox Lua library
 - [@rbxts/osgl](https://www.npmjs.com/package/@rbxts/osgl)
