@@ -61,6 +61,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/bezier](https://www.npmjs.com/package/@rbxts/bezier) - Simple package to calculate points on bezier curves
 - [@rbxts/bezierpath](https://www.npmjs.com/package/@rbxts/bezierpath) - BezierPath is an easy to use bezier spline module, designed to be used for TD games and general paths while being optimized for large scale uses.
 - [@rbxts/bezierts](https://www.npmjs.com/package/@rbxts/bezierts) - This library helps you create smooth position animations with bezier curves in Roblox.
+- [@rbxts/big-integer](https://www.npmjs.com/package/@rbxts/big-integer) - Typings for BigInteger
 - [@rbxts/big-ui](https://www.npmjs.com/package/@rbxts/big-ui) - Material-UI-inspired component library for Roblox-TS, built on Fusion 3.0. Ships 23 themeable primitives with a single configureTheme entrypoint for customization.
 - [@rbxts/bin](https://www.npmjs.com/package/@rbxts/bin) - Manages things to be cleaned up later
 - [@rbxts/bind](https://www.npmjs.com/package/@rbxts/bind) - Utilities for binding functions to RBXScriptSignals (or similar) with a simple decorator, similar to @rbxts/proton's @Lifecycle decorator.
@@ -437,6 +438,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/mockdatastoreservice](https://www.npmjs.com/package/@rbxts/mockdatastoreservice)
 - [@rbxts/module3d](https://www.npmjs.com/package/@rbxts/module3d) - A port of TheNexusAvenger's Module3D module.
 - [@rbxts/mollerbase](https://www.npmjs.com/package/@rbxts/mollerbase) - the world's stupidest function wrapper
+- [@rbxts/monetize](https://www.npmjs.com/package/@rbxts/monetize) - A library that makes monetization a little more easy & unified.
 - [@rbxts/moonlite](https://www.npmjs.com/package/@rbxts/moonlite) - Moonlite typings
 - [@rbxts/motion](https://www.npmjs.com/package/@rbxts/motion)
 - [@rbxts/motor](https://www.npmjs.com/package/@rbxts/motor)
