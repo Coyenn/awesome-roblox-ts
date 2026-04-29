@@ -61,7 +61,6 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/bezier](https://www.npmjs.com/package/@rbxts/bezier) - Simple package to calculate points on bezier curves
 - [@rbxts/bezierpath](https://www.npmjs.com/package/@rbxts/bezierpath) - BezierPath is an easy to use bezier spline module, designed to be used for TD games and general paths while being optimized for large scale uses.
 - [@rbxts/bezierts](https://www.npmjs.com/package/@rbxts/bezierts) - This library helps you create smooth position animations with bezier curves in Roblox.
-- [@rbxts/big-integer](https://www.npmjs.com/package/@rbxts/big-integer) - Typings for BigInteger
 - [@rbxts/big-ui](https://www.npmjs.com/package/@rbxts/big-ui) - Material-UI-inspired component library for Roblox-TS, built on Fusion 3.0. Ships 23 themeable primitives with a single configureTheme entrypoint for customization.
 - [@rbxts/bin](https://www.npmjs.com/package/@rbxts/bin) - Manages things to be cleaned up later
 - [@rbxts/bind](https://www.npmjs.com/package/@rbxts/bind) - Utilities for binding functions to RBXScriptSignals (or similar) with a simple decorator, similar to @rbxts/proton's @Lifecycle decorator.
@@ -166,6 +165,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/crunchwrap](https://www.npmjs.com/package/@rbxts/crunchwrap) - A powerful ffrostfall/crunchyroll wrapper
 - [@rbxts/crunchyroll](https://www.npmjs.com/package/@rbxts/crunchyroll) - A custom animation solver for Roblox.
 - [@rbxts/crypto](https://www.npmjs.com/package/@rbxts/crypto) - An Open-Source Cryptography library for Roblox.
+- [@rbxts/cryptography](https://www.npmjs.com/package/@rbxts/cryptography) - Typings for rbx-cryptography by daily3014
 - [@rbxts/cubic-bezier](https://www.npmjs.com/package/@rbxts/cubic-bezier) - A library for generating smooth two-dimensional interpolation curves
 - [@rbxts/cue](https://www.npmjs.com/package/@rbxts/cue) - The fastest and lightest Event object ever made
 - [@rbxts/cullthrottle](https://www.npmjs.com/package/@rbxts/cullthrottle) - Fork of https://github.com/boatbomber/CullThrottle for roblox-ts support
@@ -400,7 +400,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/luban](https://www.npmjs.com/package/@rbxts/luban) - -
 - [@rbxts/lucide](https://www.npmjs.com/package/@rbxts/lucide) - Lucide Icons for Roblox
 - [@rbxts/lumin-framework](https://www.npmjs.com/package/@rbxts/lumin-framework) - A feather light framework for Roblox-TS games
-- [@rbxts/lunit](https://www.npmjs.com/package/@rbxts/lunit)
+- [@rbxts/lunit](https://www.npmjs.com/package/@rbxts/lunit) - Decorator-driven testing framework for roblox-ts. Runs the same tests in Roblox Studio and under Lune.
 - [@rbxts/lyra](https://www.npmjs.com/package/@rbxts/lyra) - A DataStoreService wrapper
 - [@rbxts/lzw](https://www.npmjs.com/package/@rbxts/lzw) - Typings for Lua LZW Compression. https://devforum.roblox.com/t/lua-lzw-compression/22028
 - [@rbxts/mad-replica](https://www.npmjs.com/package/@rbxts/mad-replica) - Replica typings.
