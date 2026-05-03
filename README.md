@@ -744,6 +744,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/sound2](https://www.npmjs.com/package/@rbxts/sound2)
 - [@rbxts/soundspace](https://www.npmjs.com/package/@rbxts/soundspace) - Lightweight utility library for Roblox's new sound API
 - [@rbxts/soundtrack](https://www.npmjs.com/package/@rbxts/soundtrack) - An Open-Source Soundtrack & SFX library for Roblox.
+- [@rbxts/spaceship](https://www.npmjs.com/package/@rbxts/spaceship) - A painless & robust data store manager for Roblox with schema versioning.
 - [@rbxts/spark](https://www.npmjs.com/package/@rbxts/spark) - This is a fork of https://github.com/nezuo/spark with typings. Originally from https://github.com/sporblord/spark.
 - [@rbxts/specium](https://www.npmjs.com/package/@rbxts/specium) - A simple and flexible testing framework for Roblox
 - [@rbxts/spr](https://www.npmjs.com/package/@rbxts/spr) - Springs are powerful approach for describing fluid, physically-based animation. spr is a high-performance and user-friendly motion library for Roblox based on springs.
