@@ -448,6 +448,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/must](https://www.npmjs.com/package/@rbxts/must) - Just a simple function that errors out if the argument is nil / undefined.
 - [@rbxts/mutable-fast-replica](https://www.npmjs.com/package/@rbxts/mutable-fast-replica) - A (mutable) simple and intuitive package for sharing data from server to client.
 - [@rbxts/mutility-ts](https://www.npmjs.com/package/@rbxts/mutility-ts)
+- [@rbxts/my-package](https://www.npmjs.com/package/@rbxts/my-package) - My package description
 - [@rbxts/nanoai](https://www.npmjs.com/package/@rbxts/nanoai) - Minimal library for creating neural networks
 - [@rbxts/neomake](https://www.npmjs.com/package/@rbxts/neomake) - My personal alternative to .
 - [@rbxts/net](https://www.npmjs.com/package/@rbxts/net)
@@ -744,7 +745,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/sound2](https://www.npmjs.com/package/@rbxts/sound2)
 - [@rbxts/soundspace](https://www.npmjs.com/package/@rbxts/soundspace) - Lightweight utility library for Roblox's new sound API
 - [@rbxts/soundtrack](https://www.npmjs.com/package/@rbxts/soundtrack) - An Open-Source Soundtrack & SFX library for Roblox.
-- [@rbxts/spaceship](https://www.npmjs.com/package/@rbxts/spaceship) - A painless & robust data store manager for Roblox with schema versioning.
+- [@rbxts/spaceship](https://www.npmjs.com/package/@rbxts/spaceship) - A type-safe data store system for Roblox that simplifies loading, saving, and migrating data through structured, versioned collections.
 - [@rbxts/spark](https://www.npmjs.com/package/@rbxts/spark) - This is a fork of https://github.com/nezuo/spark with typings. Originally from https://github.com/sporblord/spark.
 - [@rbxts/specium](https://www.npmjs.com/package/@rbxts/specium) - A simple and flexible testing framework for Roblox
 - [@rbxts/spr](https://www.npmjs.com/package/@rbxts/spr) - Springs are powerful approach for describing fluid, physically-based animation. spr is a high-performance and user-friendly motion library for Roblox based on springs.
@@ -770,7 +771,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/studiocomponents-react](https://www.npmjs.com/package/@rbxts/studiocomponents-react) - A forked version of @rbxts/studiocomponents migrated over to @rbxts/react
 - [@rbxts/suphi-datastore](https://www.npmjs.com/package/@rbxts/suphi-datastore) - About typescript support for suphi's dataStore module
 - [@rbxts/surfaceguiwrapper](https://www.npmjs.com/package/@rbxts/surfaceguiwrapper) - roblox-ts bindings for TheNexusAvenger's SurfaceGuiWrapper module
-- [@rbxts/swan](https://www.npmjs.com/package/@rbxts/swan) - Simple state management library. Docs: https://pesde.dev/packages/wiam/swan/latest/any/docs/intro
+- [@rbxts/swan](https://www.npmjs.com/package/@rbxts/swan) - Simple state management library.
 - [@rbxts/sweet-charm](https://www.npmjs.com/package/@rbxts/sweet-charm) - Library for @rbxts/charm that allows to create atom classes and sync them using repositories
 - [@rbxts/swimming](https://www.npmjs.com/package/@rbxts/swimming)
 - [@rbxts/syn-utils](https://www.npmjs.com/package/@rbxts/syn-utils) - A utilities package that I use for personal development but is welcomed to be used, if you find yourself with any use cases :)
