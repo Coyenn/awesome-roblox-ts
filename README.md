@@ -9,6 +9,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/abbreviate](https://www.npmjs.com/package/@rbxts/abbreviate) - A lightweight number abbreviator
 - [@rbxts/abstractify](https://www.npmjs.com/package/@rbxts/abstractify) - Roblox networking similar to many event based systems found in TypeScript and JavaScript. Slightly based off of Electron and their implementation of IPC.
 - [@rbxts/acidsignal](https://www.npmjs.com/package/@rbxts/acidsignal) - A simple and lightweight signal implementation for Roblox
+- [@rbxts/action-journal](https://www.npmjs.com/package/@rbxts/action-journal) - Record & sync state changes and replay or roll them back
 - [@rbxts/aegis](https://www.npmjs.com/package/@rbxts/aegis) - Encrypted and authenticated networking library
 - [@rbxts/aether](https://www.npmjs.com/package/@rbxts/aether) - A Roblox library to position floating elements and make interactions for them.
 - [@rbxts/aether-react](https://www.npmjs.com/package/@rbxts/aether-react) - React bindings for Aether.
