@@ -68,6 +68,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/bind](https://www.npmjs.com/package/@rbxts/bind) - Utilities for binding functions to RBXScriptSignals (or similar) with a simple decorator, similar to @rbxts/proton's @Lifecycle decorator.
 - [@rbxts/binder](https://www.npmjs.com/package/@rbxts/binder) - Typings for Quenty's Binder module
 - [@rbxts/bint](https://www.npmjs.com/package/@rbxts/bint) - Arbitrary-precision signed integer library for Luau with operator support, multiple algorithms, and TypeScript typings.
+- [@rbxts/biome-plugin-roblox-ts](https://www.npmjs.com/package/@rbxts/biome-plugin-roblox-ts) - Biome GritQL rules for roblox-ts projects
 - [@rbxts/bitbuffer](https://www.npmjs.com/package/@rbxts/bitbuffer) - A binary stream module for packing binary data. roblox-ts typings for bitbuffer by Dekkonot.
 - [@rbxts/bitbuffer2](https://www.npmjs.com/package/@rbxts/bitbuffer2) - Typings for rstk's BitBuffer module
 - [@rbxts/bloxstrap-rpc-sdk](https://www.npmjs.com/package/@rbxts/bloxstrap-rpc-sdk) - Bloxstrap RPC SDK library
@@ -451,6 +452,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/mutility-ts](https://www.npmjs.com/package/@rbxts/mutility-ts)
 - [@rbxts/my-package](https://www.npmjs.com/package/@rbxts/my-package) - My package description
 - [@rbxts/nanoai](https://www.npmjs.com/package/@rbxts/nanoai) - Minimal library for creating neural networks
+- [@rbxts/navigate](https://www.npmjs.com/package/@rbxts/navigate) - Composable TypeScript-native pathfinding suite for roblox-ts. Wraps PathfindingService with multi-agent coordination, formations, and arrival behaviors.
 - [@rbxts/neomake](https://www.npmjs.com/package/@rbxts/neomake) - My personal alternative to .
 - [@rbxts/net](https://www.npmjs.com/package/@rbxts/net)
 - [@rbxts/net-eventemitter](https://www.npmjs.com/package/@rbxts/net-eventemitter) - @rbxts/eventemitter, but with 100% more RemoteEvents
@@ -686,6 +688,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/rotypeuibolt](https://www.npmjs.com/package/@rbxts/rotypeuibolt) - This is a next generation, super modern and highly declarative user interface library. It uses a revolutionary and concise IDL called TypeScript types which allows you to focus on designing your UI, not writing code.
 - [@rbxts/round-towards-zero](https://www.npmjs.com/package/@rbxts/round-towards-zero)
 - [@rbxts/router](https://www.npmjs.com/package/@rbxts/router) - A core library for creating REST APIs in Roblox
+- [@rbxts/rovo](https://www.npmjs.com/package/@rbxts/rovo) - A type-safe, declarative UI library for Roblox.
 - [@rbxts/rowind-mini](https://www.npmjs.com/package/@rbxts/rowind-mini) - This is a fork of RowindCSS, it was separated from the original repo as it uses a completely separate code structure and fundamentalism without interfering with yayashn's project.
 - [@rbxts/rowindcss](https://www.npmjs.com/package/@rbxts/rowindcss) - TailwindCSS classes for Roact & Roblox-ts.
 - [@rbxts/rparticle](https://www.npmjs.com/package/@rbxts/rparticle) - Super light weight and highly customizable 2D particle system for Roblox.
