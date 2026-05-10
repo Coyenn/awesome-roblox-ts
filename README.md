@@ -450,7 +450,6 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/must](https://www.npmjs.com/package/@rbxts/must) - Just a simple function that errors out if the argument is nil / undefined.
 - [@rbxts/mutable-fast-replica](https://www.npmjs.com/package/@rbxts/mutable-fast-replica) - A (mutable) simple and intuitive package for sharing data from server to client.
 - [@rbxts/mutility-ts](https://www.npmjs.com/package/@rbxts/mutility-ts)
-- [@rbxts/my-package](https://www.npmjs.com/package/@rbxts/my-package) - My package description
 - [@rbxts/nanoai](https://www.npmjs.com/package/@rbxts/nanoai) - Minimal library for creating neural networks
 - [@rbxts/navigate](https://www.npmjs.com/package/@rbxts/navigate) - Composable TypeScript-native pathfinding suite for roblox-ts. Wraps PathfindingService with multi-agent coordination, formations, and arrival behaviors.
 - [@rbxts/neomake](https://www.npmjs.com/package/@rbxts/neomake) - My personal alternative to .
