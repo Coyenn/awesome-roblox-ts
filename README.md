@@ -193,6 +193,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/destroyable](https://www.npmjs.com/package/@rbxts/destroyable) - A class with a janitor and a destroy() method
 - [@rbxts/destroyed-instance-logging](https://www.npmjs.com/package/@rbxts/destroyed-instance-logging) - Just a simple set of functions for making consistent destroyed instance logs.
 - [@rbxts/device](https://www.npmjs.com/package/@rbxts/device) - Platform/Device helper functions for Roblox
+- [@rbxts/diff](https://www.npmjs.com/package/@rbxts/diff) - Calculate diffs between objects and apply diffs to objects
 - [@rbxts/discord-webhook](https://www.npmjs.com/package/@rbxts/discord-webhook) - An easy way to send rich Discord webhooks
 - [@rbxts/dispatcher](https://www.npmjs.com/package/@rbxts/dispatcher) - A multi-purpose dispatcher for easy cross-boundary and internal communication
 - [@rbxts/distancepoller](https://www.npmjs.com/package/@rbxts/distancepoller) - A small utility for priority distance polling. This means that it polls an object's distance quicker/slower depending on how far away it was last time it checked
