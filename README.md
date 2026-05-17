@@ -727,6 +727,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/shared-components-flamework](https://www.npmjs.com/package/@rbxts/shared-components-flamework) - This package will allow you to create shared components that will synchronize between server and client. This package is reflex-based, so it is important to know how to work with it to understand how this package works.
 - [@rbxts/sheetvalues](https://www.npmjs.com/package/@rbxts/sheetvalues) - Use Google Sheets as a live value updater for Roblox games. roblox-ts typings for SheetValues by boatbomber
 - [@rbxts/shieldcore](https://www.npmjs.com/package/@rbxts/shieldcore) - Shieldcore is a Roblox framework for creating command-based systems.
+- [@rbxts/shime](https://www.npmjs.com/package/@rbxts/shime) - A port of Ryan Luu's Shime library
 - [@rbxts/sift](https://www.npmjs.com/package/@rbxts/sift) - Immutable data library for Luau
 - [@rbxts/sight](https://www.npmjs.com/package/@rbxts/sight)
 - [@rbxts/signal](https://www.npmjs.com/package/@rbxts/signal) - BindableEvent wrapper which passes values by reference
