@@ -317,6 +317,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/http-queue](https://www.npmjs.com/package/@rbxts/http-queue) - A small library to queue requests for your different external services
 - [@rbxts/humanoid-stat-manager](https://www.npmjs.com/package/@rbxts/humanoid-stat-manager)
 - [@rbxts/id](https://www.npmjs.com/package/@rbxts/id) - Utility classes for IDing objects
+- [@rbxts/immersive-portals](https://www.npmjs.com/package/@rbxts/immersive-portals) - TypeScript-native immersive portal rendering for roblox-ts. Perspective-correct ViewportFrame windows, paired portal teleportation, and skybox proxies.
 - [@rbxts/immut](https://www.npmjs.com/package/@rbxts/immut) - A draft-based immutable data library based on Immer
 - [@rbxts/infinitum](https://www.npmjs.com/package/@rbxts/infinitum) - A BigNum implementation
 - [@rbxts/input-actions](https://www.npmjs.com/package/@rbxts/input-actions) - A flexible input system for Roblox TypeScript inspired by Godot's input handling, providing action mapping, context switching, and advanced input utilities.
