@@ -234,6 +234,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/fade-ts](https://www.npmjs.com/package/@rbxts/fade-ts) - A light package that fades all descendants of a element at the same time smoothly, with just one function
 - [@rbxts/faker](https://www.npmjs.com/package/@rbxts/faker) - A library that mocks Roblox user data, inspired by faker-js.
 - [@rbxts/falldown](https://www.npmjs.com/package/@rbxts/falldown) - A realistic ragdoll physics system for Roblox with smooth getup animations, collision management, and customizable velocity modes. Supports both R6 and R15 rigs with surface-aware positioning.
+- [@rbxts/fast-cast](https://www.npmjs.com/package/@rbxts/fast-cast) - FastCastRedux (by Eti the Spirit) packaged for roblox-ts — hitscan-based guns with simulated projectile physics
 - [@rbxts/fast-replica](https://www.npmjs.com/package/@rbxts/fast-replica) - A simple and intuitive package for sharing data from server to client.
 - [@rbxts/fast-rotated-region3](https://www.npmjs.com/package/@rbxts/fast-rotated-region3) - Faster version of EgoMoose's RotatedRegion3 GJK module.
 - [@rbxts/fast-spawn](https://www.npmjs.com/package/@rbxts/fast-spawn) - Spawns a new thread without waiting one step
@@ -793,6 +794,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/teakzc-crunchyroll](https://www.npmjs.com/package/@rbxts/teakzc-crunchyroll) - just a fork of @rbxts/crunchyroll
 - [@rbxts/test-cloud-testez](https://www.npmjs.com/package/@rbxts/test-cloud-testez) - Lightweight testing tool for running TestEZ tests in Roblox Cloud and Studio environments with direct API calls, supporting both TypeScript and Lua projects
 - [@rbxts/test-packages](https://www.npmjs.com/package/@rbxts/test-packages)
+- [@rbxts/tester](https://www.npmjs.com/package/@rbxts/tester) - Minimal jest-like test framework for roblox-ts
 - [@rbxts/testez](https://www.npmjs.com/package/@rbxts/testez) - A fork of TestEZ with TypeScript typings
 - [@rbxts/tether](https://www.npmjs.com/package/@rbxts/tether) - A message-based networking solution for Roblox with automatic binary serialization and type validation
 - [@rbxts/tf](https://www.npmjs.com/package/@rbxts/tf) - Extended version of Studio Elttob's ty
