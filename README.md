@@ -107,9 +107,9 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/character-realism](https://www.npmjs.com/package/@rbxts/character-realism) - By: CloneTrooper1019 Ported to roblox-ts by: sasial-dev
 - [@rbxts/character-utils](https://www.npmjs.com/package/@rbxts/character-utils) - A set of helpful utils.
 - [@rbxts/character-viewport](https://www.npmjs.com/package/@rbxts/character-viewport) - Character viewport for roblox-ts
-- [@rbxts/charm](https://www.npmjs.com/package/@rbxts/charm) - An atomic state management library for Roblox
+- [@rbxts/charm](https://www.npmjs.com/package/@rbxts/charm) - Atomic state management based on alien-signals
 - [@rbxts/charm-payload-converter](https://www.npmjs.com/package/@rbxts/charm-payload-converter) - Converts @rbxts/charm's SyncPayload in such a way, that makes it serializeable for flamework-binary-serializer.
-- [@rbxts/charm-sync](https://www.npmjs.com/package/@rbxts/charm-sync) - Sync server state with clients using Charm
+- [@rbxts/charm-sync](https://www.npmjs.com/package/@rbxts/charm-sync) - Simple server-to-client sync for Charm
 - [@rbxts/charm-with-dispatchers](https://www.npmjs.com/package/@rbxts/charm-with-dispatchers) - An atomic state management library for Roblox
 - [@rbxts/charmed-components](https://www.npmjs.com/package/@rbxts/charmed-components) - Library that adds sweet-charm atoms power to flamework components
 - [@rbxts/chat-service](https://www.npmjs.com/package/@rbxts/chat-service) - Roblox chat service typings
@@ -596,7 +596,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/rbxts-sleitnick-log](https://www.npmjs.com/package/@rbxts/rbxts-sleitnick-log) - Types for Sleitnick's Log library
 - [@rbxts/rcov](https://www.npmjs.com/package/@rbxts/rcov) - Code coverage tool for roblox-ts
 - [@rbxts/react](https://www.npmjs.com/package/@rbxts/react) - React bindings for Roblox
-- [@rbxts/react-charm](https://www.npmjs.com/package/@rbxts/react-charm) - React bindings for Charm
+- [@rbxts/react-charm](https://www.npmjs.com/package/@rbxts/react-charm) - React bindings for Charm state management
 - [@rbxts/react-crate](https://www.npmjs.com/package/@rbxts/react-crate) - A hook library to integrate @rbxts/crate with react-lua.
 - [@rbxts/react-debug-tools-internal](https://www.npmjs.com/package/@rbxts/react-debug-tools-internal) - This is an experimental package for debugging React renderers.
 - [@rbxts/react-devtools](https://www.npmjs.com/package/@rbxts/react-devtools) - Connect to React DevTools by importing
@@ -856,7 +856,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/vfx-forge](https://www.npmjs.com/package/@rbxts/vfx-forge) - The official emit module from the VFX Forge plugin used to emit visual effects in-game.
 - [@rbxts/vfx-system](https://www.npmjs.com/package/@rbxts/vfx-system) - A system that utilizes shared classes to provide user abstraction for manipulating visual effects.
 - [@rbxts/vide](https://www.npmjs.com/package/@rbxts/vide) - A reactive Luau library for creating UI
-- [@rbxts/vide-charm](https://www.npmjs.com/package/@rbxts/vide-charm) - Vide bindings for Charm
+- [@rbxts/vide-charm](https://www.npmjs.com/package/@rbxts/vide-charm) - Vide bindings for Charm state management
 - [@rbxts/vide-ripple](https://www.npmjs.com/package/@rbxts/vide-ripple) - Vide bindings for Ripple spring animation
 - [@rbxts/viewport-model](https://www.npmjs.com/package/@rbxts/viewport-model) - Typings of Lua class to calculate camera distance/cframe for fitting models into viewport frames
 - [@rbxts/viewportcanvas](https://www.npmjs.com/package/@rbxts/viewportcanvas) - A greedy meshed canvas for arbitrary drawings on Roblox
