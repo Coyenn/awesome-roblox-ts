@@ -339,6 +339,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/jecs](https://www.npmjs.com/package/@rbxts/jecs) - Stupidly fast Entity Component System
 - [@rbxts/jecs-addons](https://www.npmjs.com/package/@rbxts/jecs-addons)
 - [@rbxts/jecs-assemblies](https://www.npmjs.com/package/@rbxts/jecs-assemblies) - Utility for calculating cframe offset chains for Jecs.
+- [@rbxts/jecs-braces](https://www.npmjs.com/package/@rbxts/jecs-braces)
 - [@rbxts/jecs-gizmo](https://www.npmjs.com/package/@rbxts/jecs-gizmo) - Utility for debug gizmos for Jecs.
 - [@rbxts/jecs-hooks](https://www.npmjs.com/package/@rbxts/jecs-hooks) - Hooks for Jecs ECS
 - [@rbxts/jecs-spring](https://www.npmjs.com/package/@rbxts/jecs-spring) - Utility for running springs in Jecs.
