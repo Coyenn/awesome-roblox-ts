@@ -300,6 +300,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/greedycanvas](https://www.npmjs.com/package/@rbxts/greedycanvas) - A canvas renderer using greedy gradients to draw efficiently in Roblox
 - [@rbxts/greenwichdb](https://www.npmjs.com/package/@rbxts/greenwichdb) - Bindings from GreenwichDB to be compatible with roblox-ts
 - [@rbxts/grouper](https://www.npmjs.com/package/@rbxts/grouper) - A module for getting accurate group ranks for players on the server, and detecting rank changes.
+- [@rbxts/hash](https://www.npmjs.com/package/@rbxts/hash) - A utility for generating hash codes for objects
 - [@rbxts/hashlib](https://www.npmjs.com/package/@rbxts/hashlib) - Roblox-TS port of HashLib by Egor Skriptunoff, boatbomber, and howmanysmall.
 - [@rbxts/heap](https://www.npmjs.com/package/@rbxts/heap) - A TypeScript/roblox-ts binary heap (priority queue) implementation with support for both min-heap and max-heap configurations.
 - [@rbxts/heatup](https://www.npmjs.com/package/@rbxts/heatup) - Why cool down when you can heat up? A Roblox Datastore wrapper that avoids the cooldown limit.
