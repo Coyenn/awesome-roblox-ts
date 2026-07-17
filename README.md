@@ -6,6 +6,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 
 
 - [@rbxts/3a](https://www.npmjs.com/package/@rbxts/3a) - An overhaul to Roblox user input
+- [@rbxts/a-plant-generator](https://www.npmjs.com/package/@rbxts/a-plant-generator) - Deterministic, renderer-independent procedural botany for roblox-ts.
 - [@rbxts/abbreviate](https://www.npmjs.com/package/@rbxts/abbreviate) - A lightweight number abbreviator
 - [@rbxts/abstractify](https://www.npmjs.com/package/@rbxts/abstractify) - Roblox networking similar to many event based systems found in TypeScript and JavaScript. Slightly based off of Electron and their implementation of IPC.
 - [@rbxts/acidsignal](https://www.npmjs.com/package/@rbxts/acidsignal) - A simple and lightweight signal implementation for Roblox
@@ -781,7 +782,6 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/studiocomponents-react](https://www.npmjs.com/package/@rbxts/studiocomponents-react) - A forked version of @rbxts/studiocomponents migrated over to @rbxts/react
 - [@rbxts/suphi-datastore](https://www.npmjs.com/package/@rbxts/suphi-datastore) - About typescript support for suphi's dataStore module
 - [@rbxts/surfaceguiwrapper](https://www.npmjs.com/package/@rbxts/surfaceguiwrapper) - roblox-ts bindings for TheNexusAvenger's SurfaceGuiWrapper module
-- [@rbxts/swan](https://www.npmjs.com/package/@rbxts/swan) - Simple state management library.
 - [@rbxts/sweet-charm](https://www.npmjs.com/package/@rbxts/sweet-charm) - Library for @rbxts/charm that allows to create atom classes and sync them using repositories
 - [@rbxts/swimming](https://www.npmjs.com/package/@rbxts/swimming)
 - [@rbxts/syn-utils](https://www.npmjs.com/package/@rbxts/syn-utils) - A utilities package that I use for personal development but is welcomed to be used, if you find yourself with any use cases :)
