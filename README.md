@@ -236,6 +236,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/faker](https://www.npmjs.com/package/@rbxts/faker) - A library that mocks Roblox user data, inspired by faker-js.
 - [@rbxts/falldown](https://www.npmjs.com/package/@rbxts/falldown) - A realistic ragdoll physics system for Roblox with smooth getup animations, collision management, and customizable velocity modes. Supports both R6 and R15 rigs with surface-aware positioning.
 - [@rbxts/fast-cast](https://www.npmjs.com/package/@rbxts/fast-cast) - FastCastRedux (by Eti the Spirit) packaged for roblox-ts — hitscan-based guns with simulated projectile physics
+- [@rbxts/fast-cast-2](https://www.npmjs.com/package/@rbxts/fast-cast-2) - Roblox TypeScript definitions for the FastCast2 Luau module.
 - [@rbxts/fast-replica](https://www.npmjs.com/package/@rbxts/fast-replica) - A simple and intuitive package for sharing data from server to client.
 - [@rbxts/fast-rotated-region3](https://www.npmjs.com/package/@rbxts/fast-rotated-region3) - Faster version of EgoMoose's RotatedRegion3 GJK module.
 - [@rbxts/fast-spawn](https://www.npmjs.com/package/@rbxts/fast-spawn) - Spawns a new thread without waiting one step
