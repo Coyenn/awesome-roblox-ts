@@ -268,7 +268,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/fletchette](https://www.npmjs.com/package/@rbxts/fletchette) - Simple networking library for roblox-ts.
 - [@rbxts/flipper](https://www.npmjs.com/package/@rbxts/flipper) - An animation library for Roblox
 - [@rbxts/flow](https://www.npmjs.com/package/@rbxts/flow) - Roblox-TS types for the Flow library (https://github.com/grilme99/Flow)
-- [@rbxts/forge](https://www.npmjs.com/package/@rbxts/forge) - An App Manager for Vide
+- [@rbxts/forge](https://www.npmjs.com/package/@rbxts/forge) - A window manager for Vide — rules for what may be open, when
 - [@rbxts/forge-vfx](https://www.npmjs.com/package/@rbxts/forge-vfx) - Typescript typings for
 - [@rbxts/format-number](https://www.npmjs.com/package/@rbxts/format-number) - This contains the typing for
 - [@rbxts/formati](https://www.npmjs.com/package/@rbxts/formati) - formati is a simple formatting library for creating valid Roblox strings, getting rid of the need to memorize RichText tags.
