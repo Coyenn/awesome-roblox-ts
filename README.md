@@ -601,6 +601,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/rcov](https://www.npmjs.com/package/@rbxts/rcov) - Code coverage tool for roblox-ts
 - [@rbxts/react](https://www.npmjs.com/package/@rbxts/react) - React bindings for Roblox
 - [@rbxts/react-charm](https://www.npmjs.com/package/@rbxts/react-charm) - React bindings for Charm state management
+- [@rbxts/react-clean-ui](https://www.npmjs.com/package/@rbxts/react-clean-ui)
 - [@rbxts/react-crate](https://www.npmjs.com/package/@rbxts/react-crate) - A hook library to integrate @rbxts/crate with react-lua.
 - [@rbxts/react-debug-tools-internal](https://www.npmjs.com/package/@rbxts/react-debug-tools-internal) - This is an experimental package for debugging React renderers.
 - [@rbxts/react-devtools](https://www.npmjs.com/package/@rbxts/react-devtools) - Connect to React DevTools by importing
@@ -611,6 +612,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/react-lifetime-component](https://www.npmjs.com/package/@rbxts/react-lifetime-component) - A React util that allows you to delay the component's unmounting to your liking.
 - [@rbxts/react-motion](https://www.npmjs.com/package/@rbxts/react-motion) - Motion for React
 - [@rbxts/react-particle-emitter](https://www.npmjs.com/package/@rbxts/react-particle-emitter) - @rbxts/react-particle-emitter is available on and can be installed with the following commands:
+- [@rbxts/react-pie-chart](https://www.npmjs.com/package/@rbxts/react-pie-chart) - Quadrant-based pie chart component for @rbxts/react.
 - [@rbxts/react-query](https://www.npmjs.com/package/@rbxts/react-query) - Exremely simple implementation for @tanstack/react-query for roblox-ts.
 - [@rbxts/react-reconciler-internal](https://www.npmjs.com/package/@rbxts/react-reconciler-internal) - NOTE: This README is copied directly from React upstream.
 - [@rbxts/react-redux](https://www.npmjs.com/package/@rbxts/react-redux) - roblox-ts typings for react-redux
