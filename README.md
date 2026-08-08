@@ -18,6 +18,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/airfoil](https://www.npmjs.com/package/@rbxts/airfoil) - Widgeon's modified Sleitnick airfoil module, ported to roblox-ts
 - [@rbxts/allocator](https://www.npmjs.com/package/@rbxts/allocator) - Roblox-TS object pooling system with configurable allocation strategies for efficient object management.
 - [@rbxts/altmake](https://www.npmjs.com/package/@rbxts/altmake) - Alternative to @rbxts/make to increase Typescript speed.
+- [@rbxts/alyanum](https://www.npmjs.com/package/@rbxts/alyanum) - Alisa Mikhailovna "Alya" Kujou's go-to big number library for small and large-scale incremental games!
 - [@rbxts/amulet](https://www.npmjs.com/package/@rbxts/amulet) - Atomic state management for Roblox
 - [@rbxts/anatta](https://www.npmjs.com/package/@rbxts/anatta)
 - [@rbxts/animation](https://www.npmjs.com/package/@rbxts/animation) - @rbxts/animation is inspired by Flameworks networking package and streamlines the process of creating, and loading
