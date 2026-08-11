@@ -859,6 +859,9 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/value-holders](https://www.npmjs.com/package/@rbxts/value-holders) - A module for passing any values around by sharing a pointer, as well as allowing consumers to subscribe to changes and allowing authors to hold locks on changing the value.
 - [@rbxts/variant](https://www.npmjs.com/package/@rbxts/variant) - Variant types in Roblox TypeScript
 - [@rbxts/vector](https://www.npmjs.com/package/@rbxts/vector) - A port of RobloxianDemo's Vector module.
+- [@rbxts/vela-runtime](https://www.npmjs.com/package/@rbxts/vela-runtime) - The runtime class resolver behind vela-rbxts. Installed as a dependency of vela-rbxts; transformed modules import it rather than carrying a copy.
+- [@rbxts/vela-runtime-core](https://www.npmjs.com/package/@rbxts/vela-runtime-core) - The framework-neutral half of the vela-rbxts runtime: class resolution, theme normalization, rem math and value parsing. Installed as a dependency of the host runtime a project's UI library needs.
+- [@rbxts/vela-runtime-vide](https://www.npmjs.com/package/@rbxts/vela-runtime-vide) - The Vide host runtime behind vela-rbxts. Transformed modules import it when the project targets Vide; it builds on @rbxts/vela-runtime-core.
 - [@rbxts/veteran](https://www.npmjs.com/package/@rbxts/veteran) - Screw Dynamic Heads. View or contribute to the . Read more .
 - [@rbxts/vfx-forge](https://www.npmjs.com/package/@rbxts/vfx-forge) - The official emit module from the VFX Forge plugin used to emit visual effects in-game.
 - [@rbxts/vfx-system](https://www.npmjs.com/package/@rbxts/vfx-system) - A system that utilizes shared classes to provide user abstraction for manipulating visual effects.
