@@ -623,6 +623,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/react-roblox-studio-plugin](https://www.npmjs.com/package/@rbxts/react-roblox-studio-plugin) - Typings for
 - [@rbxts/react-router](https://www.npmjs.com/package/@rbxts/react-router) - React Router implementation for Roblox TypeScript
 - [@rbxts/react-rx](https://www.npmjs.com/package/@rbxts/react-rx) - React bindings for RxJS. (Ported to Roblox-TS)
+- [@rbxts/react-screenshot-plugin](https://www.npmjs.com/package/@rbxts/react-screenshot-plugin) - Capture roblox-ts React components as PNGs through Roblox Studio
 - [@rbxts/react-spring](https://www.npmjs.com/package/@rbxts/react-spring) - A modern spring-physics based animation library for React Luau inspired by react-spring
 - [@rbxts/react-tooltip](https://www.npmjs.com/package/@rbxts/react-tooltip) - A tooltip library for Roblox UIs using React
 - [@rbxts/react-tooltips](https://www.npmjs.com/package/@rbxts/react-tooltips) - React tooltips
