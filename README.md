@@ -70,7 +70,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/bind](https://www.npmjs.com/package/@rbxts/bind) - Utilities for binding functions to RBXScriptSignals (or similar) with a simple decorator, similar to @rbxts/proton's @Lifecycle decorator.
 - [@rbxts/binder](https://www.npmjs.com/package/@rbxts/binder) - Typings for Quenty's Binder module
 - [@rbxts/bint](https://www.npmjs.com/package/@rbxts/bint) - Arbitrary-precision signed integer library for Luau with operator support, multiple algorithms, and TypeScript typings.
-- [@rbxts/biome-plugin-roblox-ts](https://www.npmjs.com/package/@rbxts/biome-plugin-roblox-ts) - Biome GritQL rules for roblox-ts projects
+- [@rbxts/biome-plugin-roblox-ts](https://www.npmjs.com/package/@rbxts/biome-plugin-roblox-ts) - Biome GritQL port of eslint-plugin-roblox-ts
 - [@rbxts/bitbuffer](https://www.npmjs.com/package/@rbxts/bitbuffer) - A binary stream module for packing binary data. roblox-ts typings for bitbuffer by Dekkonot.
 - [@rbxts/bitbuffer2](https://www.npmjs.com/package/@rbxts/bitbuffer2) - Typings for rstk's BitBuffer module
 - [@rbxts/bloxstrap-rpc-sdk](https://www.npmjs.com/package/@rbxts/bloxstrap-rpc-sdk) - Bloxstrap RPC SDK library
