@@ -411,6 +411,8 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/luau-thread-fixed](https://www.npmjs.com/package/@rbxts/luau-thread-fixed) - Fork of for Roblox-ts
 - [@rbxts/luban](https://www.npmjs.com/package/@rbxts/luban) - -
 - [@rbxts/lucide](https://www.npmjs.com/package/@rbxts/lucide) - Lucide Icons for Roblox
+- [@rbxts/lucide-react](https://www.npmjs.com/package/@rbxts/lucide-react) - Lucide icons for roblox-ts React, precompiled through @rbxts/svg
+- [@rbxts/lucide-vide](https://www.npmjs.com/package/@rbxts/lucide-vide) - Lucide icons for roblox-ts Vide, precompiled through @rbxts/svg
 - [@rbxts/lumin-framework](https://www.npmjs.com/package/@rbxts/lumin-framework) - A feather light framework for Roblox-TS games
 - [@rbxts/lunit](https://www.npmjs.com/package/@rbxts/lunit) - Decorator-driven testing framework for roblox-ts. Runs the same tests in Roblox Studio and under Lune.
 - [@rbxts/lyra](https://www.npmjs.com/package/@rbxts/lyra) - A DataStoreService wrapper
@@ -788,6 +790,18 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/studiocomponents-react](https://www.npmjs.com/package/@rbxts/studiocomponents-react) - A forked version of @rbxts/studiocomponents migrated over to @rbxts/react
 - [@rbxts/suphi-datastore](https://www.npmjs.com/package/@rbxts/suphi-datastore) - About typescript support for suphi's dataStore module
 - [@rbxts/surfaceguiwrapper](https://www.npmjs.com/package/@rbxts/surfaceguiwrapper) - roblox-ts bindings for TheNexusAvenger's SurfaceGuiWrapper module
+- [@rbxts/svg](https://www.npmjs.com/package/@rbxts/svg) - Framework-neutral compiled SVG assets for roblox-ts
+- [@rbxts/svg-compiler](https://www.npmjs.com/package/@rbxts/svg-compiler) - Build-time SVG compiler for @rbxts/svg. Wraps the native binary behind a stable TypeScript API.
+- [@rbxts/svg-native](https://www.npmjs.com/package/@rbxts/svg-native) - Prebuilt native compiler binary for @rbxts/svg. Not intended for direct use — see @rbxts/svg-compiler.
+- [@rbxts/svg-native-darwin-arm64](https://www.npmjs.com/package/@rbxts/svg-native-darwin-arm64) - Prebuilt native compiler binary for @rbxts/svg. Not intended for direct use — see @rbxts/svg-compiler.
+- [@rbxts/svg-native-darwin-x64](https://www.npmjs.com/package/@rbxts/svg-native-darwin-x64) - Prebuilt native compiler binary for @rbxts/svg. Not intended for direct use — see @rbxts/svg-compiler.
+- [@rbxts/svg-native-linux-arm64-gnu](https://www.npmjs.com/package/@rbxts/svg-native-linux-arm64-gnu) - Prebuilt native compiler binary for @rbxts/svg. Not intended for direct use — see @rbxts/svg-compiler.
+- [@rbxts/svg-native-linux-x64-gnu](https://www.npmjs.com/package/@rbxts/svg-native-linux-x64-gnu) - Prebuilt native compiler binary for @rbxts/svg. Not intended for direct use — see @rbxts/svg-compiler.
+- [@rbxts/svg-native-win32-arm64-msvc](https://www.npmjs.com/package/@rbxts/svg-native-win32-arm64-msvc) - Prebuilt native compiler binary for @rbxts/svg. Not intended for direct use — see @rbxts/svg-compiler.
+- [@rbxts/svg-native-win32-x64-msvc](https://www.npmjs.com/package/@rbxts/svg-native-win32-x64-msvc) - Prebuilt native compiler binary for @rbxts/svg. Not intended for direct use — see @rbxts/svg-compiler.
+- [@rbxts/svg-react](https://www.npmjs.com/package/@rbxts/svg-react) - React bindings for @rbxts/svg
+- [@rbxts/svg-transformer](https://www.npmjs.com/package/@rbxts/svg-transformer) - roblox-ts transformer that rewrites ./icon.svg imports onto their generated modules.
+- [@rbxts/svg-vide](https://www.npmjs.com/package/@rbxts/svg-vide) - Vide bindings for @rbxts/svg
 - [@rbxts/sweet-charm](https://www.npmjs.com/package/@rbxts/sweet-charm) - Library for @rbxts/charm that allows to create atom classes and sync them using repositories
 - [@rbxts/swimming](https://www.npmjs.com/package/@rbxts/swimming)
 - [@rbxts/syn-utils](https://www.npmjs.com/package/@rbxts/syn-utils) - A utilities package that I use for personal development but is welcomed to be used, if you find yourself with any use cases :)
