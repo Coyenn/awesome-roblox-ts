@@ -285,7 +285,6 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/gamejoy](https://www.npmjs.com/package/@rbxts/gamejoy) - A simple class-based input library
 - [@rbxts/gameutil](https://www.npmjs.com/package/@rbxts/gameutil) - Various utility modules for Roblox TS.
 - [@rbxts/geom](https://www.npmjs.com/package/@rbxts/geom)
-- [@rbxts/ghostevents](https://www.npmjs.com/package/@rbxts/ghostevents) - Prevent hackers from calling events
 - [@rbxts/gizmo](https://www.npmjs.com/package/@rbxts/gizmo) - gizmo is a visual debug library designed for the Roblox game engine.
 - [@rbxts/gizmos](https://www.npmjs.com/package/@rbxts/gizmos) - TypeScript port of sg3cko's Gizmos library - Debug drawing utilities for Roblox including shapes, raycasts, paths, and world-space text.
 - [@rbxts/glassmorphicui](https://www.npmjs.com/package/@rbxts/glassmorphicui) - Glassmorphic UI in Roblox.
