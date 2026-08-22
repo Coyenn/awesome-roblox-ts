@@ -173,7 +173,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/cryptography](https://www.npmjs.com/package/@rbxts/cryptography) - Typings for rbx-cryptography by daily3014
 - [@rbxts/cubic-bezier](https://www.npmjs.com/package/@rbxts/cubic-bezier) - A library for generating smooth two-dimensional interpolation curves
 - [@rbxts/cue](https://www.npmjs.com/package/@rbxts/cue) - The fastest and lightest Event object ever made
-- [@rbxts/cullthrottle](https://www.npmjs.com/package/@rbxts/cullthrottle) - Fork of https://github.com/boatbomber/CullThrottle for roblox-ts support
+- [@rbxts/cullthrottle](https://www.npmjs.com/package/@rbxts/cullthrottle) - roblox-ts typings for boatbomber/CullThrottle. Manage effects for tens of thousands of objects, performantly.
 - [@rbxts/cw-terminal](https://www.npmjs.com/package/@rbxts/cw-terminal) - Create competitive game modes with ease!
 - [@rbxts/data-pooler](https://www.npmjs.com/package/@rbxts/data-pooler) - Synchronise eventually-consistent collections of data between multiple servers
 - [@rbxts/data-structures](https://www.npmjs.com/package/@rbxts/data-structures) - A collection of data structures and algorithms for use in Roblox.
