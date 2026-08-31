@@ -603,7 +603,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/rcov](https://www.npmjs.com/package/@rbxts/rcov) - Code coverage tool for roblox-ts
 - [@rbxts/react](https://www.npmjs.com/package/@rbxts/react) - React bindings for Roblox
 - [@rbxts/react-charm](https://www.npmjs.com/package/@rbxts/react-charm) - React bindings for Charm state management
-- [@rbxts/react-clean-ui](https://www.npmjs.com/package/@rbxts/react-clean-ui)
+- [@rbxts/react-clean-ui](https://www.npmjs.com/package/@rbxts/react-clean-ui) - A clean UI library for Roblox TypeScript projects
 - [@rbxts/react-crate](https://www.npmjs.com/package/@rbxts/react-crate) - A hook library to integrate @rbxts/crate with react-lua.
 - [@rbxts/react-debug-tools-internal](https://www.npmjs.com/package/@rbxts/react-debug-tools-internal) - This is an experimental package for debugging React renderers.
 - [@rbxts/react-devtools](https://www.npmjs.com/package/@rbxts/react-devtools) - Connect to React DevTools by importing
