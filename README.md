@@ -177,6 +177,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/cw-terminal](https://www.npmjs.com/package/@rbxts/cw-terminal) - Create competitive game modes with ease!
 - [@rbxts/data-pooler](https://www.npmjs.com/package/@rbxts/data-pooler) - Synchronise eventually-consistent collections of data between multiple servers
 - [@rbxts/data-structures](https://www.npmjs.com/package/@rbxts/data-structures) - A collection of data structures and algorithms for use in Roblox.
+- [@rbxts/dataforge](https://www.npmjs.com/package/@rbxts/dataforge) - Roblox DataStore library with cross-key transactions, session-locked and lockless profiles, migrations and an immutable data model.
 - [@rbxts/datastore-promises](https://www.npmjs.com/package/@rbxts/datastore-promises) - Promisifed DataStore API
 - [@rbxts/datastore2](https://www.npmjs.com/package/@rbxts/datastore2) - a roblox-ts package of Kampfkarren's Datastore2
 - [@rbxts/datastructures](https://www.npmjs.com/package/@rbxts/datastructures) - Typings for HowManySmall's datastructures
