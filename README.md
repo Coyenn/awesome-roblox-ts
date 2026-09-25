@@ -724,6 +724,12 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/scheduler-internal](https://www.npmjs.com/package/@rbxts/scheduler-internal) - This is a package for cooperative scheduling in a Lua environment. It is currently used internally by React, but we plan to make it more generic.
 - [@rbxts/schema](https://www.npmjs.com/package/@rbxts/schema) - A powerful tree reconciler with support for user-defined checks and instantiate callbacks.
 - [@rbxts/screen3d](https://www.npmjs.com/package/@rbxts/screen3d) - 3D UI that just works. Now with TypeScript types!
+- [@rbxts/scribe](https://www.npmjs.com/package/@rbxts/scribe) - Persistent, schema-typed, automatically replicated Roblox data.
+- [@rbxts/scribe-fusion](https://www.npmjs.com/package/@rbxts/scribe-fusion) - Optional fusion addon for Scribe
+- [@rbxts/scribe-leaderstats](https://www.npmjs.com/package/@rbxts/scribe-leaderstats) - Optional leaderstats addon for Scribe
+- [@rbxts/scribe-react](https://www.npmjs.com/package/@rbxts/scribe-react) - Optional react addon for Scribe
+- [@rbxts/scribe-telemetry](https://www.npmjs.com/package/@rbxts/scribe-telemetry) - Optional telemetry addon for Scribe
+- [@rbxts/scribe-vide](https://www.npmjs.com/package/@rbxts/scribe-vide) - Optional vide addon for Scribe
 - [@rbxts/secure-cast](https://www.npmjs.com/package/@rbxts/secure-cast) - A server-authoritative projectile system for ROBLOX.
 - [@rbxts/securehitbox](https://www.npmjs.com/package/@rbxts/securehitbox)
 - [@rbxts/semver](https://www.npmjs.com/package/@rbxts/semver) - Implementation of in roblox-ts.
