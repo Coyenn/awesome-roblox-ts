@@ -328,7 +328,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/immersive-portals](https://www.npmjs.com/package/@rbxts/immersive-portals) - TypeScript-native immersive portal rendering for roblox-ts. Perspective-correct ViewportFrame windows, paired portal teleportation, and skybox proxies.
 - [@rbxts/immut](https://www.npmjs.com/package/@rbxts/immut) - A draft-based immutable data library based on Immer
 - [@rbxts/infinitum](https://www.npmjs.com/package/@rbxts/infinitum) - A BigNum implementation
-- [@rbxts/input-actions](https://www.npmjs.com/package/@rbxts/input-actions) - A flexible input system for Roblox TypeScript inspired by Godot's input handling, providing action mapping, context switching, and advanced input utilities.
+- [@rbxts/input-actions](https://www.npmjs.com/package/@rbxts/input-actions) - A typed wrapper over Roblox's Input Action System for roblox-ts: schema-defined contexts, actions and bindings, rebinding with JSON saves, Server Authority, and mouse and raw-input utilities.
 - [@rbxts/input-capturer](https://www.npmjs.com/package/@rbxts/input-capturer) - A Roblox module to capture inputs and replay them later
 - [@rbxts/input-categorizer](https://www.npmjs.com/package/@rbxts/input-categorizer) - Observe the preferred input category of the player.
 - [@rbxts/insitux](https://www.npmjs.com/package/@rbxts/insitux) - Extensible s-expression scripting language enabling players to safely mod Roblox games themselves.
