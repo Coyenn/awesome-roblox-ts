@@ -904,6 +904,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/wave](https://www.npmjs.com/package/@rbxts/wave) - A sine/cosine wave implementation for Roblox
 - [@rbxts/waypoint](https://www.npmjs.com/package/@rbxts/waypoint)
 - [@rbxts/wcs](https://www.npmjs.com/package/@rbxts/wcs) - WCS is an extensible framework that allows you create fully customizable combat systems easily by providing useful abstraction
+- [@rbxts/weather](https://www.npmjs.com/package/@rbxts/weather) - Rain, snow, fog and storms for roblox-ts: one call to change the weather, zones for local weather, shelter under roofs
 - [@rbxts/weave](https://www.npmjs.com/package/@rbxts/weave) - TypeScript support for Weave
 - [@rbxts/weighted-random-picker](https://www.npmjs.com/package/@rbxts/weighted-random-picker) - Generates functions which pick a random element of an array based upon their assigned relative probabilities.
 - [@rbxts/whatwg-abort-controller](https://www.npmjs.com/package/@rbxts/whatwg-abort-controller) - An implementation of WHATWG AbortController interface. (Ported to Roblox-TS)
