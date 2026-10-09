@@ -799,6 +799,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/studiocomponents-react](https://www.npmjs.com/package/@rbxts/studiocomponents-react) - A forked version of @rbxts/studiocomponents migrated over to @rbxts/react
 - [@rbxts/suphi-datastore](https://www.npmjs.com/package/@rbxts/suphi-datastore) - About typescript support for suphi's dataStore module
 - [@rbxts/surfaceguiwrapper](https://www.npmjs.com/package/@rbxts/surfaceguiwrapper) - roblox-ts bindings for TheNexusAvenger's SurfaceGuiWrapper module
+- [@rbxts/surge](https://www.npmjs.com/package/@rbxts/surge) - Temporary package placeholder for staged publishing
 - [@rbxts/svg](https://www.npmjs.com/package/@rbxts/svg) - Framework-neutral compiled SVG assets for roblox-ts
 - [@rbxts/svg-compiler](https://www.npmjs.com/package/@rbxts/svg-compiler) - Build-time SVG compiler for @rbxts/svg. Wraps the native binary behind a stable TypeScript API.
 - [@rbxts/svg-native](https://www.npmjs.com/package/@rbxts/svg-native) - Prebuilt native compiler binary for @rbxts/svg. Not intended for direct use — see @rbxts/svg-compiler.
