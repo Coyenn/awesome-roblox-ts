@@ -361,6 +361,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/jest-matcher-utils](https://www.npmjs.com/package/@rbxts/jest-matcher-utils) - JestMatcherUtils bindings for Roblox
 - [@rbxts/jest-utils](https://www.npmjs.com/package/@rbxts/jest-utils) - A collection of utilities that can be used alongside roblox Jest
 - [@rbxts/jest-vendor](https://www.npmjs.com/package/@rbxts/jest-vendor) - Internal module for @rbxts/jest
+- [@rbxts/jev](https://www.npmjs.com/package/@rbxts/jev) - Typed, functional TypeSafe Jev client for Roblox. Ask many questions about one state, get typed decisions back.
 - [@rbxts/jsnatives](https://www.npmjs.com/package/@rbxts/jsnatives) - A TypeScript library for Roblox that provides JavaScript-like native functionality, including Proxy, Object utilities, setTimeout/setInterval, JSON, and more.
 - [@rbxts/jwt](https://www.npmjs.com/package/@rbxts/jwt) - JWT lib for Luau
 - [@rbxts/keyed](https://www.npmjs.com/package/@rbxts/keyed) - Replica of Minecraft Bukkit's cool namespace system
