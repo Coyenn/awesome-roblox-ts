@@ -287,6 +287,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/gameanalytics-sdk](https://www.npmjs.com/package/@rbxts/gameanalytics-sdk) - GameAnalytics SDK for Roblox-TS
 - [@rbxts/gamejoy](https://www.npmjs.com/package/@rbxts/gamejoy) - A simple class-based input library
 - [@rbxts/gameutil](https://www.npmjs.com/package/@rbxts/gameutil) - Various utility modules for Roblox TS.
+- [@rbxts/geode](https://www.npmjs.com/package/@rbxts/geode) - Layered data framework for Roblox: DataStore, MemoryStore and MessagingService behind one API
 - [@rbxts/geom](https://www.npmjs.com/package/@rbxts/geom)
 - [@rbxts/gizmo](https://www.npmjs.com/package/@rbxts/gizmo) - gizmo is a visual debug library designed for the Roblox game engine.
 - [@rbxts/gizmos](https://www.npmjs.com/package/@rbxts/gizmos) - TypeScript port of sg3cko's Gizmos library - Debug drawing utilities for Roblox including shapes, raycasts, paths, and world-space text.
