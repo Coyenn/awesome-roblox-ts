@@ -396,7 +396,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/linked-lists](https://www.npmjs.com/package/@rbxts/linked-lists) - A module that provides basic linked list data structures.
 - [@rbxts/llama](https://www.npmjs.com/package/@rbxts/llama) - Lua Library for Immutable Data (Llama) by freddylist
 - [@rbxts/loader](https://www.npmjs.com/package/@rbxts/loader) - A simple module loader for Roblox-TS.
-- [@rbxts/localize](https://www.npmjs.com/package/@rbxts/localize) - Roblox localization framework.
+- [@rbxts/localize](https://www.npmjs.com/package/@rbxts/localize) - Internationalization (i18n) and localization with automatic pluralization for Luau and TS. An i18next-style translation library for Roblox games.
 - [@rbxts/log](https://www.npmjs.com/package/@rbxts/log) - Structured logging library for Roblox
 - [@rbxts/logger](https://www.npmjs.com/package/@rbxts/logger) - A lightweight and flexible logger utility for Roblox projects. Supports message templates for clean, readable log statements.
 - [@rbxts/logsnag](https://www.npmjs.com/package/@rbxts/logsnag) - LogSnag SDK for roblox-ts
