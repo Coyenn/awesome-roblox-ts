@@ -104,6 +104,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/centurion-commands](https://www.npmjs.com/package/@rbxts/centurion-commands) - Centurion-Commands is a Roblox-TS Library built for Centurion to easily create Commands and focus on what matters.
 - [@rbxts/centurion-ui](https://www.npmjs.com/package/@rbxts/centurion-ui) - Terminal UI for the Centurion command framework
 - [@rbxts/chain](https://www.npmjs.com/package/@rbxts/chain) - Generic chain of command / middleware thingy implementation for roblox-ts.
+- [@rbxts/chance](https://www.npmjs.com/package/@rbxts/chance) - Library for reactive instance programming with Charm
 - [@rbxts/character](https://www.npmjs.com/package/@rbxts/character)
 - [@rbxts/character-promise](https://www.npmjs.com/package/@rbxts/character-promise) - Based on @rbxts/promise-character, with a different API. Also uses @rbxts/validate-tree as a cached dependency.
 - [@rbxts/character-realism](https://www.npmjs.com/package/@rbxts/character-realism) - By: CloneTrooper1019 Ported to roblox-ts by: sasial-dev
@@ -117,6 +118,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/chat-service](https://www.npmjs.com/package/@rbxts/chat-service) - Roblox chat service typings
 - [@rbxts/chatty](https://www.npmjs.com/package/@rbxts/chatty)
 - [@rbxts/chroma](https://www.npmjs.com/package/@rbxts/chroma) - A lightweight theming system for creating context-aware UI themes in Roblox with .
+- [@rbxts/chrono](https://www.npmjs.com/package/@rbxts/chrono) - Chrono (custom character replication for Roblox) packaged for roblox-ts, with TypeScript types
 - [@rbxts/clack](https://www.npmjs.com/package/@rbxts/clack) - User input helper classes
 - [@rbxts/clan-labs](https://www.npmjs.com/package/@rbxts/clan-labs) - An object-orientated TypeScript implementation of all public known ClanLabs apis.
 - [@rbxts/clanware-justice-sdk](https://www.npmjs.com/package/@rbxts/clanware-justice-sdk) - Clanware Justice API SDK for Roblox
