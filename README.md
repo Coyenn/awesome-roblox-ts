@@ -686,6 +686,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/roblox-observers](https://www.npmjs.com/package/@rbxts/roblox-observers) - Observers to help simplify some specific event handling.
 - [@rbxts/roblox-parallel-worker](https://www.npmjs.com/package/@rbxts/roblox-parallel-worker) - A ModuleScript library designed to abstract away Roblox's Actor model for parallel execution in favor of a simple task distribution module which handles the lifetime execution of a parallel task!
 - [@rbxts/roblox-postgrest](https://www.npmjs.com/package/@rbxts/roblox-postgrest) - A TypeScript client library for PostgREST designed for Roblox games using roblox-ts.
+- [@rbxts/roblox-schema](https://www.npmjs.com/package/@rbxts/roblox-schema) - Runtime schema validation for roblox-ts.
 - [@rbxts/roblox-spr](https://www.npmjs.com/package/@rbxts/roblox-spr) - Springs are powerful approach for describing fluid, physically-based animation. spr is a high-performance and user-friendly motion library for Roblox based on springs.
 - [@rbxts/roblox-state-machine](https://www.npmjs.com/package/@rbxts/roblox-state-machine) - A simple finite state machine implementation for RobloxTS
 - [@rbxts/roblox-supabase](https://www.npmjs.com/package/@rbxts/roblox-supabase) - A type-safe PostgREST client for Supabase, designed for Roblox servers using roblox-ts
