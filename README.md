@@ -228,8 +228,6 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/event-emitter](https://www.npmjs.com/package/@rbxts/event-emitter) - "node:events" implementation in roblox-ts
 - [@rbxts/eventemitter](https://www.npmjs.com/package/@rbxts/eventemitter) - Node.js-like EventEmitter classes, one using coroutines for speed and one using BindableEvents for easy error logging.
 - [@rbxts/evlightning](https://www.npmjs.com/package/@rbxts/evlightning) - EvLightning by evaera with types
-- [@rbxts/evxryy-collect](https://www.npmjs.com/package/@rbxts/evxryy-collect) - Garbage collection/cleanup utility module
-- [@rbxts/evxryy-option](https://www.npmjs.com/package/@rbxts/evxryy-option)
 - [@rbxts/expect](https://www.npmjs.com/package/@rbxts/expect) - Test-agnostic assertion library for ROBLOX.
 - [@rbxts/experimental-reflect](https://www.npmjs.com/package/@rbxts/experimental-reflect) - An experimental and incomplete Roblox-TS implementation of the Reflect Metadata API.
 - [@rbxts/extendable-resources](https://www.npmjs.com/package/@rbxts/extendable-resources) - An extendable object retrieval system for defining folders.
@@ -482,7 +480,6 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/networked-signals](https://www.npmjs.com/package/@rbxts/networked-signals) - A TypeScript wrapper for RemoteEvents that provides a type-safe interface for networked events in a Roblox game.
 - [@rbxts/next-roblox](https://www.npmjs.com/package/@rbxts/next-roblox) - A Next.js-inspired routing library for Roblox using @rbxts/react.
 - [@rbxts/nextcast](https://www.npmjs.com/package/@rbxts/nextcast) - A FastCast-like method for simulating projectile physics.
-- [@rbxts/nexus_ts](https://www.npmjs.com/package/@rbxts/nexus_ts)
 - [@rbxts/noobpath](https://www.npmjs.com/package/@rbxts/noobpath) - Pathfinding module script with Auto Timeout, Non-humanoid support and Waypoint adjustments - Now with TypeScript typings!
 - [@rbxts/number](https://www.npmjs.com/package/@rbxts/number) - Polyfills for Number.
 - [@rbxts/number-manipulator](https://www.npmjs.com/package/@rbxts/number-manipulator) - Number manipulator in roblox-ts
