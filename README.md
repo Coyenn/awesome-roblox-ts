@@ -351,6 +351,7 @@ A list of all packages for [roblox-ts](https://roblox-ts.com/).
 - [@rbxts/jecs-braces](https://www.npmjs.com/package/@rbxts/jecs-braces)
 - [@rbxts/jecs-gizmo](https://www.npmjs.com/package/@rbxts/jecs-gizmo) - Utility for debug gizmos for Jecs.
 - [@rbxts/jecs-hooks](https://www.npmjs.com/package/@rbxts/jecs-hooks) - Hooks for Jecs ECS
+- [@rbxts/jecs-relations](https://www.npmjs.com/package/@rbxts/jecs-relations)
 - [@rbxts/jecs-spring](https://www.npmjs.com/package/@rbxts/jecs-spring) - Utility for running springs in Jecs.
 - [@rbxts/jecs-topo-runtime](https://www.npmjs.com/package/@rbxts/jecs-topo-runtime) - A Runtime for Jecs
 - [@rbxts/jecs-utils](https://www.npmjs.com/package/@rbxts/jecs-utils) - Utilities for Jecs.
